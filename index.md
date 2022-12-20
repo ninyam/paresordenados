@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tituloindex
-subtitle: Subtitulo index
+title: Programa Virtual de Lectura Dirigida
+subtitle: PVLD
 sitemap:
   priority: 0.9
 ---
