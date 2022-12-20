@@ -42,9 +42,9 @@ Pares Ordenados tiene como principal objetivo brindar esta oportunidad a estudia
 </p>
 </div>
 
+### ¿Cómo?
 <div style="text-align: justify">
 <p>
-### ¿Cómo?
 Pares Ordenados se lleva a cabo virtualmente. Esto permite que los estudiantes de pregrado de cualquier institución encuentren un mentor de posgrado.
 </p>
 </div>
