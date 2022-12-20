@@ -20,7 +20,7 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 </div>
 
 ### ¿Para qué?
-Un PLD es una gran oportunidad para aquellos estudiantes interesados en seguir una educación superior en matemáticas y campos relacionados más allá del nivel de pregrado. Los estudiantes también obtendrán una valiosa experiencia en investigaciones y presentaciones de matemáticas. Además de los beneficios académicos, un PLD solidifica nuestra comunidad matemática latina al crear una sólida red social entre estudiantes de pregrado y posgrado o doctores en matemáticas.
+Un PLD es una gran oportunidad para aquellos estudiantes interesados en seguir una educación superior en matemáticas y campos relacionados más allá del nivel de pregrado. Los estudiantes también obtendrán una valiosa experiencia desarrollando lectura independiente de libros de posgrado y/o haciendo presentaciones en matemáticas. Además de los beneficios académicos, un PLD solidifica nuestra comunidad matemática latina al crear una red social entre estudiantes de pregrado y posgrado o doctores en matemáticas.
 
 ### ¿Para quién?
 Pares Ordenados tiene como principal objetivo brindar esta oportunidad a estudiantes de grupos subrepresentados o de entornos no tradicionales, así como a estudiantes de universidades no orientadas a la investigación. 
