@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: Pares Ordenados
+subtitle:
 sitemap:
   priority: 0.9
 ---
