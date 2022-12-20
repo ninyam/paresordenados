@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pares Ordenados
-#subtitle:
+subtitle: Programa Virtual de Lectura Dirigida
 sitemap:
   priority: 0.9
 ---
