@@ -37,13 +37,13 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 <ol>
 <li>Los estudiantes de pregrado aplican para ser aprendices, ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
 
-<li>Los estudiantes de posgrado o los miembros postdoctorales aplican para ser mentores, ver <a href="https://ninyam.github.io/paresordenados/mentores">Mentores</a> para más información.</li>
+<li>Los estudiantes de posgrado o los miembros postdoctorales aplican para ser mentores, ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
 
 <li>Los aprendices y mentores son emparejados con base a sus interéses. Cada pareja decide su tema para el resto del semestre.</li>
 
 <li>Mentores y aprendices se reunen virtualmente durante <b>una hora cada semana</b>.</li>
 
-<li>A mediados del semestre, la pareja decide sobre el proyecto final y escribe un resumen corto sobre este, el cual debe ser enviado a la organizadora. Ver <a href="https://ninyam.github.io/paresordenados/proyectos">Proyectos</a> para más información.</li>
+<li>A mediados del semestre, la pareja decide sobre el proyecto final y escribe un resumen corto sobre este, el cual debe ser enviado a la organizadora. Ver <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a> para más información.</li>
 
 <li>Reunión final</li>
 </ol></p>
@@ -52,3 +52,5 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 ### ¿PARA QUÉ?
 
 Solidificar nuestra comunidad matemática latina al crear conexiones entre estudiantes de pregrado y posgrado o doctores en matemáticas.
+
+¡Ver <a href="{{ '/info' | prepend: site.baseurl }}">Información</a> para saber más sobre los PLD y la organización de Pares Ordenados! <img src="{{ '/assets/img/icons8-abscissa-50.png' | prepend: site.baseurl }}" id="about-img">
