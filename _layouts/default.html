@@ -41,20 +41,20 @@
     {% include meta_tags/base.html %}
     {% include externals/styling.html %}    
 </head>
-<header class="header">
-  <div class="navigation">
-      <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
-      <ul class="menu">
-          <li class="menu__entry"><a href="{{ '/index' | prepend: site.baseurl }}">Info</a></li>
-          <li class="menu__entry"><a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a></li>
-          <li class="menu__entry"><a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a></li>        
-          <li class="menu__entry"><a href="{{ '/contacto' | prepend: site.baseurl }}">Contacto</a></li>
-          <li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
-          <li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
-      </ul>
-  </div>
-</header>
 <body>
+  <header class="header">
+    <div class="navigation">
+        <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
+        <ul class="menu">
+            <li class="menu__entry"><a href="{{ '/index' | prepend: site.baseurl }}">Info</a></li>
+            <li class="menu__entry"><a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a></li>
+            <li class="menu__entry"><a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a></li>        
+            <li class="menu__entry"><a href="{{ '/contacto' | prepend: site.baseurl }}">Contacto</a></li>
+            <li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
+            <li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
+        </ul>
+    </div>
+  </header>
     <div class="header">
         <h1>Pares Ordenados</h1>
         <p>Programa Virtual de Lectura Dirigida</p>
