@@ -48,7 +48,7 @@ Cada par ordenado decide su tema para el resto del semestre. Algunos ejemplos de
 ### ¿PARA QUÉ?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es una gran oportunidad para aquellos estudiantes interesados en seguir una educación superior en matemáticas y campos relacionados más allá del nivel de pregrado. Por otra parte, es un medio para solidificar la <em>comunidad matemática Latinoamericana</em> al crear conexiones entre estudiantes de pregrado y matemáticos.
+<strong>Pares Ordenados</strong> es una gran oportunidad para aquellos estudiantes interesados en seguir una educación superior en matemáticas y campos relacionados más allá del nivel de pregrado. Por otra parte, es un medio para solidificar la <em>Comunidad Matemática Hispana</em> al crear conexiones entre estudiantes de pregrado y matemáticos.
 </p>
 </div>
 
