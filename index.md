@@ -37,7 +37,7 @@ Un PLD es una gran oportunidad para aquellos estudiantes interesados en seguir u
 
 <li>Brindar una vía menos intimidante para que los estudiantes aprendan temas que podrían haber parecido fuera de su alcance.</li>
 
-<li>Brindar a los estudiantes de pregrado la experiencia del aprendizaje independiente y presentar temas de índole matemática a la comunidad matemática.</li>
+<li>Ayudar a los estudiantes de pregrado a adquirir experiencia con el aprendizaje independiente y la exposición de temas de índole matemática a la comunidad matemática.</li>
 
 <li>Solidificar nuestra comunidad matemática latina al crear una red social entre estudiantes de pregrado y posgrado o doctores en matemáticas.</li>
 </ul>
