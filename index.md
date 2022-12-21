@@ -27,7 +27,7 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 ### ¿PARA QUIÉN?
 <div style="text-align: justify">
 <p>
-<em>Pares Ordenados</em> tiene como principal objetivo brindar esta oportunidad a estudiantes hispanohablantes alrededor del mundo que hagan parte de grupos historicamente discriminados o que pertenezcan a programas de pregrado no orientados a la investigación.
+<strong>Pares Ordenados</strong> tiene como principal objetivo brindar esta oportunidad a estudiantes hispanohablantes alrededor del mundo que hagan parte de grupos historicamente discriminados o que pertenezcan a programas de pregrado no orientados a la investigación.
 </p>
 </div>
 
@@ -35,7 +35,7 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 <div style="text-align: justify">
 <p><strong>Pares Ordenados</strong> se lleva a cabo virtualmente.
 <ol>
-<li>Los estudiantes de pregrado aplican para ser aprendices, ver <a href="https://ninyam.github.io/paresordenados/aprendices/">Aprendices</a>.</li>
+<li>Los estudiantes de pregrado aplican para ser aprendices, ver <a href="https://ninyam.github.io/paresordenados/aprendices/">Aprendices</a> para más información.</li>
 
 <li>Los estudiantes de posgrado o los miembros postdoctorales aplican para ser mentores, ver <a href="https://ninyam.github.io/paresordenados/mentores/">Mentores</a>.</li>
 
@@ -43,11 +43,16 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 
 <li>Mentores y aprendices se reunen virtualmente durante <b>una hora cada semana</b>.</li>
 
-<li>A mediados del semestre, la pareja decide sobre el proyecto final y escribe un resumen corto sobre este. El proyecto final es entregado a final del semestre.</li>
+<li>A mediados del semestre, la pareja decide sobre el proyecto final y escribe un resumen corto sobre este, el cual debe ser enviado a la organizadora. Ver <a href="https://ninyam.github.io/paresordenados/proyectos/">Proyectos</a> para más información</li>
+
+<li>Reunión final</li>
 </ol></p>
 </div>
 
 ### ¿PARA QUÉ?
+
+Solidificar nuestra comunidad matemática latina al crear conexiones entre estudiantes de pregrado y posgrado o doctores en matemáticas.
+
 #### Beneficios para los aprendices:
 <div style="text-align: justify">
 <p><ul>
@@ -63,7 +68,7 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 <div style="text-align: justify">
 <p><ul>
 <li>Brindar a los estudiantes de posgrado y a los doctores en inicio de su carrera la oportunidad de actuar como mentores y obtener un tipo diferente de experiencia docente.</li>
-<li>Solidificar nuestra comunidad matemática latina al crear conexiones entre estudiantes de pregrado y posgrado o doctores en matemáticas.</li>
+<li></li>
 </ul></p>
 </div>
 
