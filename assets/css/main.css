@@ -92,11 +92,11 @@
 /* =Titles *//*************************************************************/
   .page-title {
     margin: 30px auto;
-    text-align: center; }
+    text-align: left; }
 
   .page-title__text {
     font-weight: 700;
-    font-size: 150%; }
+    font-size: 100%; }
 
   .page-title__subtitle {
     font-weight: 400;
