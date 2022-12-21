@@ -24,14 +24,14 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 </p>
 </div>-->
 
-#### ¿PARA QUIÉN?
+### ¿PARA QUIÉN?
 <div style="text-align: justify">
 <p>
 <strong>Pares Ordenados</strong> tiene como principal objetivo brindar esta oportunidad a estudiantes hispanohablantes alrededor del mundo que hagan parte de grupos historicamente discriminados o que pertenezcan a programas de pregrado no orientados a la investigación.
 </p>
 </div>
 
-#### ¿CÓMO?
+### ¿CÓMO?
 <div style="text-align: justify">
 <p><strong>Pares Ordenados</strong> se lleva a cabo virtualmente.
 <ol>
@@ -47,8 +47,8 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 </ol></p>
 </div>
 
-#### ¿PARA QUÉ?
-##### Beneficios para los aprendices:
+### ¿PARA QUÉ?
+#### Beneficios para los aprendices:
 <div style="text-align: justify">
 <p><ul>
 <li>Brindar a los aprendices la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
@@ -59,7 +59,7 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 </ul></p>
 </div>
 
-##### Beneficios para los mentores:
+#### Beneficios para los mentores:
 <div style="text-align: justify">
 <p><ul>
 <li>Brindar a los estudiantes de posgrado y a los doctores en inicio de su carrera la oportunidad de actuar como mentores y obtener un tipo diferente de experiencia docente.</li>
