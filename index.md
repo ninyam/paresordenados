@@ -24,27 +24,17 @@ sitemap:
 <div style="text-align: justify">
 <p><strong>Pares Ordenados</strong> se lleva a cabo virtualmente.
 <ol>
-<li>Los estudiantes de pregrado aplican para ser aprendices, ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
+	<li>Los estudiantes de pregrado aplican para ser aprendices, ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
 
-<li>Los estudiantes de posgrado, o los doctores en matemáticas que se encuentren en los inicios de sus carreras, aplican para ser mentores, ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
+	<li>Los estudiantes de posgrado, o los doctores en matemáticas que se encuentren en los inicios de sus carreras, aplican para ser mentores, ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
 
-<li>Aprendices y mentores son emparejados con base a sus interéses académicos; cada pareja será llamada un <b>par ordenados, (mentor/a, aprendiz)</b>.
-<br>
-Cada par ordenado decide su tema para el resto del semestre, ver ejemplos <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a> para información sobre temas de estudio.
+	<li>Aprendices y mentores son emparejados con base a sus interéses académicos. Cada pareja escoge un tema de estudio para el semestre; ver ejemplos de temas de estudios en <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a>.
 
-Algunos ejemplos de temas de estudio son:
-	<ul>
-	<li>Una introducción a un tema no cubierto por las materias departamentales.</li>
-	<li>Una lectura en profundidad de un teorema particular o un conjunto de teoremas.</li>
-	<li>Un tratamiento más avanzado de un tema estándar.</li>
-	</ul>
-</li>
+	<li>Cada par ordenado (mentor/a,aprendiz) se reune virtualmente durante <b>una hora cada semana</b>.</li>
 
-<li>Los pares ordenados se reunen virtualmente durante <b>una hora cada semana</b>.</li>
+	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a la organizadora. Ver <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a> para más información.</li>
 
-<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a la organizadora. Ver <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a> para más información.</li>
-
-<li>Al final del semestre se realiza una integración virtual con todos los pares ordenados.</li>
+	<li>Al final del semestre se realiza una integración virtual con todos los pares ordenados.</li>
 </ol></p>
 </div>
 
