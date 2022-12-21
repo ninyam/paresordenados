@@ -159,15 +159,13 @@
   .PageNavigation a {
     display: block;
     width: 50%;
-    float: right;
+    float: left;
     margin: 1em 0;
   }
 
   .PageNavigation .next {
     text-align: right;
   }
-
-  
 
 /* Agregado por Niny oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo*/
 .navbar {
@@ -176,7 +174,7 @@
 }
 
 .navbar a {
-  float: left;
+  float: right;
   font-size: 16px;
   color: #828282;
   text-align: center;
