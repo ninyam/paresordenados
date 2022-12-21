@@ -158,7 +158,7 @@
 
   .PageNavigation a {
     display: block;
-    width: 50%;
+    width: 10%;
     float: left;
     margin: 1em 0;
   }
@@ -171,7 +171,6 @@
 .navbar {
   overflow: hidden;
   background-color: white;
-  padding: 14px 0;
 }
 
 .navbar a {
