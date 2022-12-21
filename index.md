@@ -27,7 +27,7 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 ### ¿Para qué?
 <div style="text-align: justify">
 <p>
-<ul>
+<ol>
 <li>Brindar a los aprendices la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
 
 <li>Brindar una vía menos intimidante para que los aprendices exploren temas que podrían haber parecido fuera de su alcance.</li>
@@ -41,7 +41,7 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 <li>Brindar a los estudiantes de posgrado y a los doctores en inicio de su carrera la oportunidad de actuar como mentores y obtener un tipo diferente de experiencia docente.</li>
 
 <li>Solidificar nuestra comunidad matemática latina al crear conexiones entre estudiantes de pregrado y posgrado o doctores en matemáticas.</li>
-</ul>
+</ol>
 </p>
 </div>
 
