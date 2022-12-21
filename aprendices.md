@@ -13,3 +13,4 @@ title: Aprendices
 <li>Ayudar a los aprendices adquirir experiencia en comunicación oral o escrita de las matemáticas.</li>
 </ul></p>
 </div>
+>>>>>>> bafff7284258cdd479aa27bf454c56c12516155b
