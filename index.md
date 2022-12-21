@@ -28,13 +28,19 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 <div style="text-align: justify">
 <p>
 Un PLD es una gran oportunidad para aquellos estudiantes interesados en seguir una educación superior en matemáticas y campos relacionados más allá del nivel de pregrado.
+<ul>
+<li>Proporcionar un ambiente divertido y libre de estrés para que los estudiantes de pregrado aprendan matemáticas al estilo de un curso de lectura dirigida con un profesor.</li>
 
-- Proporcionar un ambiente divertido y libre de estrés para que los estudiantes de pregrado aprendan matemáticas al estilo de un curso de lectura dirigida con un profesor.
-- Brindar a los estudiantes de pregrado la capacidad de explorar temas que quizás no vean en el plan de estudios estándar.
-- Exponer a los estudiantes de pregrado a las matemáticas fuera de un salón de clases.
-- Brindar una vía menos intimidante para que los estudiantes aprendan temas que podrían haber parecido fuera de su alcance.
-- Brindar a los estudiantes de pregrado la experiencia del aprendizaje independiente y presentar temas de índole matemática a la comunidad matemática.
-- Solidificar nuestra comunidad matemática latina al crear una red social entre estudiantes de pregrado y posgrado o doctores en matemáticas.
+<li>Brindar a los estudiantes de pregrado la capacidad de explorar temas que quizás no vean en el plan de estudios estándar.</li>
+
+<li>Exponer a los estudiantes de pregrado a las matemáticas fuera de un salón de clases.</li>
+
+<li>Brindar una vía menos intimidante para que los estudiantes aprendan temas que podrían haber parecido fuera de su alcance.</li>
+
+<li>Brindar a los estudiantes de pregrado la experiencia del aprendizaje independiente y presentar temas de índole matemática a la comunidad matemática.</li>
+
+<li>Solidificar nuestra comunidad matemática latina al crear una red social entre estudiantes de pregrado y posgrado o doctores en matemáticas.</li>
+</ul>
 </p>
 </div>
 
