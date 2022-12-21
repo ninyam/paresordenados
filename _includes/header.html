@@ -3,16 +3,19 @@
     <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
     <ul class="menu">
         <li class="menu__entry"><a href="{{ '/index' | prepend: site.baseurl }}">Info</a></li>
-            <div class="subnav-content">
-              <a href="#company">Company</a>
-              <a href="#team">Team</a>
-              <a href="#careers">Careers</a>
-            </div>
         <li class="menu__entry"><a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a></li>
         <li class="menu__entry"><a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a></li>        
         <li class="menu__entry"><a href="{{ '/contacto' | prepend: site.baseurl }}">Contacto</a></li>
         <li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
         <li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
+        <div class="subnav">
+            <button class="subnavbtn">Home <i class="fa fa-caret-down"></i></button>
+            <div class="subnav-content">
+              <a href="#company">Company</a>
+              <a href="#team">Team</a>
+              <a href="#careers">Careers</a>
+            </div>
+        </div>
     </ul>
 </div>
 <!--<ul class="social-links">
