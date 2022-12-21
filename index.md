@@ -35,7 +35,7 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 <div style="text-align: justify">
 <p><strong>Pares Ordenados</strong> se lleva a cabo virtualmente.
 <ol>
-<li>Los estudiantes de pregrado aplican para ser aprendices, ver <a href="https://ninyam.github.io/paresordenados/aprendices">Aprendices</a> para más información.</li>
+<li>Los estudiantes de pregrado aplican para ser aprendices, ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
 
 <li>Los estudiantes de posgrado o los miembros postdoctorales aplican para ser mentores, ver <a href="https://ninyam.github.io/paresordenados/mentores">Mentores</a> para más información.</li>
 
