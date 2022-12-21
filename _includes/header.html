@@ -2,20 +2,19 @@
     <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
     <div class="navbar">
         <a href="{{ '/index' | prepend: site.baseurl }}">Info</a>
+        <div class="dropdown">
+            <button class="dropbtn">
+                <a href="{{ '/index' | prepend: site.baseurl }}">Info</a> <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+              <a href="#¿QUÉ ES?">¿QUÉ ES?</a>
+              <a href="#">Link 2</a>
+              <a href="#">Link 3</a>
+            </div>
+          </div>
         <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a>
         <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a>
-        <a href="{{ '/contacto' | prepend: site.baseurl }}">Contacto</a>
-        <a href="#news">News</a>
-        <div class="dropdown">
-          <button class="dropbtn">Dropdown 
-            <i class="fa fa-caret-down"></i>
-          </button>
-          <div class="dropdown-content">
-            <a href="#">Link 1</a>
-            <a href="#">Link 2</a>
-            <a href="#">Link 3</a>
-          </div>
-        </div> 
+        <a href="{{ '/contacto' | prepend: site.baseurl }}">Contacto</a>     
       </div>
 <!--<div class="navigation">
     <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>

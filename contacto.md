@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aprendices
+title: Contacto
 ---
 
 ¿Dudas, comentarios, sugerencias?
