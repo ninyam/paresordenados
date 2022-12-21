@@ -27,7 +27,6 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 ### ¿Para qué?
 <div style="text-align: justify">
 <p>
-Un PLD es una gran oportunidad para aquellos estudiantes interesados en seguir una educación superior en matemáticas y campos relacionados más allá del nivel de pregrado.
 <ul>
 <li>Proporcionar un ambiente divertido y libre de estrés para que los estudiantes de pregrado aprendan matemáticas al estilo de un curso de lectura dirigida con un profesor.</li>
 
