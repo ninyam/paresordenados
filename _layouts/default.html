@@ -42,46 +42,44 @@
     {% include externals/styling.html %}    
 </head>
 <body>
-    <div class="header">
-        <h1>Pares Ordenados</h1>
-        <p>Programa Virtual de Lectura Dirigida</p>
-    </div>
-    <div class="navigation">      
-      <ul class="menu">
-          <li class="menu__entry"><a href="{{ '/index' | prepend: site.baseurl }}">Info</a></li>
-          <li class="menu__entry"><a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a></li>
-          <li class="menu__entry"><a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a></li>        
-          <li class="menu__entry"><a href="{{ '/contacto' | prepend: site.baseurl }}">Contacto</a></li>
-          <li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
-          <li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
-      </ul>
+  <div class="header">
+    <h1>Pares Ordenados</h1>
+    <p>Programa Virtual de Lectura Dirigida</p>
   </div>
-    <div class="wrapper">        
-        {{ content }}
-    </div>
-    {% include externals/scripting.html %}
-    <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="arrow up"></i></button>
-    <script>
-        // Get the button
-        let mybutton = document.getElementById("myBtn");
-        
-        // When the user scrolls down 20px from the top of the document, show the button
-        window.onscroll = function() {scrollFunction()};
-        
-        function scrollFunction() {
-          if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-            mybutton.style.display = "block";
-          } else {
-            mybutton.style.display = "none";
-          }
-        }
-        
-        // When the user clicks on the button, scroll to the top of the document
-        function topFunction() {
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
-        }
-    </script>
+  <div class="navigation">      
+    <ul class="menu">
+      <li class="menu__entry"><a href="{{ '/index' | prepend: site.baseurl }}">Info</a></li>
+      <li class="menu__entry"><a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a></li>
+      <li class="menu__entry"><a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a></li>        
+      <li class="menu__entry"><a href="{{ '/contacto' | prepend: site.baseurl }}">Contacto</a></li>
+      <li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
+      <li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
+    </ul>
+  </div>
+  <div class="wrapper">        
+    {{ content }}
+  </div>
+  {% include externals/scripting.html %}
+  <button onclick="topFunction()" id="myBtn" title="Go to top">
+    <i class="arrow up"></i>
+  </button>
+  <script>
+    // Get the button
+    let mybutton = document.getElementById("myBtn");        
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {scrollFunction()};
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        mybutton.style.display = "block";} 
+        else {
+          mybutton.style.display = "none";}
+      }
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+  </script>
 </body>
 </html>
 <!--{% include header.html %}-->
