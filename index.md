@@ -27,7 +27,7 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 ### ¿PARA QUIÉN?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> tiene como principal objetivo brindar esta oportunidad a estudiantes hispanohablantes alrededor del mundo que hagan parte de grupos historicamente discriminados o que pertenezcan a programas de pregrado no orientados a la investigación.
+<em>Pares Ordenados</em> tiene como principal objetivo brindar esta oportunidad a estudiantes hispanohablantes alrededor del mundo que hagan parte de grupos historicamente discriminados o que pertenezcan a programas de pregrado no orientados a la investigación.
 </p>
 </div>
 
@@ -35,13 +35,13 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 <div style="text-align: justify">
 <p><strong>Pares Ordenados</strong> se lleva a cabo virtualmente.
 <ol>
-<li>Los estudiantes de pregrado aplican para ser aprendices. En su aplicación los estudiantes proporcionan información acerca de sus orígenes e interéses académicos.</li>
+<li>Los estudiantes de pregrado aplican para ser aprendices, ver <a href="https://ninyam.github.io/paresordenados/aprendices/">Aprendices</a>.</li>
 
-<li>Los estudiantes de posgrado o los miembros postdoctorales aplican para ser mentores. Los mentores deben estar haciendo, o haber terminado recientemente, un doctorado en matemáticas con énfasis en la investigación.</li>
+<li>Los estudiantes de posgrado o los miembros postdoctorales aplican para ser mentores, ver <a href="https://ninyam.github.io/paresordenados/mentores/">Mentores</a>.</li>
 
 <li>Los aprendices y mentores son emparejados con base a sus interéses. Cada pareja decide su tema para el resto del semestre.</li>
 
-<li>Mentores y aprendices se reunen virtualmente durante <strong>una hora cada semana</strong>.</li>
+<li>Mentores y aprendices se reunen virtualmente durante <b>una hora cada semana</b>.</li>
 
 <li>A mediados del semestre, la pareja decide sobre el proyecto final y escribe un resumen corto sobre este. El proyecto final es entregado a final del semestre.</li>
 </ol></p>
