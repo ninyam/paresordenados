@@ -1,5 +1,5 @@
 # Site settings
-title: Pares Ordenados
+title: Pares Ordenados 
 description: Programa virtual de lectura dirigida para estudiantes de pregrado en Matemáticas
 
 baseurl: "/paresordenados" # the subpath of your site, e.g. /blog/
