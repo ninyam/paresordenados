@@ -4,25 +4,14 @@ title: Información General
 #subtitle:
 sitemap:
   priority: 0.9
----
-<!--<img src="{{ '/assets/img/icons8-abscissa-50.png' | prepend: site.baseurl }}" id="about-img">
-<div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
-</div>-->	
+---	
 
 ### ¿QUÉ ES?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es un programa virtual de lectura dirigida. Los Programas de Lectura Dirigida (PLD) se encargan de conectar estudiantes de pregrado con estudiantes de posgrado en matemáticas, o con doctores en matemáticas que se encuentren en los inicios de sus carreras (por ejemplo, haciendo una estadía postdoctoral), para que desarrollen proyectos de estudio independientes durante un semestre del periodo académico.
+<strong>Pares Ordenados</strong> es un <a href="{{ '/info' | prepend: site.baseurl }}">Programas de Lectura Dirigida (PLD)</a>, es decir, es un programa que se encargan de conectar estudiantes de pregrado con estudiantes de posgrado en matemáticas, o con doctores en matemáticas que se encuentren en los inicios de sus carreras (por ejemplo, haciendo una estadía postdoctoral), para que desarrollen proyectos de estudio independientes durante un semestre del periodo académico.
 </p>
 </div>
-<!--
-<div style="text-align: justify">
-<p>
-La primera versión de estos programas fue creada por un grupo de estudiantes de posgrado de la Universidad de Chicago en el 2003, ver <a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/">AMS Blogs on Teaching and Learning Mathematics</a>. En inglés reciben el nombre de Directed Reading Programs (DRP). En la actualidad existen muchos PLD en Estados Unidos. Mark Behrens, Moon Duchin, Kathryn Mann, Candice Price, Felipe Ramirez, Gigliola Staffilani y Bena Tshishiku iniciaron la DRP Network (Red de PLD). Mann y Tshishiku crearon un sitio web que compila información y recursos sobre los PLD, ver <a href="https://sites.google.com/view/drp-network/home?authuser=0">DRP Network</a>. En 2019, la psicóloga social de la Universidad de California, Berkeley, <a href="https://psychology.berkeley.edu/people/ozlem-ayduk">Ozlem Ayduk</a> realizó encuestas y entrevistas a los mentores y aprendices de un PLD para estudiar cómo estos programas contribuyen con la experiencia y formación de la identidad de los aprendices como estudiantes de matemáticas. Resultados de las <a href="https://drive.google.com/file/d/1v0T0f9Gw_-T1elHPvUl6PhQWn2g_pCD3/view">encuestas</a> y las <a href="https://drive.google.com/file/d/1NNcSrwUe9fBgF5yCh_x0Rk7EZUjR8A27/view">entrevistas</a>.
-</p>
-</div>-->
 
 ### ¿PARA QUIÉN?
 <div style="text-align: justify">
@@ -37,15 +26,22 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 <ol>
 <li>Los estudiantes de pregrado aplican para ser aprendices, ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
 
-<li>Los estudiantes de posgrado o los miembros postdoctorales aplican para ser mentores, ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
+<li>Los estudiantes de posgrado, o los doctores en matemáticas que se encuentren en los inicios de sus carreras, aplican para ser mentores, ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
 
-<li>Los aprendices y mentores son emparejados con base a sus interéses. Cada pareja decide su tema para el resto del semestre.</li>
+<li>Aprendices y mentores son emparejados con base a sus interéses académicos. Cada pareja será llamada un <b>par ordenados, (mentor@, aprendiz)</b>.
+Cada par ordenado decide su tema para el resto del semestre. Algunos ejemplos de temas de estudio son:
+	<ul>
+	<li>Una introducción a un tema no cubierto por las materias departamentales.</li>
+	<li>Una lectura en profundidad de un teorema particular o un conjunto de teoremas.</li>
+	<li>Un tratamiento más avanzado de un tema estándar.</li>
+	</ul>
+</li>
 
-<li>Mentores y aprendices se reunen virtualmente durante <b>una hora cada semana</b>.</li>
+<li>Los pares ordenados se reunen virtualmente durante <b>una hora cada semana</b>.</li>
 
-<li>A mediados del semestre, la pareja decide sobre el proyecto final y escribe un resumen corto sobre este, el cual debe ser enviado a la organizadora. Ver <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a> para más información.</li>
+<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a la organizadora. Ver <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a> para más información.</li>
 
-<li>Reunión final</li>
+<li>Al final del semestre se realiza una integración virtual con todos los pares ordenados.</li>
 </ol></p>
 </div>
 
