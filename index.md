@@ -28,14 +28,15 @@ sitemap:
 
 	<li>Los estudiantes de posgrado, o los doctores en matemáticas que se encuentren en los inicios de sus carreras, aplican para ser mentores, ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
 
-	<li>Aprendices y mentores son emparejados con base a sus interéses académicos. Cada pareja escoge un tema de estudio para el semestre; ver ejemplos de temas de estudios en <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a>.
+	<li>Aprendices y mentores son emparejados con base a sus interéses académicos. Cada pareja escoge un tema de estudio para el semestre; ver ejemplos de temas de estudios en <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a>.</li>
 
 	<li>Cada par ordenado (mentor/a,aprendiz) se reune virtualmente durante <b>una hora cada semana</b>.</li>
 
 	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a la organizadora. Ver <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a> para más información.</li>
 
 	<li>Al final del semestre se realiza una integración virtual con todos los pares ordenados.</li>
-</ol></p>
+</ol>
+</p>
 </div>
 
 ### ¿PARA QUÉ?
