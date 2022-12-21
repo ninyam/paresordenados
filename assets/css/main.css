@@ -49,8 +49,20 @@
     margin: 60px auto; }
 
 /* =Header *//*************************************************************/
+/* Agregado por Niny oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo*/
   .header {
-    overflow: hidden; }
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+  /* Page Content */
+  .content {padding:20px;}
+  /* Agregado por Niny oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo*/
+
+  /*.header {
+    overflow: hidden; }*/
 
   .navigation {    
     font-size: 16px;
@@ -156,14 +168,12 @@
     width: auto;
     overflow: hidden;
   }
-
   .PageNavigation a {
     display: block;
     width: 50%;
     float: left;
     margin: 1em 0;
   }
-
   .PageNavigation .next {
     text-align: right;
   }
@@ -173,7 +183,6 @@
   overflow: hidden;
   background-color: white;
 }
-
 .navbar a {
   float: left;
   font-size: 16px;
@@ -182,12 +191,10 @@
   padding: 14px 16px;
   text-decoration: none;
 }
-
 .dropdown {
   float: left;
   overflow: hidden;
 }
-
 .dropdown .dropbtn {
   font-size: 16px;  
   border: none;
@@ -198,11 +205,9 @@
   font-family: inherit;
   margin: 0;
 }
-
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: white;
 }
-
 .dropdown-content {
   display: none;
   position: absolute;
@@ -211,7 +216,6 @@
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
-
 .dropdown-content a {
   float: none;
   color: #828282;
@@ -220,11 +224,9 @@
   display: block;
   text-align: left;
 }
-
 .dropdown-content a:hover {
   background-color: white;
 }
-
 .dropdown:hover .dropdown-content {
   display: block;
 }
