@@ -24,6 +24,13 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 </p>
 </div>-->
 
+### ¿PARA QUIÉN?
+<div style="text-align: justify">
+<p>
+<strong>Pares Ordenados</strong> tiene como principal objetivo brindar esta oportunidad a estudiantes hispanohablantes alrededor del mundo que hagan parte de grupos historicamente discriminados o que pertenezcan a programas de pregrado no orientados a la investigación.
+</p>
+</div>
+
 ### ¿CÓMO?
 <div style="text-align: justify">
 <p><strong>Pares Ordenados</strong> se lleva a cabo virtualmente.
@@ -58,13 +65,6 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 <li>Brindar a los estudiantes de posgrado y a los doctores en inicio de su carrera la oportunidad de actuar como mentores y obtener un tipo diferente de experiencia docente.</li>
 <li>Solidificar nuestra comunidad matemática latina al crear conexiones entre estudiantes de pregrado y posgrado o doctores en matemáticas.</li>
 </ul></p>
-</div>
-
-### ¿PARA QUIÉN?
-<div style="text-align: justify">
-<p>
-<strong>Pares Ordenados</strong> tiene como principal objetivo brindar esta oportunidad a estudiantes hispanohablantes alrededor del mundo que hagan parte de grupos historicamente discriminados o que pertenezcan a programas de pregrado no orientados a la investigación.
-</p>
 </div>
 
 _Nota:_ Se usarán las palabras mentor/mentores con género neutro.
