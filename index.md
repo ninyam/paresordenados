@@ -28,15 +28,17 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 <div style="text-align: justify">
 <p>
 <ul>
-<li>Proporcionar un ambiente divertido y libre de estrés para que los estudiantes de pregrado aprendan matemáticas al estilo de un curso de lectura dirigida con un profesor.</li>
+<li>Brindar a los aprendices la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
 
-<li>Brindar a los estudiantes de pregrado la capacidad de explorar temas que quizás no vean en el plan de estudios estándar.</li>
+<li>Brindar una vía menos intimidante para que los aprendices exploren temas que podrían haber parecido fuera de su alcance.</li>
 
-<li>Exponer a los estudiantes de pregrado a las matemáticas fuera de un salón de clases.</li>
+<li>Proporcionar un ambiente divertido y libre de estrés para que los aprendices se familiaricen con temas de su interés.</li>
 
-<li>Brindar una vía menos intimidante para que los estudiantes aprendan temas que podrían haber parecido fuera de su alcance.</li>
+<li>Ayudar a los aprendices a adquirir experiencia con el aprendizaje independiente.</li>
 
-<li>Ayudar a los estudiantes de pregrado a adquirir experiencia con el aprendizaje independiente y la exposición de temas de índole matemática a la comunidad matemática.</li>
+<li>Ayudar a los aprendices adquirir experiencia en comunicación oral o escrita de las matemáticas.</li>
+
+<li>Brindar a los estudiantes de posgrado y a los doctores en inicio de su carrera la oportunidad de actuar como mentores y obtener un tipo diferente de experiencia docente.</li>
 
 <li>Solidificar nuestra comunidad matemática latina al crear conexiones entre estudiantes de pregrado y posgrado o doctores en matemáticas.</li>
 </ul>
@@ -46,13 +48,27 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 ### ¿Para quién?
 <div style="text-align: justify">
 <p>
-Pares Ordenados tiene como principal objetivo brindar esta oportunidad a estudiantes de grupos subrepresentados o de entornos no tradicionales, así como a estudiantes de universidades no orientadas a la investigación. 
+<strong>Pares Ordenados</strong> tiene como principal objetivo brindar esta oportunidad a estudiantes hispanohablantes alrededor del mundo que hagan parte de grupos historicamente discriminados o que pertenezcan a programas de pregrado no orientados a la investigación.
 </p>
 </div>
 
 ### ¿Cómo?
 <div style="text-align: justify">
 <p>
-Pares Ordenados se lleva a cabo virtualmente. Esto permite que los estudiantes de pregrado de cualquier institución encuentren un mentor de posgrado.
+<strong>Pares Ordenados</strong> se lleva a cabo virtualmente.
+
+<ul>
+<li>Los estudiantes de pregrado aplican para ser aprendices. En su aplicación los estudiantes proporcionan información acerca de sus orígenes, interéses y los atributos deseados del mentor.</li>
+
+<li>Los estudiantes de posgrado o los miembros postdoctorales aplican para ser mentores. Los mentores deben estar haciendo o haber terminado recientemente un doctorado en matemáticas con énfasis en la investigación.</li>
+
+<li>Con base a los interéses de los aprendices y los mentores se crea las parejas de trabajo. Cada pareja decide su tema para el resto del semestre.</li>
+
+<li>Mentores y aprendices se reunen virtualmente durante 1 hora cada semana. Se espera que los mentores y aprendices inviertan 1 hora y 3 horas semanales, respectivamente, preparandóse para la reunión.</li>
+
+<li>A mediados del semestre, la pareja decide sobre el proyecto final y escribe un resumen corto sobre este. El proyecto final es entregado a final del semestre.</li>
+</ul>
 </p>
 </div>
+
+_Nota:_ Se usarán las palabras mentor/mentores de manera neutra para significar tanto mentora/mentoras como mentor/mentores.
