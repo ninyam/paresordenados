@@ -160,7 +160,7 @@
     display: block;
     width: 50%;
     float: left;
-    margin: 1em 0;
+    margin: 1em 50px;
   }
   .PageNavigation .next {
     text-align: right;
