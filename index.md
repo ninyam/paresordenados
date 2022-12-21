@@ -51,6 +51,6 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 
 ### ¿PARA QUÉ?
 
-Solidificar nuestra comunidad matemática latina al crear conexiones entre estudiantes de pregrado y posgrado o doctores en matemáticas.
+<strong>Pares Ordenados</strong>Solidificar nuestra comunidad matemática latina al crear conexiones entre estudiantes de pregrado y posgrado o doctores en matemáticas.
 
-¡Ver <a href="{{ '/info' | prepend: site.baseurl }}">Información</a> para saber más sobre los PLD y la organización de Pares Ordenados! <img src="{{ '/assets/img/icons8-abscissa-50.png' | prepend: site.baseurl }}" id="about-img">
+¡Ver <a href="{{ '/info' | prepend: site.baseurl }}">Información</a> para saber más sobre los PLD y la organización de <strong>Pares Ordenados</strong>! <img src="{{ '/assets/img/icons8-abscissa-50.png' | prepend: site.baseurl }}" id="about-img">
