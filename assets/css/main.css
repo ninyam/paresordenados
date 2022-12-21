@@ -167,9 +167,11 @@
   }
 
 /* Agregado por Niny oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo*/
+
 .navbar {
   overflow: hidden;
   background-color: white;
+  left: 50px;
 }
 .navbar a {
   float: left;
