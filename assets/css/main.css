@@ -233,7 +233,7 @@
 /* =Main Page *//*************************************************************/
   #about-img {
     border-radius: 13%;
-    max-width: 125px;
+    max-width: 200px;
     margin: auto;
     margin-bottom: 3%;
   }
@@ -241,7 +241,7 @@
   #describe-text {
       display: block;
       text-align: center;
-      width: 200%; }
+      width: 100%; }
 
 /* =Small screen *//*************************************************************/
   @media (max-width: 500px) {
