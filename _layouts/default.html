@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!--
     {% include meta_tags/base.html %}
-    {% include externals/styling.html %}-->
+    {% include externals/styling.html %}
     <style>
         /* Header/Logo Title */
         .header {
@@ -19,6 +18,10 @@
         </style>
 </head>
 <body>
+    <div class="header">
+        <h1>Header</h1>
+        <p>My supercool header</p>
+    </div>
     <div class="wrapper">
         {% include header.html %}
         {{ content }}
