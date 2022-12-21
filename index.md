@@ -29,7 +29,10 @@ sitemap:
 <li>Los estudiantes de posgrado, o los doctores en matemáticas que se encuentren en los inicios de sus carreras, aplican para ser mentores, ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
 
 <li>Aprendices y mentores son emparejados con base a sus interéses académicos; cada pareja será llamada un <b>par ordenados, (mentor/a, aprendiz)</b>.
-Cada par ordenado decide su tema para el resto del semestre. Algunos ejemplos de temas de estudio son:
+<br>
+Cada par ordenado decide su tema para el resto del semestre, ver ejemplos <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a> para información sobre temas de estudio.
+
+Algunos ejemplos de temas de estudio son:
 	<ul>
 	<li>Una introducción a un tema no cubierto por las materias departamentales.</li>
 	<li>Una lectura en profundidad de un teorema particular o un conjunto de teoremas.</li>
