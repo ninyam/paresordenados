@@ -45,7 +45,7 @@
     color: #16a085; }
 
   .wrapper {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 60px auto; }
 
 /* =Header *//*************************************************************/
@@ -233,7 +233,7 @@
 /* =Main Page *//*************************************************************/
   #about-img {
     border-radius: 13%;
-    max-width: 200px;
+    max-width: 125px;
     margin: auto;
     margin-bottom: 3%;
   }
