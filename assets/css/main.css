@@ -169,11 +169,12 @@
 /* Agregado por Niny oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo*/
 
 .navbar {
+  left: 100px;
   overflow: hidden;
   background-color: white;
 }
 .navbar a {
-  float: center;
+  float: left;
   font-size: 16px;
   color: #828282;
   text-align: left;
