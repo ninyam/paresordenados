@@ -50,7 +50,10 @@ La primera versión de estos programas fue creada por un grupo de estudiantes de
 </div>
 
 ### ¿PARA QUÉ?
-
+<div style="text-align: justify">
+<p>
 <strong>Pares Ordenados</strong> es una gran oportunidad para aquellos estudiantes interesados en seguir una educación superior en matemáticas y campos relacionados más allá del nivel de pregrado. Por otra parte, es un medio para solidificar la <em>comunidad matemática Latinoamericana</em> al crear conexiones entre estudiantes de pregrado y matemáticos.
+</p>
+</div>
 
 ¡Ver <a href="{{ '/info' | prepend: site.baseurl }}">Información</a> para saber más sobre los PLD y la visión de <strong>Pares Ordenados</strong>! <img src="{{ '/assets/img/icons8-abscissa-50.png' | prepend: site.baseurl }}" id="about-img">
