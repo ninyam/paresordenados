@@ -174,7 +174,7 @@
 }
 
 .navbar a {
-  float: right;
+  float: left;
   font-size: 16px;
   color: #828282;
   text-align: center;
@@ -192,7 +192,7 @@
   border: none;
   outline: none;
   color: #828282;
-  padding: 14px 16px;
+  padding: 0;
   background-color: inherit;
   font-family: inherit;
   margin: 0;
