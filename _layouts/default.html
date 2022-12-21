@@ -12,6 +12,15 @@
         /* Page Content */
         .content {padding:20px;}
 
+        .arrow {
+            border: solid black;
+            border-width: 0 3px 3px 0;
+            display: inline-block;
+            padding: 3px;}
+        .up {
+            transform: rotate(-135deg);
+            -webkit-transform: rotate(-135deg);}
+
         #myBtn {
             display: none;
             position: fixed;
@@ -41,7 +50,7 @@
         {{ content }}
     </div>
     {% include externals/scripting.html %}
-    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+    <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="arrow up"></i></button>
     <script>
         // Get the button
         let mybutton = document.getElementById("myBtn");
