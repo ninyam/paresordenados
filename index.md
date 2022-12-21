@@ -52,7 +52,8 @@ Cada par ordenado decide su tema para el resto del semestre. Algunos ejemplos de
 </p>
 </div>
 <div class = "content-dir-item">
-    <p>¡Ver <a href="{{ '/info' | prepend: site.baseurl }}">Información</a> para saber más sobre los PLD y la visión de <strong>Pares Ordenados</strong>!</p>
-    <img src="{{ '/assets/img/icons8-abscissa-50.png' | prepend: site.baseurl }}" class = "mail" alt="img-mail" />
+    <p>¡Ver <a href="{{ '/info' | prepend: site.baseurl }}">Información</a> para saber más sobre los PLD y la visión de <strong>Pares Ordenados</strong>!
+	<span><img src="{{ '/assets/img/icons8-abscissa-50.png' | prepend: site.baseurl }}" id="about-img"></span>
+	</p>
 </div>
- <img src="{{ '/assets/img/icons8-abscissa-50.png' | prepend: site.baseurl }}" id="about-img">
+
