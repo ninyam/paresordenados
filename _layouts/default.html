@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    {% include meta_tags/base.html %}
-    {% include externals/styling.html %}
     <style>
         /* Header/Logo Title */
         .header {
@@ -10,12 +8,12 @@
           text-align: center;
           background: #16a085;
           color: white;
-          font-size: 30px;
-        }
-        
+          font-size: 30px;}        
         /* Page Content */
         .content {padding:20px;}
-        </style>
+    </style>    
+    {% include meta_tags/base.html %}
+    {% include externals/styling.html %}
 </head>
 <body>
     <div class="header">
