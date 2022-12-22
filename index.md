@@ -46,7 +46,7 @@ sitemap:
 </p>
 </div>
 <div class = "content-dir-item">
-    <p>¡Ver <a href="{{ '/info' | prepend: site.baseurl }}">Información</a> para saber más sobre los PLD y la visión de <strong>Pares Ordenados</strong>! <img src="{{ '/assets/img/icons8-abscissa-50.png' | prepend: site.baseurl }}" width="32" height="32" style="vertical-align:bottom">
+    <p>¡Ver <a href="{{ '/info' | prepend: site.baseurl }}">Información</a> para saber más sobre los PLD y la visión de <strong>Pares Ordenados</strong>! <img src="{{ '/assets/img/icons8-abscissa-100.png' | prepend: site.baseurl }}" width="32" height="32" style="vertical-align:bottom">
 	</p>
 </div>
 
