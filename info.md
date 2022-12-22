@@ -6,7 +6,7 @@ title: Información
 
 ### Contacto
 
-¡Hola! Mi nombre es Niny Arcila Maya. Soy docente asistente de investigación de la Universidad de Duke. Información sobre mí puede ser encontrada en mi página web institucional https://sites.duke.edu/ninyam/.
+¡Hola! Mi nombre es Niny Arcila Maya. Soy docente asistente de investigación de la Universidad de Duke. Información sobre mí puede ser encontrada en mi página web institucional [https://sites.duke.edu/ninyam/](https://sites.duke.edu/ninyam/).
 
 <img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle"> Preguntas - Comentarios - Sugerencias pueden ser enviadas a niny[.]arcilamaya[at]duke[.]edu.  
 
