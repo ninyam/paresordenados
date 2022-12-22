@@ -16,7 +16,7 @@
     line-height: 32px; }
 
   img {
-    display: block;
+    display: inside;
     max-width: 100%; }
 
   blockquote {
