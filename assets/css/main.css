@@ -171,7 +171,7 @@
   overflow: hidden;
   background-color: white;
   position: fixed;
-  top: 0;
+  top: 50px;
   width: 100%;
 }
 
