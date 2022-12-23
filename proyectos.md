@@ -2,6 +2,7 @@
 layout: page
 title: Recursos
 ---
+
 ### Temas de Estudios
 Algunos ejemplos de temas de estudio son:
 <ul>
