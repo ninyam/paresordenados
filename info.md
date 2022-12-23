@@ -5,13 +5,11 @@ title: Información
 
 
 ### Contacto
+¡Hola! Mi nombre es Niny Arcila Maya. Soy [docente asistente de investigación](https://sites.duke.edu/ninyam/) en el departamento de Matemáticas de la Universidad de Duke.
 
-¡Hola! Mi nombre es Niny Arcila Maya. Soy docente asistente de investigación de la Universidad de Duke. Información sobre mí puede ser encontrada en mi página web institucional [https://sites.duke.edu/ninyam/](https://sites.duke.edu/ninyam/).
+<img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle"> <strong>Preguntas - Comentarios - Sugerencias</strong> pueden ser enviadas a ```niny[.]arcilamaya[at]duke[.]edu```.
 
-<img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle"> Preguntas - Comentarios - Sugerencias pueden ser enviadas a niny[.]arcilamaya[at]duke[.]edu.  
-
-### Historia
-
+### Programas de Lectura Dirigida
 <div style="text-align: justify">
 <p>
 La primera versión de los PLD fue creada por un grupo de estudiantes de posgrado de la Universidad de Chicago en el 2003, ver <a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/">AMS Blogs on Teaching and Learning Mathematics</a>. En inglés reciben el nombre de Directed Reading Programs (DRP). Actualmente los PLD son muy populares y existen muchos en Estados Unidos. 
