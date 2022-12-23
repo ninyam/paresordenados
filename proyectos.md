@@ -11,7 +11,7 @@ Algunos ejemplos de temas de estudio son:
 </ul>
 
 ### Proyectos
-El proyecto final debe ser un producto tangibla que demuestre lo que el aprendiz estudió durante el curso de lectura. Por ejemplo,
+El proyecto final debe ser un producto tangible que demuestre lo que el aprendiz estudió durante el curso de lectura. Por ejemplo,
 <ul>
     <li>Hacer una presentación de  15 minutos durante la integración al final del semestre.</li>
     <li>Escribir un texto expositivo de 10 páginas explicando el tema de estudio.</li>
