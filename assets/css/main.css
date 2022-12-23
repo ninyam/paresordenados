@@ -197,6 +197,7 @@
 .dropdown {
   float: left;
   overflow: hidden;
+  position: sticky;
 }
 
 .dropdown .dropbtn {
