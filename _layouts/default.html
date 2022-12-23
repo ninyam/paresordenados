@@ -50,7 +50,25 @@
     <h1>Pares Ordenados <br> (mentores,aprendices)</h1>
     <p>Programa Virtual de Lectura Dirigida</p>
   </div>
-  <div class="navbar">        
+  <div class="topnav" id="myTopnav">
+    <a href="{{ '/aprendices' | prepend: site.baseurl }}" class="active">Aprendices</a>
+    <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a>
+    <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a>
+    <a href="{{ '/info' | prepend: site.baseurl }}">Información</a>
+    <a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a>
+    <a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a>
+    <div class="dropdown">
+      <button class="dropbtn">Dropdown 
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="#">Link 1</a>
+        <a href="#">Link 2</a>
+        <a href="#">Link 3</a>
+      </div>
+    </div>    
+  </div>
+  <!--<div class="navbar">        
     <a href="{{ '/index' | prepend: site.baseurl }}">Inicio</a> 
     <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a>
     <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a>
@@ -58,7 +76,7 @@
     <a href="{{ '/info' | prepend: site.baseurl }}">Información</a>
     <a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a>
     <a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a>
-  </div>
+  </div>-->
   <div class="wrapper">        
     {{ content }}
   </div>
@@ -81,6 +99,16 @@
     function topFunction() {
       document.body.scrollTop = 0;
       document.documentElement.scrollTop = 0;
+    }
+  </script>
+  <script>
+    function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+        x.className += " responsive";
+      } else {
+        x.className = "topnav";
+      }
     }
   </script>
 </body>
