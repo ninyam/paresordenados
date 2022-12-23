@@ -45,7 +45,26 @@ sitemap:
 <strong>Pares Ordenados</strong> es una gran oportunidad para aquellos estudiantes interesados en seguir una educación superior en matemáticas y campos relacionados más allá del nivel de pregrado. Por otra parte, es un medio para solidificar la <em>Comunidad Matemática Hispana</em> al crear conexiones entre estudiantes de pregrado y matemáticos.
 </p>
 </div>
+
+#### Beneficios para los aprendices:
+<div style="text-align: justify">
+<p><ul>
+<li>Brindar a los aprendices la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
+<li>Brindar una vía menos intimidante para que los aprendices exploren temas que pueden parecer fuera de su alcance.</li>
+<li>Proporcionar un ambiente de aprendizaje divertido y libre de estrés.</li>
+<li>Ayudar a los aprendices a adquirir experiencia con el aprendizaje independiente, y con la comunicación oral o escrita de las matemáticas.</li>
+</ul></p>
+</div>
+
+#### Beneficios para los mentores:
+<div style="text-align: justify">
+<p><ul>
+<li>Brindar a los estudiantes de posgrado y a los doctores en inicio de su carrera la oportunidad de actuar como mentores y obtener un tipo diferente de experiencia docente.</li>
+<li></li>
+</ul></p>
+</div>
+
 <div class = "content-dir-item">
-    <p>¡Ver <a href="{{ '/info' | prepend: site.baseurl }}">Información</a> para saber más sobre los PLD y la visión de <strong>Pares Ordenados</strong>! <img src="{{ '/assets/img/icons8-abscissa-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle">
+    <img src="{{ '/assets/img/icons8-abscissa-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle"> <p>¡Ver <a href="{{ '/info' | prepend: site.baseurl }}">Información</a> para saber más sobre los PLD y la visión de <strong>Pares Ordenados</strong>! 
 	</p>
 </div>
