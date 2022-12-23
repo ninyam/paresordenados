@@ -32,7 +32,7 @@ sitemap:
 
 	<li>Cada par ordenado <b>(mentor, aprendiz)</b> se reune virtualmente durante <b>una hora cada semana</b>.</li>
 
-	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a la organizadora. Ver <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a> para más información.</li>
+	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a la organizadora. Ver <a href="{{ '/proyectos' | prepend: site.baseurl }}">Recursos</a> para más información.</li>
 
 	<li>Al final del semestre se realiza una integración virtual con todos los pares ordenados.</li>
 </ol>
@@ -49,7 +49,7 @@ sitemap:
 <div style="text-align: justify">
 <ul>
 	<li>Brindar a los aprendices la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
-	<li>Brindar una vía menos intimidante para que los aprendices exploren temas que pueden parecer fuera de su alcance.</li>
+	<li>Facilitar una vía menos intimidante para que los aprendices exploren temas que pueden parecer fuera de su alcance.</li>
 	<li>Proporcionar un ambiente de aprendizaje divertido y libre de estrés.</li>
 	<li>Ayudar a los aprendices a adquirir experiencia con el aprendizaje independiente, y con la comunicación oral o escrita de las matemáticas.</li>
 </ul>
@@ -58,8 +58,9 @@ sitemap:
 #### Beneficios para los mentores:
 <div style="text-align: justify">
 <ul>
-	<li>Brindar a los estudiantes de posgrado y a los doctores en inicio de su carrera la oportunidad de actuar como mentores y obtener un tipo diferente de experiencia docente.</li>
-	<li></li>
+	<li>Explorar alguna área interesante de las matemáticas.</li>
+	<li>Brindar a los mentores la oportunidad de obtener un tipo diferente de experiencia docente.</li>	
+	<li>Desarrollar habilidades de enseñanza que se ven geniales en la hoja de vida.</li>
 </ul>
 </div>
 
