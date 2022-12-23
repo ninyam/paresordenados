@@ -170,7 +170,7 @@
 .topnav {
   overflow: hidden;
   background-color: white;
-  position: sticky; /* Set the navbar to fixed position */
+  position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
 }
@@ -197,7 +197,6 @@
 .dropdown {
   float: left;
   overflow: hidden;
-  position: fixed;
 }
 
 .dropdown .dropbtn {
@@ -213,7 +212,7 @@
 
 .dropdown-content {
   display: none;
-  position: absolute;
+  position: fixed;
   background-color: white;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
