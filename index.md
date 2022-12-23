@@ -22,7 +22,8 @@ sitemap:
 
 ### ¿CÓMO?
 <div style="text-align: justify">
-	<ol>
+<p><strong>Pares Ordenados</strong> se lleva a cabo virtualmente.</p>
+<ol>
 	<li>Los estudiantes de pregrado aplican para ser aprendices, ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
 
 	<li>Los estudiantes de posgrado, o los doctores en matemáticas que se encuentren en los inicios de sus carreras, aplican para ser mentores, ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
@@ -35,9 +36,6 @@ sitemap:
 
 	<li>Al final del semestre se realiza una integración virtual con todos los pares ordenados.</li>
 </ol>
-<p><strong>Pares Ordenados</strong> se lleva a cabo virtualmente.
-
-</p>
 </div>
 
 ### ¿PARA QUÉ?
@@ -49,20 +47,20 @@ sitemap:
 
 #### Beneficios para los aprendices:
 <div style="text-align: justify">
-<p><ul>
-<li>Brindar a los aprendices la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
-<li>Brindar una vía menos intimidante para que los aprendices exploren temas que pueden parecer fuera de su alcance.</li>
-<li>Proporcionar un ambiente de aprendizaje divertido y libre de estrés.</li>
-<li>Ayudar a los aprendices a adquirir experiencia con el aprendizaje independiente, y con la comunicación oral o escrita de las matemáticas.</li>
-</ul></p>
+<ul>
+	<li>Brindar a los aprendices la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
+	<li>Brindar una vía menos intimidante para que los aprendices exploren temas que pueden parecer fuera de su alcance.</li>
+	<li>Proporcionar un ambiente de aprendizaje divertido y libre de estrés.</li>
+	<li>Ayudar a los aprendices a adquirir experiencia con el aprendizaje independiente, y con la comunicación oral o escrita de las matemáticas.</li>
+</p>
 </div>
 
 #### Beneficios para los mentores:
 <div style="text-align: justify">
-<p><ul>
-<li>Brindar a los estudiantes de posgrado y a los doctores en inicio de su carrera la oportunidad de actuar como mentores y obtener un tipo diferente de experiencia docente.</li>
-<li></li>
-</ul></p>
+<ul>
+	<li>Brindar a los estudiantes de posgrado y a los doctores en inicio de su carrera la oportunidad de actuar como mentores y obtener un tipo diferente de experiencia docente.</li>
+	<li></li>
+</ul>
 </div>
 
 <div class = "content-dir-item">
