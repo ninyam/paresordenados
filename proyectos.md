@@ -15,7 +15,7 @@ El proyecto final debe ser un producto tangible que demuestre lo que el aprendiz
 <ul>
     <li>Hacer una presentación de  15 minutos durante la integración al final del semestre.</li>
     <li>Escribir un texto expositivo de 10 páginas explicando el tema de estudio.</li>
-    <li>Desarrollar una implementación del tema elegido en Python, Mathematica, Macaulay2, etc.</li>
+    <li>Desarrollar una implementación del tema elegido en Python, Mathematica, Macaulay2, Sage, etc.</li>
     <li>Poster.</li>
 </ul>
 
