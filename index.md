@@ -30,7 +30,7 @@ sitemap:
 
 	<li>Aprendices y mentores son emparejados con base a sus interéses académicos. Cada pareja escoge un tema de estudio para el semestre; ver ejemplos de temas de estudios en <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a>.</li>
 
-	<li>Cada par ordenado <b>(mentor/a,aprendiz)</b> se reune virtualmente durante <b>una hora cada semana</b>.</li>
+	<li>Cada par ordenado <b>(mentor, aprendiz)</b> se reune virtualmente durante <b>una hora cada semana</b>.</li>
 
 	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a la organizadora. Ver <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a> para más información.</li>
 
@@ -49,4 +49,3 @@ sitemap:
     <p>¡Ver <a href="{{ '/info' | prepend: site.baseurl }}">Información</a> para saber más sobre los PLD y la visión de <strong>Pares Ordenados</strong>! <img src="{{ '/assets/img/icons8-abscissa-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle">
 	</p>
 </div>
-

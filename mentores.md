@@ -3,6 +3,10 @@ layout: page
 title: Mentores
 ---
 
+¡Muchas gracias por su interés en participar en Pares Ordenados!
+
+<button class="button button1" href="#">Aplica Aquí</button>
+
 #### Beneficios para los mentores:
 <div style="text-align: justify">
 <p><ul>
