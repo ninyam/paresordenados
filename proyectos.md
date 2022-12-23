@@ -11,14 +11,19 @@ Algunos ejemplos de temas de estudio son:
     <li>Un tratamiento más avanzado de un tema estándar.</li>
     <li>Lectura de un artículo de investigación.</li>
 </ul>
-
-##### Ejemplos explícitos sobre temas de estudio
+#### Ejemplos explícitos sobre temas de estudio
 <a href="https://www.math.ucla.edu/~drp/past_projects.html">Universidad de California, Los Ángeles</a>
+<br>
 <a href="https://math.berkeley.edu/wp/drp/past-drp-projects/">Universidad de California, Berkeley</a>
+<br>
 <a href="https://math.uchicago.edu/~drp/past-projects/">Universidad de Chicago</a>
+<br>
 <a href="https://sites.google.com/view/twoples/about/past-years?authuser=0">Universidad de Duke</a>
+<br>
 <a href="https://www-users.cse.umn.edu/~mahrud/drp/bookshelf/">Universidad de Minnesota</a>
+<br>
 <a href="https://web.ma.utexas.edu/users/drp/projects.html">Universidad de Texas, Austin</a>
+<br>
 
 ### Proyectos
 El proyecto final debe ser un producto tangible que demuestre lo que el aprendiz estudió durante el curso de lectura. Por ejemplo,
