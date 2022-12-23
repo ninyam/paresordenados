@@ -5,7 +5,9 @@ title: Mentores
 
 ¡Muchas gracias por su interés en participar en Pares Ordenados!
 
-<button class="button button1" onclick="open('{{ '/mentores' | prepend: site.baseurl }}')">Aplica Aquí</button> 
+<button class="button button1" onclick="open('{{ '/mentores' | prepend: site.baseurl }}')">Aplicación para Mentores</button>
+
+
 #### Beneficios para los mentores:
 <div style="text-align: justify">
 <p><ul>
