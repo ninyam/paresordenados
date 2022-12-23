@@ -45,15 +45,20 @@ sitemap:
 </p>
 </div>
 
-#### Beneficios para los aprendices:
-<div style="text-align: justify">
+#### Beneficios para los aprendices: 
+<!--<div style="text-align: justify">
 <ul>
 	<li>Brindar a los aprendices la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
 	<li>Facilitar una vía menos intimidante para que los aprendices exploren temas que pueden parecer fuera de su alcance.</li>
 	<li>Proporcionar un ambiente de aprendizaje divertido y libre de estrés.</li>
 	<li>Ayudar a los aprendices a adquirir experiencia con el aprendizaje independiente, y con la comunicación oral o escrita de las matemáticas.</li>
 </ul>
-</div>
+</div>-->
+- Brindar a los aprendices la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.
+-Facilitar una vía menos intimidante para que los aprendices exploren temas que pueden parecer fuera de su alcance.
+- Proporcionar un ambiente de aprendizaje divertido y libre de estrés.
+- Ayudar a los aprendices a adquirir experiencia con el aprendizaje independiente, y con la comunicación oral o escrita de las matemáticas.
+
 
 #### Beneficios para los mentores:
 <div style="text-align: justify">
