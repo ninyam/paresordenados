@@ -16,7 +16,7 @@ sitemap:
 ### ¿PARA QUIÉN?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> tiene como principal objetivo brindar esta oportunidad a estudiantes hispanohablantes alrededor del mundo que hagan parte de grupos historicamente discriminados o que pertenezcan a programas de pregrado no orientados a la investigación.
+<strong>Pares Ordenados</strong> tiene como principal objetivo brindar esta oportunidad a estudiantes hispanohablantes alrededor del mundo que hagan parte de grupos históricamente discriminados o que pertenezcan a programas de pregrado no orientados a la investigación.
 </p>
 </div>
 
