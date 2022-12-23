@@ -170,8 +170,7 @@
 .topnav {
   overflow: hidden;
   background-color: white;
-  position: sticky;
-  top: 350px;
+  position: fixed;
   width: 100%;
 }
 
