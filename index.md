@@ -22,8 +22,7 @@ sitemap:
 
 ### ¿CÓMO?
 <div style="text-align: justify">
-<p><strong>Pares Ordenados</strong> se lleva a cabo virtualmente.
-<ol>
+	<ol>
 	<li>Los estudiantes de pregrado aplican para ser aprendices, ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
 
 	<li>Los estudiantes de posgrado, o los doctores en matemáticas que se encuentren en los inicios de sus carreras, aplican para ser mentores, ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
@@ -36,6 +35,8 @@ sitemap:
 
 	<li>Al final del semestre se realiza una integración virtual con todos los pares ordenados.</li>
 </ol>
+<p><strong>Pares Ordenados</strong> se lleva a cabo virtualmente.
+
 </p>
 </div>
 
