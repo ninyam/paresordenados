@@ -9,6 +9,8 @@ title: Información
 
 <img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle"> <strong>Preguntas - Comentarios - Sugerencias</strong> pueden ser enviadas a ```niny[.]arcilamaya[at]duke[.]edu```.
 
+
+
 ### Programas de Lectura Dirigida
 <div style="text-align: justify">
 <p>
