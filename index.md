@@ -35,7 +35,7 @@ sitemap:
 
 	<li>Los estudiantes de posgrado, o los doctores en matemáticas que se encuentren en los inicios de sus carreras, aplican para ser mentores, ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
 
-	<li>Aprendices y mentores son emparejados con base a sus interéses académicos. Cada pareja escoge un tema de estudio para el semestre; ver ejemplos de temas de estudios en <a href="{{ '/proyectos' | prepend: site.baseurl }}">Recursos</a>.</li>
+	<li>Aprendices y mentores son emparejados con base a sus interéses académicos. Cada pareja escoge un tema de estudio para el semestre; ver ejemplos de temas de estudios en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a>.</li>
 
 	<li>Cada par ordenado <b>(mentor, aprendiz)</b> se reune virtualmente durante <b>una hora cada semana</b>.</li>
 
