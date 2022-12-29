@@ -9,8 +9,7 @@ sitemap:
     <p>
         "La verdadera satisfacción de las matemáticas está en aprender de los demás y compartir con los demás."
     </p>
-    <footer>- <cite>[Bill Thurston](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)</cite>
-	</footer>
+    <footer>- <cite>Bill Thurston</cite></footer>
 </blockquote>
 
 ### ¿QUÉ ES?
