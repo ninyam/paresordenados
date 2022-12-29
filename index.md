@@ -45,7 +45,8 @@ sitemap:
 
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es una gran oportunidad para aquellos estudiantes interesados en seguir una educación superior en matemáticas y campos relacionados más allá del nivel de pregrado. Por otra parte, es un medio para solidificar la <em>Comunidad Matemática Hispana</em> al crear conexiones entre estudiantes de pregrado y matemáticos.
+<strong>Pares Ordenados</strong> es un medio para solidificar nuestra <em>Comunidad Matemática Hispana</em> al crear conexiones entre estudiantes de pregrado y matemáticos.
+<!--s una gran oportunidad para aquellos estudiantes interesados en seguir una educación superior en matemáticas y campos relacionados más allá del nivel de pregrado. Por otra parte, e-->
 </p>
 </div>
 
