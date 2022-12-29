@@ -12,7 +12,9 @@ El nivel de los temas de estudio puede ir desde básico hasta avanzado. Algunos 
     <li>Un tratamiento más avanzado de un tema estándar.</li>
     <li>Lectura de un artículo de investigación.</li>
 </ul>
-#### Ejemplos explícitos sobre temas de estudio
+
+En los siguientes enlaces puede encontrar ejemplos explícitos sobre temas de estudio:
+<br>
 <a href="https://www.math.ucla.edu/~drp/past_projects.html">Universidad de California, Los Ángeles</a>
 <br>
 <a href="https://math.berkeley.edu/wp/drp/past-drp-projects/">Universidad de California, Berkeley</a>
