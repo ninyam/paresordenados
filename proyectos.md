@@ -20,14 +20,9 @@ En los siguientes enlaces puede encontrar ejemplos explícitos sobre temas de es
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Alfreds Futterkiste </td>
+    <td> Maria Anders </td>
+    <td> Germany </td>
   </tr>
 </table>
 
