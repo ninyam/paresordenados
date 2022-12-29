@@ -45,7 +45,7 @@ sitemap:
 
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es un medio para solidificar nuestra <em>Comunidad Matemática Hispana</em> al crear conexiones entre estudiantes de pregrado y matemáticos.
+<strong>Pares Ordenados</strong> es un medio para solidificar nuestra <em>Comunidad Matemática Hispana</em> al crear conexiones entre los  estudiantes de pregrado, estudiantes de pregrado y académicos en los .
 <!--s una gran oportunidad para aquellos estudiantes interesados en seguir una educación superior en matemáticas y campos relacionados más allá del nivel de pregrado. Por otra parte, e-->
 </p>
 </div>
@@ -63,8 +63,8 @@ sitemap:
 #### Beneficios para los mentores:
 <div style="text-align: justify">
 <ul>
-	<li>Repasar un tema interesante/importante para el(la) mentor(a).</li>
 	<li>Brindar a los mentores un medio para obtener un tipo diferente de experiencia docente.</li>
+	<li>Repasar un tema interesante/importante.</li>
 </ul>
 </div>
 
