@@ -6,10 +6,7 @@ sitemap:
   priority: 0.9
 ---	
 
-> "La verdadera satisfacción de las matemáticas está en aprender de los demás y compartir con los demás. Todos nosotros tenemos una comprensión clara de algunas cosas y conceptos turbios de muchas más."
-
-[Bill Thurston](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
-Don't misuse it.
+> "La verdadera satisfacción de las matemáticas está en aprender de los demás y compartir con los demás. Todos nosotros tenemos una comprensión clara de algunas cosas y conceptos turbios de muchas más." - [Bill Thurston](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
 
 ### ¿QUÉ ES?
 <div style="text-align: justify">
@@ -44,9 +41,7 @@ Don't misuse it.
 </div>
 
 ### ¿PARA QUÉ?
-> ¿Qué es pertenecer? La medida en que un individuo se siente aceptado, valorado y legítimo dentro de la comunidad.
-[Deanna Haunsperger](https://www.youtube.com/watch?v=jwAE3iHi4vM)
-
+> "¿Qué es pertenecer? La medida en que un individuo se siente aceptado, valorado y legítimo dentro de la comunidad." - [Deanna Haunsperger](https://www.youtube.com/watch?v=jwAE3iHi4vM)
 
 <div style="text-align: justify">
 <p>
