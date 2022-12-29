@@ -44,6 +44,10 @@ Don't misuse it.
 </div>
 
 ### ¿PARA QUÉ?
+> ¿Qué es pertenecer? La medida en que un individuo se siente aceptado, valorado y legítimo dentro de la comunidad.
+[Deanna Haunsperger](https://www.youtube.com/watch?v=jwAE3iHi4vM)
+
+
 <div style="text-align: justify">
 <p>
 <strong>Pares Ordenados</strong> es una gran oportunidad para aquellos estudiantes interesados en seguir una educación superior en matemáticas y campos relacionados más allá del nivel de pregrado. Por otra parte, es un medio para solidificar la <em>Comunidad Matemática Hispana</em> al crear conexiones entre estudiantes de pregrado y matemáticos.
