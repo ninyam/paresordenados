@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---	
 
-> "La verdadera satisfacción de las matemáticas está en aprender de los demás y compartir con los demás. Todos nosotros tenemos una comprensión clara de algunas cosas y conceptos turbios de muchas más." - [Bill Thurston](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
+> "La verdadera satisfacción de las matemáticas está en aprender de los demás y compartir con los demás." - [Bill Thurston](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
 
 ### ¿QUÉ ES?
 <div style="text-align: justify">
