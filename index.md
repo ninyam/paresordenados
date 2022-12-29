@@ -34,7 +34,7 @@ sitemap:
 
 	<li>Cada par ordenado <b>(mentor, aprendiz)</b> se reune virtualmente durante <b>una hora cada semana</b>.</li>
 
-	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a la organizadora. Ver <a href="{{ '/proyectos' | prepend: site.baseurl }}">Recursos</a> para más información.</li>
+	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a la organizadora. Ver <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> para más información.</li>
 
 	<li>Al final del semestre se realiza una integración virtual con todos los pares ordenados.</li>
 </ol>
