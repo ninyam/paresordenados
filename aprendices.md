@@ -16,13 +16,12 @@ title: Aprendices
 
 ### Expectativas
 Ser aprendiz en Pares Ordenados implica:
-- Escoger un tema de estudio con la ayuda de su mentor(a).
-- Comprometerse a trabajar en su tema de manera autónoma durante aproximadamente <b>4 horas semanales</b>.</li>
-- Reunirse durante <b>1 hora cada semana</b> con su mentor(a).
-- Escribir un resumen sobre el proyecto final y enviarlo a ```niny[.]arcilamaya[at]duke[.]edu``` a mediados del semestre.
-- Entregar su proyecto final durante las fechas establecidas.   
-
-<div style="text-align: justify">
+1. Escoger un tema de estudio con la ayuda de su mentor(a).
+2. Comprometerse a trabajar en su tema de manera autónoma durante aproximadamente <b>4 horas semanales</b>.
+3. Reunirse durante <b>1 hora cada semana</b> con su mentor(a).
+4. Escribir un resumen sobre el proyecto final y enviarlo a ```niny[.]arcilamaya[at]duke[.]edu``` a mediados del semestre.
+5. Entregar su proyecto final durante las fechas establecidas.   
+<!--<div style="text-align: justify">
 <ol>
     <li>Escoger un tema de estudio con la ayuda de su mentor(a).</li>
 	<li>Comprometerse a trabajar en su tema de manera autónoma durante aproximadamente <b>4 horas semanales</b>.</li>
@@ -30,7 +29,7 @@ Ser aprendiz en Pares Ordenados implica:
     <li>Escribir un resumen sobre el proyecto final y enviarlo a <tt>niny[.]arcilamaya[at]duke[.]edu</tt> a mediados del semestre.</li>
     <li>Entregar su proyecto final durante las fechas establecidas.</li>    
 </ol>
-</div>
+</div>-->
 
 
 
