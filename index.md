@@ -16,7 +16,7 @@ sitemap:
 ### ¿PARA QUIÉN?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> tiene como principal objetivo brindar esta oportunidad a estudiantes hispanohablantes alrededor del mundo que hagan parte de grupos históricamente discriminados o que pertenezcan a programas de pregrado no orientados a la investigación.
+<strong>Pares Ordenados</strong> tiene como población objetivo estudiantes hispanohablantes alrededor del mundo que hagan parte de grupos históricamente discriminados o que pertenezcan a programas de pregrado no orientados a la investigación.
 </p>
 </div>
 
@@ -51,16 +51,15 @@ sitemap:
 	<li>Brindar a los aprendices la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
 	<li>Facilitar una vía menos intimidante para que los aprendices exploren temas que pueden parecer fuera de su alcance.</li>
 	<li>Proporcionar un ambiente de aprendizaje divertido y libre de estrés.</li>
-	<li>Ayudar a los aprendices a adquirir experiencia con el aprendizaje independiente, y con la comunicación oral o escrita de las matemáticas.</li>
+	<li>Ayudar a los aprendices a adquirir experiencia con el aprendizaje autodidacta, y con la comunicación oral o escrita de las matemáticas.</li>
 </ul>
 </div>
 
 #### Beneficios para los mentores:
 <div style="text-align: justify">
 <ul>
-	<li>Explorar alguna área interesante de las matemáticas.</li>
-	<li>Brindar a los mentores la oportunidad de obtener un tipo diferente de experiencia docente.</li>	
-	<li>Desarrollar habilidades de enseñanza que se ven geniales en la hoja de vida.</li>
+	<li>Repasar un tema interesante/importante para el(la) mentor(a).</li>
+	<li>Brindar a los mentores un medio para obtener un tipo diferente de experiencia docente.</li>
 </ul>
 </div>
 

@@ -10,8 +10,9 @@ title: Información
 <img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle"> <strong>Preguntas - Comentarios - Sugerencias</strong> pueden ser enviadas a ```niny[.]arcilamaya[at]duke[.]edu```.
 
 
+<strong>Pares Ordenados</strong> es una versión en español de los PLD 
 
-### Programas de Lectura Dirigida
+### Programas de Lectura Dirigida (PLD)
 <div style="text-align: justify">
 <p>
 La primera versión de los PLD fue creada por un grupo de estudiantes de posgrado de la Universidad de Chicago en el 2003, ver <a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/">AMS Blogs on Teaching and Learning Mathematics</a>. En inglés reciben el nombre de Directed Reading Programs (DRP). Actualmente los PLD son muy populares y existen muchos en Estados Unidos. 

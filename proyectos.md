@@ -4,6 +4,8 @@ title: Recursos
 ---
 
 ### Temas de Estudios
+
+El nivel de los temas de estudio puede ser tanto para principiantes como para avanzados.
 Algunos ejemplos de temas de estudio son:
 <ul>
     <li>Una introducción a un tema no cubierto en la universidad del aprendiz.</li>
