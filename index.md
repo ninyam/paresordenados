@@ -7,7 +7,7 @@ sitemap:
 ---	
 <blockquote cite="https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do">
     <p>
-        "La verdadera satisfacción de las matemáticas está en aprender de los demás y compartir con los demás."
+    "La verdadera satisfacción de las matemáticas está en aprender de los demás y compartir con los demás."
     </p>
     <footer>- <cite>Bill Thurston</cite></footer>
 </blockquote>
@@ -45,7 +45,12 @@ sitemap:
 </div>
 
 ### ¿PARA QUÉ?
-> "¿Qué es pertenecer? La medida en que un individuo se siente aceptado, valorado y legítimo dentro de la comunidad." - [Deanna Haunsperger](https://www.youtube.com/watch?v=jwAE3iHi4vM)
+<blockquote cite="https://www.youtube.com/watch?v=jwAE3iHi4vM">
+    <p>
+    "¿Qué es pertenecer? La medida en que un individuo se siente aceptado, valorado y legítimo dentro de la comunidad."
+    </p>
+    <footer>- <cite>Deanna Haunsperger</cite></footer>
+</blockquote>
 
 <div style="text-align: justify">
 <p>
