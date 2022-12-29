@@ -14,10 +14,6 @@ El nivel de los temas de estudio puede ir desde básico hasta avanzado. Algunos 
 </ul>
 
 En los siguientes enlaces puede encontrar ejemplos explícitos sobre temas de estudio:
-
-<a href="https://www.math.ucla.edu/~drp/past_projects.html">Universidad de California, Los Ángeles</a>  | <a href="https://math.berkeley.edu/wp/drp/past-drp-projects/">Universidad de California, Berkeley</a> | <a href="https://math.uchicago.edu/~drp/past-projects/">Universidad de Chicago</a>
-<a href="https://sites.google.com/view/twoples/about/past-years?authuser=0">Universidad de Duke</a> | <a href="https://www-users.cse.umn.edu/~mahrud/drp/bookshelf/">Universidad de Minnesota</a> | <a href="https://web.ma.utexas.edu/users/drp/projects.html">Universidad de Texas, Austin</a>
-
 <table>
   <tr>
     <td><a href="https://www.math.ucla.edu/~drp/past_projects.html">Universidad de California, Los Ángeles</a></td>
@@ -30,20 +26,6 @@ En los siguientes enlaces puede encontrar ejemplos explícitos sobre temas de es
     <td><a href="https://web.ma.utexas.edu/users/drp/projects.html">Universidad de Texas, Austin</a></td>
   </tr>
 </table>
-
-<br>
-<a href="https://www.math.ucla.edu/~drp/past_projects.html">Universidad de California, Los Ángeles</a>
-<br>
-<a href="https://math.berkeley.edu/wp/drp/past-drp-projects/">Universidad de California, Berkeley</a>
-<br>
-<a href="https://math.uchicago.edu/~drp/past-projects/">Universidad de Chicago</a>
-<br>
-<a href="https://sites.google.com/view/twoples/about/past-years?authuser=0">Universidad de Duke</a>
-<br>
-<a href="https://www-users.cse.umn.edu/~mahrud/drp/bookshelf/">Universidad de Minnesota</a>
-<br>
-<a href="https://web.ma.utexas.edu/users/drp/projects.html">Universidad de Texas, Austin</a>
-<br>
 
 ### Proyectos
 El proyecto final debe ser un producto tangible que demuestre lo que el aprendiz estudió durante el curso de lectura. Por ejemplo,
