@@ -27,4 +27,4 @@ Ser mentor(a) en Pares Ordenados implica:
 </div>
 
 
-### ¿Cómo ser un buen mentor(a)?
+### ¿Cómo ser un(a) buen(a) mentor(a)?

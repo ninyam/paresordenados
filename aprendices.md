@@ -12,7 +12,7 @@ title: Aprendices
 - Pertenecer a, al menos, un grupo históricamente discriminado o a un programa de pregrado no orientado a la investigación.
 - Haber visto un curso de álgebra lineal.
 - Haber visto un curso basado en demostraciones/pruebas matemáticas (i.e. tener conocimiento de tipos de demostraciones).
-- Interés, compromiso serio y tiempo.
+- Interés, compromiso y tiempo.
 
 ### Expectativas
 Ser aprendiz en Pares Ordenados implica:
