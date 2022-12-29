@@ -15,7 +15,13 @@ title: Información
 
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es una versión en español de los Programas de Lectura Dirigida (PLD) realizados por diferentes universidades en los EE.UU. Estos programas reciben el nombre de Directed Reading Programs (DRP) en inglés y actualmente han ganado gran popularidad. La primera versión de los PLD fue creada por un grupo de estudiantes de posgrado de la Universidad de Chicago en el 2003 (<a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/"><i>We started a DRP and so can you, Steve Balady, 2015</i></a> ). 
+<strong>Pares Ordenados</strong> es una versión en español de los Programas de Lectura Dirigida (PLD) realizados por diferentes universidades en los EEUU. 
+</p>
+</div>
+
+#### Un poquito de historia sobre los PLD
+
+Los PLD reciben el nombre de Directed Reading Programs (DRP) en inglés y actualmente han ganado gran popularidad. La primera versión de los PLD fue creada por un grupo de estudiantes de posgrado de la Universidad de Chicago en el 2003 (Steve Balady, <a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/"><i>We started a DRP and so can you</i></a>,2015). 
 
 Mark Behrens, Moon Duchin, Kathryn Mann, Candice Price, Felipe Ramirez, Gigliola Staffilani y Bena Tshishiku iniciaron la Red de PLD (DRP Network). En 2018 y 2019, ellos obtuvieron una subvención de la Fundación Nacional de Ciencia de los EE.UU. (NSF por sus siglas en inglés) para realizar llevar a cabo una conferencia de la Red de PLD en el Instituto de Tecnología de Massachusetts (MIT  por sus siglas en inglés) y para hacer un estudio educativo realizado por la psicóloga social <a href="https://psychology.berkeley.edu/people/ozlem-ayduk">Ozlem Ayduk</a> de la Universidad de California, Berkeley. Resultados de las encuestas y las entrevistas pueden ser encontrados aquí: <a href="https://drive.google.com/file/d/1v0T0f9Gw_-T1elHPvUl6PhQWn2g_pCD3/view">encuestas</a> - <a href="https://drive.google.com/file/d/1NNcSrwUe9fBgF5yCh_x0Rk7EZUjR8A27/view">entrevistas</a>. 
 <br>
