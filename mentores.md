@@ -9,7 +9,6 @@ title: Mentores
     <button class="button button1"><b>Aplicación para Mentores</b></button>
 </span>
 
-
 Pares Ordenados se trata de alentar a un estudiante de pregrado interesado en matemáticas, el objetivo es leer y comprender una sección de un libro o un artículo. No se trata de hacer un proyecto de investigación.
 
 ### Requisitos
