@@ -5,7 +5,7 @@ title: Mentores
 
 ¡Muchas gracias por su interés en participar en Pares Ordenados!
 
-<button class="button button1" onclick="open('{{ '/mentores' | prepend: site.baseurl }}')"><b>Aplicación para Mentores</b></button>
+<button class="button button1" onclick="open('https://duke.qualtrics.com/jfe/form/SV_bNoBEWHQZ7g3N4O')"><b>Aplicación para Mentores</b></button>
 
 Pares Ordenados se trata de alentar a un estudiante de pregrado interesado en matemáticas, el objetivo es leer y comprender una sección de un libro o un artículo. No se trata de hacer un proyecto de investigación.
 
