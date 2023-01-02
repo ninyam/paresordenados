@@ -15,17 +15,17 @@ title: Información
 
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es una versión en español de los Programas de Lectura Dirigida (PLD) realizados por diferentes universidades en los EEUU. 
+<strong>Pares Ordenados</strong> es una versión en español de los Programas de Lectura Dirigida (PLD) realizados por diferentes universidades en los EE.UU. 
 </p>
 </div>
 
 ### Historia de los PLD
 <div style="text-align: justify">
 <p>
-Los PLD reciben el nombre de Directed Reading Programs (DRP) en inglés y actualmente han ganado gran popularidad. La primera versión de los PLD fue creada por un grupo de estudiantes de posgrado de la Universidad de Chicago en el 2003 (Steve Balady, <a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/"><cite>We started a DRP and so can you</cite></a>, 2015). 
+Los PLD reciben el nombre de Directed Reading Programs (DRP) en inglés y actualmente han ganado gran popularidad en este pais. La primera versión de los PLD fue creada por un grupo de estudiantes de posgrado de la Universidad de Chicago en el 2003 (Steve Balady, <a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/"><cite>We started a DRP and so can you</cite></a>, 2015). 
 
-Mark Behrens, Moon Duchin, Kathryn Mann, Candice Price, Felipe Ramirez, Gigliola Staffilani y Bena Tshishiku iniciaron la Red de PLD (DRP Network). En 2018 y 2019, ellos obtuvieron una subvención de la Fundación Nacional de Ciencia de los EE.UU. (NSF por sus siglas en inglés) para realizar llevar a cabo una conferencia de la Red de PLD en el Instituto de Tecnología de Massachusetts (MIT  por sus siglas en inglés) y para hacer un estudio educativo realizado por la psicóloga social <a href="https://psychology.berkeley.edu/people/ozlem-ayduk">Ozlem Ayduk</a> de la Universidad de California, Berkeley. Resultados de las encuestas y las entrevistas pueden ser encontrados aquí: <a href="https://drive.google.com/file/d/1v0T0f9Gw_-T1elHPvUl6PhQWn2g_pCD3/view">encuestas</a> - <a href="https://drive.google.com/file/d/1NNcSrwUe9fBgF5yCh_x0Rk7EZUjR8A27/view">entrevistas</a>. 
+Mark Behrens, Moon Duchin, Kathryn Mann, Candice Price, Felipe Ramirez, Gigliola Staffilani y Bena Tshishiku iniciaron la Red de PLD (DRP Network). También obtuvieron una subvención de la Fundación Nacional de Ciencia de los EE.UU. para llevar a cabo una conferencia de la Red de PLD en el Instituto de Tecnología de Massachusetts en el 2018, y para hacer un estudio educativo realizado por la psicóloga social <a href="https://psychology.berkeley.edu/people/ozlem-ayduk">Ozlem Ayduk</a> de la Universidad de California, Berkeley en el 2019. Resultados de las encuestas y las entrevistas pueden ser encontrados aquí: <a href="https://drive.google.com/file/d/1v0T0f9Gw_-T1elHPvUl6PhQWn2g_pCD3/view">encuestas</a> - <a href="https://drive.google.com/file/d/1NNcSrwUe9fBgF5yCh_x0Rk7EZUjR8A27/view">entrevistas</a>. 
 <br>
-Mann y Tshishiku crearon un sitio web que compila información y recursos sobre los PLD, ver <a href="https://sites.google.com/view/drp-network/home?authuser=0">DRP Network</a>.
+Mann y Tshishiku crearon un sitio web que compila información y recursos sobre los PLD, ver <a href="https://sites.google.com/view/drp-network/home?authuser=0">DRP Network</a>. Enlaces a los sitios web de diferentes PLD en EE.UU. pueden ser encontrados en <a href="https://sites.google.com/view/drp-network/resources?authuser=0#h.6hulz7bu5vgo">Links to local DRP program websites</a>.
 </p>
 </div>

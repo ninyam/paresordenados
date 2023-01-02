@@ -5,7 +5,7 @@ title: Mentores
 
 ¡Muchas gracias por su interés en participar en Pares Ordenados!
 
-<span onclick="window.open('https://duke.qualtrics.com/jfe/form/SV_bNoBEWHQZ7g3N4O')" style="cursor: pointer">
+<span onclick="window.open('https://duke.qualtrics.com/jfe/form/SV_cNk6422OZJ29vKu')" style="cursor: pointer">
     <button class="button button1"><b>Aplicación para Mentores</b></button>
 </span>
 
@@ -22,5 +22,3 @@ Ser mentor(a) en Pares Ordenados implica:
 3. Reunirse durante <b>1 hora cada semana</b> con su aprendiz.
 4. Ayudar al aprendiz a escribir su resumen sobre el proyecto a mediados del semestre.
 5. Ayudar al aprendiz con la preparación de su proyecto final.
-
-### ¿Cómo ser un(a) buen(a) mentor(a)?
