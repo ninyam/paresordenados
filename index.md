@@ -64,17 +64,17 @@ sitemap:
 #### Beneficios para los aprendices: 
 <div style="text-align: justify">
 <ul>
-	<li>Brindar a los aprendices la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
-	<li>Facilitar una vía menos intimidante para que los aprendices exploren temas que pueden parecer fuera de su alcance.</li>
-	<li>Proporcionar un ambiente de aprendizaje divertido y libre de estrés.</li>
-	<li>Ayudar a los aprendices a adquirir experiencia con el aprendizaje autodidacta, y con la comunicación oral o escrita de las matemáticas.</li>
+	<li>Tener la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
+	<li>Tener acceso a una vía menos intimidante para explorar temas que pueden parecer fuera de su alcance.</li>
+	<li>Aprender en un ambiente divertido y libre de estrés.</li>
+	<li>Addquirir experiencia con el aprendizaje autodidacta, y con la comunicación oral o escrita de las matemáticas.</li>
 </ul>
 </div>
 
 #### Beneficios para los mentores:
 <div style="text-align: justify">
 <ul>
-	<li>Brindar a los mentores un medio para obtener un tipo diferente de experiencia docente.</li>
+	<li>Acceder a un medio para obtener un tipo diferente de experiencia docente.</li>
 	<li>Repasar un tema interesante/importante.</li>
 </ul>
 </div>
