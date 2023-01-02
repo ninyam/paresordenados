@@ -10,9 +10,10 @@ title: Aprendices
 ### Requisitos
 - Hablar español.
 - Pertenecer a, al menos, un grupo históricamente discriminado o a un programa de pregrado no orientado a la investigación.
+- Haber visto cursos de cálculo diferencial, integral y vectorial.
 - Haber visto un curso de álgebra lineal.
-- Haber visto un curso basado en demostraciones/pruebas matemáticas (i.e. tener conocimiento de tipos de demostraciones).
-- Interés, compromiso y tiempo.
+- Haber visto un curso basado en demostraciones matemáticas (i.e. tener conocimiento de tipos de demostraciones).
+- Interés, compromiso y tiempo (5 horas semanales).
 
 ### Expectativas
 Ser aprendiz en Pares Ordenados implica:
