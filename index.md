@@ -49,7 +49,7 @@ sitemap:
 ### ¿PARA QUÉ?
 <blockquote cite="https://www.youtube.com/watch?v=jwAE3iHi4vM">
     <p>
-    "¿Qué es pertenecer? La medida en que un individuo se siente aceptado, valorado y legítimo dentro de la comunidad."
+    "¿Qué es pertenecer? La medida en que un individuo se siente aceptado, valorado y validado dentro de la comunidad."
     </p>
     <footer>- <a href="https://www.youtube.com/watch?v=jwAE3iHi4vM"><cite>Deanna Haunsperger</cite></a>
 	</footer>
