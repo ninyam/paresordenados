@@ -58,13 +58,8 @@ sitemap:
 <div style="text-align: justify">
 <p>
 ¡<strong>Pares Ordenados</strong> es acerca de la comunidad!
-
+<br>
 Uno de los principales objetivos de este programa es fomentar la colaboración entre los miembros de nuestra <b>Comunidad Matemática Latina/Hispana</b> alrededor del mundo.
-
-
-
-Uno de los principales objetivos de este programa es equipar a los estudiantes de pregrado con las herramientas necesarias para profundizar en matemáticas más sofisticadas, 
-dentro del departamento y brindar a los estudiantes de pregrado una valiosa oportunidad de practicar la presentación de ideas matemáticas, tanto en conversaciones como en presentaciones públicas.
 </p>
 </div>
 
