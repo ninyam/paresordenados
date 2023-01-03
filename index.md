@@ -79,6 +79,7 @@ Uno de los principales objetivos de este programa es fomentar la colaboración e
 <ul>
 	<li>Acceder a un medio para obtener un tipo diferente de experiencia docente.</li>
 	<li>Repasar un tema interesante/importante.</li>
+	<li>Tener la oportunidad de enseñar un tema matemático de su interés sin la restricción de un programa preestablecido.</li>
 </ul>
 </div>
 <br>
