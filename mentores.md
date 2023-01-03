@@ -13,7 +13,7 @@ Pares Ordenados se trata de alentar a un estudiante de pregrado interesado en ma
 
 ### Requisitos
 1. Hablar español.
-2. Ser estudiante de doctorado en matemáticas o ser doctor(a) en matemáticas que se encuentren en los inicios de su carrera (por ejemplo, haciendo una estadía postdoctoral).
+2. Ser estudiante de doctorado en matemáticas o ser doctor(a) en matemáticas que se encuentre en los inicios de su carrera (por ejemplo, haciendo una estadía postdoctoral).
 
 ### Expectativas
 Ser mentor(a) en Pares Ordenados implica:
