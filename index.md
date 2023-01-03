@@ -57,8 +57,14 @@ sitemap:
 
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es un medio para solidificar nuestra <b>Comunidad Matemática Latina/Hispana</b> al crear conexiones entre estudiantes de pregrado, estudiantes de posgrado y matemáticos alrededor del mundo.
-<!--s una gran oportunidad para aquellos estudiantes interesados en seguir una educación superior en matemáticas y campos relacionados más allá del nivel de pregrado. Por otra parte, e-->
+¡<strong>Pares Ordenados</strong> es acerca de la comunidad!
+
+Uno de los principales objetivos de este programa es fomentar la colaboración entre los miembros de nuestra <b>Comunidad Matemática Latina/Hispana</b> alrededor del mundo.
+
+
+
+Uno de los principales objetivos de este programa es equipar a los estudiantes de pregrado con las herramientas necesarias para profundizar en matemáticas más sofisticadas, 
+dentro del departamento y brindar a los estudiantes de pregrado una valiosa oportunidad de practicar la presentación de ideas matemáticas, tanto en conversaciones como en presentaciones públicas.
 </p>
 </div>
 
@@ -68,7 +74,8 @@ sitemap:
 	<li>Tener la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
 	<li>Tener acceso a una vía menos intimidante para explorar temas que pueden parecer fuera de su alcance.</li>
 	<li>Aprender en un ambiente divertido y libre de estrés.</li>
-	<li>Adquirir experiencia con el aprendizaje autodidacta, y con la comunicación oral o escrita de las matemáticas.</li>
+	<li>Adquirir experiencia con el aprendizaje autodidacta y la comunicación escrita de las matemáticas.</li> 
+	<li>Tener la valiosa oportunidad de practicar la comunicación oral de ideas matemáticas, tanto en conversaciones casuales como en presentaciones públicas.</li>
 </ul>
 </div>
 
