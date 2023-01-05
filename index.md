@@ -24,9 +24,15 @@ sitemap:
 ### ¿PARA QUIÉN?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> tiene como población objetivo estudiantes hispanohablentes de matemáticas (o áreas afines) alrededor del mundo que pertenezcan a programas de pregrado no orientados a la investigación o que hagan parte de grupos históricamente discriminados.
+<strong>Pares Ordenados</strong> tiene como población objetivo estudiantes hispanohablantes de matemáticas (o áreas afines) alrededor del mundo que pertenezcan a programas de pregrado no orientados a la investigación o que hagan parte de grupos históricamente discriminados.
 </p>
 </div>
+
+### ¿CUÁNDO?
+_Programa:_ Desde el 23 de enero hasta el 28 de abril.
+
+_Aplicaciones:_ Cierran el 16 de enero a las 11:59 pm EST.
+
 
 ### ¿CÓMO?
 <div style="text-align: justify">
