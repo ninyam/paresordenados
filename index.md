@@ -29,9 +29,9 @@ sitemap:
 </div>
 
 ### ¿CUÁNDO?
-_Programa:_ Desde el 23 de enero hasta el 28 de abril.
+**Programa:** Desde el 23 de enero hasta el 28 de abril.
 
-_Aplicaciones:_ Cierran el 16 de enero a las 11:59 pm EST.
+Aplicaciones abiertas hasta el 16 de enero a las 11:59 pm EST.
 
 
 ### ¿CÓMO?
