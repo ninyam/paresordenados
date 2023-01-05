@@ -29,10 +29,13 @@ sitemap:
 </div>
 
 ### ¿CUÁNDO?
-**Programa:** Desde el 23 de enero hasta el 28 de abril.
-
+<div style="text-align: justify">
+<p>
+Desde el <b>23 de enero</b> hasta el <b>28 de abril</b>.
+<br>
 Aplicaciones abiertas hasta el 16 de enero a las 11:59 pm EST.
-
+</p>
+</div>
 
 ### ¿CÓMO?
 <div style="text-align: justify">
