@@ -24,7 +24,7 @@ sitemap:
 ### ¿PARA QUIÉN?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> tiene como población objetivo estudiantes hispanohablantes de matemáticas (o áreas afines) alrededor del mundo que pertenezcan a programas de pregrado no orientados a la investigación o que hagan parte de grupos históricamente discriminados.
+<strong>Pares Ordenados</strong> tiene como población objetivo estudiantes hispanohablantes de matemáticas (o áreas afines) alrededor del mundo que pertenezcan a programas de pregrado no orientados a la investigación o que se identifiquen como miembros de una minoría.
 </p>
 </div>
 
