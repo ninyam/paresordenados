@@ -31,9 +31,9 @@ sitemap:
 ### ¿CUÁNDO?
 <div style="text-align: justify">
 <p>
-Desde el <b>23 de enero</b> hasta el <b>28 de abril</b>.
+Desde el <b>23 de enero de 2023</b> hasta el <b>28 de abril de 2023</b>.
 <br>
-Aplicaciones abiertas hasta el 16 de enero a las 11:59 pm EST.
+Cierre de aplicaciones: 16 de enero a las 11:59 pm EST.
 </p>
 </div>
 
