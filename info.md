@@ -7,7 +7,7 @@ title: Información
 ### Contacto
 <div style="text-align: justify">
 <p>
-¡Hola! Mi nombre es Niny Arcila Maya. Soy <a href="https://sites.duke.edu/ninyam/">docente asistente de investigación</a> en el departamento de Matemáticas de la Universidad de Duke. Soy la organizadora de Pares Ordenados, cuyo nombre fue escogido con ayuda de mi colega <a href="https://www.linkedin.com/in/alejandra-donají-herrera-reyes-52b54a87/">Alejandra Herrera Reyes</a>.
+¡Hola! Mi nombre es Niny Arcila Maya. Soy <a href="https://sites.duke.edu/ninyam/">docente asistente de investigación</a> en el departamento de Matemáticas de la Universidad de Duke y soy la organizadora de Pares Ordenados.
 </p>
 </div>
 <img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle"> <strong>Preguntas - Comentarios - Sugerencias</strong> pueden ser enviadas a ```niny[.]arcilamaya[at]duke[.]edu```.
@@ -30,5 +30,14 @@ Mann y Tshishiku crearon un sitio web que compila información y recursos sobre 
 <br>
 
 En el blog On Teaching and Learning Mathematics de la Sociedad Estadounidense de Matemáticas (AMS por sus siglas en inglés) se puede encontrar una publicacion de Steve Balady sobre los PLD. Ver la publicación aquí: <a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/"><cite>We Started a Directed Reading Program (And So Can You!)</cite></a>.
+</p>
+</div>
+
+### Créditos
+<div style="text-align: justify">
+<p>
+Gracias a <a href="https://www.linkedin.com/in/alejandra-donají-herrera-reyes-52b54a87/">Alejandra Herrera Reyes</a> por ayudarme a escoger el nombre de este programa.
+
+Gracias a <a href="https://sergiocarrillo3026.wixsite.com/scarrillomath">Sergio Carrillo Torres</a> por ayudarme con detalles varios relacionados con la logística de Pares Ordenados.
 </p>
 </div>
