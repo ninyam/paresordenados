@@ -35,11 +35,11 @@ En el blog On Teaching and Learning Mathematics de la Sociedad Estadounidense de
 </p>
 </div>
 
-### Créditos
+### Agradecimientos
 <div style="text-align: justify">
 <p>
-Gracias a <a href="https://www.linkedin.com/in/alejandra-donají-herrera-reyes-52b54a87/">Alejandra Herrera Reyes</a> por ayudarme a escoger el nombre de este programa.
-
-Gracias a <a href="https://sergiocarrillo3026.wixsite.com/scarrillomath">Sergio Carrillo Torres</a> por ayudarme con detalles varios relacionados con la logística de Pares Ordenados.
+A <a href="https://www.linkedin.com/in/alejandra-donají-herrera-reyes-52b54a87/">Alejandra Herrera Reyes</a> por ayudar a escoger el nombre de este programa.
+</br>
+A <a href="https://sergiocarrillo3026.wixsite.com/scarrillomath">Sergio Carrillo Torres</a> por ayudar con detalles varios relacionados con la logística de Pares Ordenados.
 </p>
 </div>
