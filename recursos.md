@@ -30,10 +30,8 @@ En los siguientes enlaces puede encontrar ejemplos explícitos sobre temas de es
 ### Proyectos
 El proyecto final debe ser un producto tangible que demuestre lo que el aprendiz estudió durante el curso de lectura. Por ejemplo,
 <ul>
-    <li>Dar una presentación de 15 minutos al final del semestre durante la integración.</li>
-    <li>Escribir un texto expositivo de 10 páginas, en español o inglés, explicando el tema de estudio. </li>
+    <li>Escribir un texto expositivo de mínimo 5  páginas, en español o inglés, explicando el tema de estudio. </li>
     <li>Desarrollar una implementación del tema elegido en Python, Mathematica, Macaulay2, Sage, etc.</li>
-    <li>Crear un póster.</li>
 </ul>
 
 ### Textos de uso libre

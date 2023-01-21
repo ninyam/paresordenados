@@ -51,7 +51,7 @@ Cierre de aplicaciones: 16 de enero a las 11:59 pm EST.
 
 	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a la organizadora. Ver ejemplos de proyectos en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a>.</li>
 
-	<li>Al final del semestre se realiza una integración virtual con todos los pares ordenados.</li>
+	<li>Al final del semestre se realiza una integración virtual con todos los pares ordenados donde los aprendices dan presentaciones acerca de su tema de estudio durante el semestre.</li>
 </ol>
 </div>
 
