@@ -25,7 +25,7 @@ title: Información
 ### Historia de los PLD
 <div style="text-align: justify">
 <p>
-Los PLD reciben el nombre de Directed Reading Programs (DRP) en inglés.  La primera versión de los PLD fue creada en la Universidad de Chicago por Mark Behrens y Moon Duchin en el 2003, ahora hay más de 20 instituciones que realizan o han realizado PLD en EE.UU., la mayoría comenzó a través de esfuerzos comunitarios de estudiantes de posgrado.
+Los PLD reciben el nombre de Directed Reading Programs (DRP) en inglés.  La primera versión de los PLD fue creada en la Universidad de Chicago por Mark Behrens y Moon Duchin en el 2003. Actualmente existen más de 20 instituciones que realizan o han realizado PLD en EE.UU., la mayoría comenzó a través de esfuerzos comunitarios de estudiantes de posgrado.
 <br>
 Mark Behrens, Moon Duchin, Kathryn Mann, Candice Price, Felipe Ramirez, Gigliola Staffilani y Bena Tshishiku iniciaron la Red de PLD (DRP Network). En el 2018, realizaron una conferencia de la red en el Instituto de Tecnología de Massachusetts. En 2018-2019 obtuvieron una subvención de la Fundación Nacional de Ciencia de EE.UU. para hacer un estudio educativo sobre los PLD. Este estudio fue realizado por la psicóloga social <a href="https://psychology.berkeley.edu/people/ozlem-ayduk">Ozlem Ayduk</a> de la Universidad de California, Berkeley. Resultados de las encuestas y las entrevistas pueden ser encontrados aquí: <a href="https://drive.google.com/file/d/1v0T0f9Gw_-T1elHPvUl6PhQWn2g_pCD3/view">encuestas</a> - <a href="https://drive.google.com/file/d/1NNcSrwUe9fBgF5yCh_x0Rk7EZUjR8A27/view">entrevistas</a>.
 <br>
