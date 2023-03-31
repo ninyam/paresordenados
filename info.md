@@ -10,11 +10,11 @@ title: Información
 ¡Hola! Mi nombre es Niny Arcila Maya. Soy docente asistente de investigación en el departamento de Matemáticas de la Universidad de Duke y soy la organizadora de Pares Ordenados.
 <br>
 <strong>Comité:</strong> <a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a>, <a href="https://www.math.toronto.edu/cms/people/faculty/cardenas-montoya-mayecxiliana/">Maye Cárdenas Montoya</a> y <a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a>.
-</p>
-</div>
+<br>
 <!--<img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle">-->
 <strong>Preguntas - Comentarios - Sugerencias</strong> pueden ser enviadas a niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[.]utah[.]edu.
-<br>
+</p>
+</div>
 
 <div style="text-align: justify">
 <p>
@@ -41,8 +41,7 @@ Steve Balady publicó el artículo <a href="https://blogs.ams.org/matheducation/
 <div style="text-align: justify">
 <p>
 A <a href="https://www.linkedin.com/in/alejandra-donají-herrera-reyes-52b54a87/">Alejandra Herrera Reyes</a> por ayudar a escoger el nombre de este programa.
-</p>
-<p>
+<br>
 A <a href="https://sergiocarrillo3026.wixsite.com/scarrillomath">Sergio Carrillo Torres</a> por ayudar con detalles varios relacionados con la logística de Pares Ordenados.
 </p>
 </div>
