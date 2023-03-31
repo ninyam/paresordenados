@@ -41,7 +41,8 @@ Steve Balady publicó el artículo <a href="https://blogs.ams.org/matheducation/
 <div style="text-align: justify">
 <p>
 A <a href="https://www.linkedin.com/in/alejandra-donají-herrera-reyes-52b54a87/">Alejandra Herrera Reyes</a> por ayudar a escoger el nombre de este programa.
-</br>
+</p>
+<p>
 A <a href="https://sergiocarrillo3026.wixsite.com/scarrillomath">Sergio Carrillo Torres</a> por ayudar con detalles varios relacionados con la logística de Pares Ordenados.
 </p>
 </div>
