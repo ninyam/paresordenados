@@ -7,9 +7,9 @@ title: Información
 ### Contacto
 <div style="text-align: justify">
 <p>
-¡Hola! Mi nombre es Niny Arcila Maya. Soy <a href="https://sites.duke.edu/ninyam/">docente asistente de investigación</a> en el departamento de Matemáticas de la Universidad de Duke y soy la organizadora de Pares Ordenados.
+¡Hola! Mi nombre es Niny Arcila Maya. Soy docente asistente de investigación en el departamento de Matemáticas de la Universidad de Duke y soy la organizadora de Pares Ordenados.
 <br>
-<strong>Comité de Selección:</strong> Maye Cárdenas Montoya y Niny Arcila Maya.
+<strong>Comité:</strong> Maye Cárdenas Montoya, <a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a> y <a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a>.
 </p>
 </div>
 <img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle"> <strong>Preguntas - Comentarios - Sugerencias</strong> pueden ser enviadas a ```niny[.]arcilamaya[at]duke[.]edu```.
