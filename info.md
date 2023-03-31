@@ -32,7 +32,7 @@ Mark Behrens, Moon Duchin, Kathryn Mann, Candice Price, Felipe Ramirez, Gigliola
 Mann y Tshishiku crearon un sitio web que compila información y recursos sobre los PLD, ver <a href="https://sites.google.com/view/drp-network/home?authuser=0">DRP Network</a>. Enlaces a los sitios web de diferentes PLD en EE.UU. pueden ser encontrados en <a href="https://sites.google.com/view/drp-network/resources?authuser=0#h.6hulz7bu5vgo">Links to local DRP program websites</a>.
 <br>
 
-En el blog On Teaching and Learning Mathematics de la Sociedad Estadounidense de Matemáticas (AMS por sus siglas en inglés) se puede encontrar una publicacion de Steve Balady sobre los PLD. Ver la publicación aquí: <a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/"><cite>We Started a Directed Reading Program (And So Can You!)</cite></a>.
+En el blog On Teaching and Learning Mathematics de la Sociedad Estadounidense de Matemáticas se puede encontrar una publicación de Steve Balady sobre los PLD. Ver la publicación aquí: <a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/"><cite>We Started a Directed Reading Program (And So Can You!)</cite></a>.
 </p>
 </div>
 
