@@ -13,7 +13,7 @@ title: Información
 </p>
 </div>
 <!--<img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle">-->
-<strong>Preguntas - Comentarios - Sugerencias</strong> pueden ser enviadas a ```niny[.]arcilamaya[at]duke[.]edu```, ```maye[.]montoya[@]utoronto[.]ca``` o ```ospina[@]math[.]utah[.]edu```.
+<strong>Preguntas - Comentarios - Sugerencias</strong> pueden ser enviadas a niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[.]utah[.]edu.
 <br>
 
 <div style="text-align: justify">
