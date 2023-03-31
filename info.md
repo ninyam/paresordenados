@@ -12,7 +12,8 @@ title: Información
 <strong>Comité:</strong> <a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a>, <a href="https://www.math.toronto.edu/cms/people/faculty/cardenas-montoya-mayecxiliana/">Maye Cárdenas Montoya</a> y <a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a>.
 </p>
 </div>
-<img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle"> <strong>Preguntas - Comentarios - Sugerencias</strong> pueden ser enviadas a ```niny[.]arcilamaya[at]duke[.]edu```, ```maye[.]montoya[@]utoronto[.]ca``` o ```ospina[@]math[.]utah[.]edu```.
+<!--<img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle">-->
+<strong>Preguntas - Comentarios - Sugerencias</strong> pueden ser enviadas a ```niny[.]arcilamaya[at]duke[.]edu```, ```maye[.]montoya[@]utoronto[.]ca``` o ```ospina[@]math[.]utah[.]edu```.
 <br>
 
 <div style="text-align: justify">
