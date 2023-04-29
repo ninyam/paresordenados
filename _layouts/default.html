@@ -71,9 +71,6 @@
         text-align: left;
       }
     }
-    .topnav-right {
-        float: right;
-      }
 
     /* Buttons */
     .button {
@@ -88,7 +85,7 @@
       cursor: pointer;
     }
     .button1 {background-color: #16a085;border-radius: 12px;} /* Green */
-    .button2 {background-color: #008CBA;border-radius: 12px;} /* Blue */
+    .button2 {border-radius: 12px;} /* Blue */
   </style>    
   {% include meta_tags/base.html %}
   {% include externals/styling.html %}    
@@ -97,6 +94,9 @@
   <div class="header">
     <h1>Pares Ordenados <br> (mentores, aprendices)</h1>
     <p>Programa Virtual de Lectura Dirigida</p>
+    <span onclick="window.open('https://ninyam.github.io/paresordenados_eng/')" style="cursor: pointer">
+      <button class="button button2"><b>English</b></button>
+    </span>
   </div>
   <div class="topnav" id="myTopnav">
     <a href="{{ '/index' | prepend: site.baseurl }}" class="active">Inicio</a> 
@@ -104,9 +104,6 @@
     <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a>
     <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a>
     <a href="{{ '/info' | prepend: site.baseurl }}">Información</a>
-    <div class="topnav-right">
-      <a href="https://ninyam.github.io/paresordenados_eng/" class="topnav-right">English</a>
-    </div>
     <!--<a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a>
     <a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a>-->  
   </div>
