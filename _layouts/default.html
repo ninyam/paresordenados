@@ -119,13 +119,17 @@
     /* Google map responsive */
     @media screen and (max-width: 600px) {
       .google-map {
-        padding-bottom: 20%;
-        position: relative;
+        overflow:hidden;
+        padding-bottom:56.25%;
+        position:relative;
+        height:0;
       }
       .google-map iframe {
-        left: 0;
-        top: 0;
-        position: absolute;
+        left:0;
+        top:0;
+        height:100%;
+        width:100%;
+        position:absolute;
       }
     }
   </style>
