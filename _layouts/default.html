@@ -62,8 +62,6 @@
         float: right;
         display: block;
       }
-    }
-    @media screen and (max-width: 600px) {
       .topnav.responsive {position: fixed;}
       .topnav.responsive .icon {
         position: absolute;
@@ -77,6 +75,7 @@
       }
     }
 
+    /* Buttons */
     .button {
       border: none;
       color: white;
@@ -106,7 +105,6 @@
     <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a>
     <a href="{{ '/info' | prepend: site.baseurl }}">Información</a>
     <div class="topnav-right">
-      <a href="https://ninyam.github.io/paresordenados_eng/" class="topnav-right">English</a>
       <span onclick="window.open('https://ninyam.github.io/paresordenados_eng/')" style="cursor: pointer">
         <button class="button button2"><b>English</b></button>
       </span>
