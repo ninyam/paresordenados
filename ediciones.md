@@ -87,10 +87,14 @@ Aquí hay un mapa de las instituciones de aprendices (verde) y mentores (morado)
     <td>Yuhad Olarte Ibrahim</td>
   </tr>
   <tr>
-    <td>Primos de la forma <img src="/cgi-bin/mathtex.cgi? x^{2} + ny^{2}" alt="" border=0 align="middle">$x^{2} + ny^{2}$</td>
+    <td>Primos de la forma $x^{2} + ny^{2}$</td>
     <td>Sergio Ricardo Zapata Ceballos</td>
     <td>Mario Andrés Medina Barrera</td>
   </tr>
 </table>
+
+<div class="latex">  
+    \int_{0}^{\pi}\frac{x^{4}\left(1-x\right)^{4}}{1+x^{2}}dx =\frac{22}{7}-\pi  
+</div>
 </p>
 
