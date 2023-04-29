@@ -12,6 +12,7 @@ Aquí hay un mapa de las instituciones de aprendices (verde) y mentores (morado)
 </p>
 
 ### Edición Primavera 2023
+<p align="center">
 <table>
   <tr>
     <td><strong>Proyecto</strong></td>
@@ -25,12 +26,12 @@ Aquí hay un mapa de las instituciones de aprendices (verde) y mentores (morado)
   </tr>
   <tr>
     <td>Teoría de representaciones de grupos y el teorema de Burnside</td>
-    <td>Bernardo Villareal</td>
+    <td><a href="https://www.matem.unam.mx/~villarreal/">Bernardo Villareal</a></td>
     <td>Arnold Jesus Cruz Montiel</td>
   </tr>
   <tr>
     <td>Teoría de la medida e integración</td>
-    <td>Carlos Ospina</td>
+    <td><a href="https://www.math.utah.edu/~ospina/">Carlos Ospina</a></td>
     <td>Jhon Freddy Pérez Remolina</td>
   </tr>
   <tr>
@@ -60,22 +61,22 @@ Aquí hay un mapa de las instituciones de aprendices (verde) y mentores (morado)
   </tr>
   <tr>
     <td>Una introducción a las redes neuronales: un ejemplo de clasificación de dígitos</td>
-    <td>Miguel González Duque</td>
+    <td><a href="https://www.miguelgondu.com/about/">Miguel González Duque</a></td>
     <td>Nathalia Castiblanco Carretero</td>
   </tr>
   <tr>
     <td>Ideales de Stanley-Reisner: una relación entre el álgebra y la combinatoria</td>
-    <td>Pedro Angel Ramirez Moreno</td>
+    <td><a href="https://sites.google.com/cimat.mx/pedro-ramirez-moreno/home-page">Pedro Angel Ramírez Moreno</a></td>
     <td>Catalina Quincosis Martínez</td>
   </tr>
   <tr>
     <td>Convergencia de las series de Fourier</td>
-    <td>Sergio Alejandro Carrillo Torres</td>
+    <td><a href="https://sergiocarrillo3026.wixsite.com/scarrillomath">Sergio Alejandro Carrillo Torres</a></td>
     <td>Jonathan Raymundo Torres Cárdenas</td>
   </tr>
   <tr>
     <td>Grupo fundamental, aplicaciones y CW complejos</td>
-    <td>Sergio Chaves</td>
+    <td><a href="https://schavesr.com/">Sergio Chaves</a></td>
     <td>Yuhad Olarte Ibrahim</td>
   </tr>
   <tr>
@@ -84,4 +85,5 @@ Aquí hay un mapa de las instituciones de aprendices (verde) y mentores (morado)
     <td>Mario Andrés Medina Barrera</td>
   </tr>
 </table>
+</p>
 
