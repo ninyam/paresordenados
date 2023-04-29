@@ -60,12 +60,6 @@ Aquí hay un mapa de las instituciones de aprendices (verde) y mentores (morado)
     <td> </td>
   </tr>
   <tr>
-    <td> </td>
-    <td>Carlos Ospina</td>
-    <td>Jhon Freddy Pérez Remolina</td>
-    <td> </td>
-  </tr>
-  <tr>
     <td>Introducción a la criptografía de clave pública</td>
     <td>Maye Montoya</td>
     <td>Cesar David Del Real Lario y Yiseth Karina Rodriguez Cáceres</td>
