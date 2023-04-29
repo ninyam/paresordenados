@@ -3,6 +3,13 @@ layout: page
 title: Ediciones
 ---
 
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript"
+  src="http://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 ### ¡Participantes de Pares Ordenados alrededor del mundo! 
 
 Aquí hay un mapa de las instituciones de aprendices (verde) y mentores (morado).
@@ -80,7 +87,7 @@ Aquí hay un mapa de las instituciones de aprendices (verde) y mentores (morado)
     <td>Yuhad Olarte Ibrahim</td>
   </tr>
   <tr>
-    <td>Primos de la forma x2 + ny2</td>
+    <td>Primos de la forma $x^{2} + ny^{2}$</td>
     <td>Sergio Ricardo Zapata Ceballos</td>
     <td>Mario Andrés Medina Barrera</td>
   </tr>
