@@ -86,8 +86,20 @@
       background-color: #16a085;
       border-radius: 12px;
     }
-    /*.button1 {background-color: #16a085;border-radius: 12px;} /* Green */
-    .button2 {background-color: transparent;border-radius: 12px;} /* Blue */
+    /* Button Transparent */
+    .button2 {
+      border: solid;
+      color: white;
+      padding: 10px 15px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 10px;
+      margin: 4px 2px;
+      cursor: pointer;
+      background-color: transparent;
+      border-radius: 1px;
+    }
   </style>    
   {% include meta_tags/base.html %}
   {% include externals/styling.html %}    
@@ -96,9 +108,9 @@
   <div class="header">
     <h1>Pares Ordenados <br> (mentores, aprendices)</h1>
     <p>Programa Virtual de Lectura Dirigida</p>
-    <!--<span onclick="window.location.href='https://ninyam.github.io/paresordenados_eng/';" style="cursor: pointer">
-      <button class="button button2"><b>English</b></button>
-    </span>-->
+    <span onclick="window.location.href='https://ninyam.github.io/paresordenados_eng/';" style="cursor: pointer">
+      <button class="button2"><b>English</b></button>
+    </span>
   </div>
   <div class="topnav" id="myTopnav">
     <a href="{{ '/index' | prepend: site.baseurl }}" class="active">Inicio</a> 
