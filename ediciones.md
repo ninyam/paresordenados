@@ -20,10 +20,10 @@ Aquí hay un mapa de las instituciones de aprendices (verde) y mentores (morado)
 
 ### Edición Primavera 2023
 <p align="center">
-<table>
+<table style="width:100%">
   <tr>
-    <td><strong>Proyecto</strong></td>
-    <td><strong>Mentor(a)</strong></td>
+    <td style="width:40%"><strong>Proyecto</strong></td>
+    <td style="width:30%"><strong>Mentor(a)</strong></td>
     <td><strong>Aprendiz</strong></td>
   </tr>
   <tr>
