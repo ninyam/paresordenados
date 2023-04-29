@@ -53,6 +53,7 @@
       }
     }
 
+    /* Navigation Bar */
     @media screen and (max-width: 600px) {
       .topnav a:not(:first-child), .dropdown .dropbtn {
         display: none;
@@ -80,6 +81,9 @@
         display: block;
         width: 100%;
         text-align: left;
+      }
+      .topnav-right {
+        float: right;
       }
     }
 
@@ -111,9 +115,11 @@
     <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a>
     <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a>
     <a href="{{ '/info' | prepend: site.baseurl }}">Información</a>
+    <div class="topnav-right">
+      <a href="https://ninyam.github.io/paresordenados_eng/">English</a>
+    </div>
     <!--<a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a>
     <a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a>-->
-    <a href="https://ninyam.github.io/paresordenados_eng/">English</a>
     <!--<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>-->
     <!--<div class="dropdown">
       <button class="dropbtn">Dropdown 
