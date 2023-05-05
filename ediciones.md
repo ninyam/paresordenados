@@ -35,7 +35,9 @@ width="800" height="500"></iframe>
     <td>Arnold Jesús Cruz Montiel</td>
   </tr>
   <tr>
-    <td>Teoría de la medida e integración pdf</td>
+    <td>Teoría de la medida e integración 
+      <a href="{{ '/edicionP23/(Carlos,Jhon Freddy).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>
+    </td>
     <td><a href="https://www.math.utah.edu/~ospina/">Carlos Ospina</a></td>
     <td>Jhon Freddy Pérez Remolina</td>
   </tr>
@@ -45,7 +47,9 @@ width="800" height="500"></iframe>
     <td>Angie Paola Isaza Jaramillo </td>
   </tr>
   <tr>
-    <td>Grupo de Grothendieck de un anillo</td>
+    <td>Introduction to Category Theory 
+      <a href="{{ '/edicionP23/(Juan Omar,Julian Andres).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>
+    </td>
     <td>Juan Omar Gómez</td>
     <td>Julián Andrés Montenegro Parra</td>
   </tr>
@@ -55,12 +59,16 @@ width="800" height="500"></iframe>
     <td>José Esteban Bastidas Zapata</td>
   </tr>
   <tr>
-    <td>Dualidad de Poincaré</td>
+    <td>Dualidad de Poincaré 
+      <a href="{{ '/edicionP23/(Juan Sebastian,Jhon Alexander).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>
+    </td>
     <td>Juan Sebastián Jaramillo Díaz</td>
     <td>Jhon Alexander Yam Borges</td>
   </tr>
   <tr>
-    <td>Introducción a la criptografía de clave pública</td>
+    <td>Introducción a la criptografía de clave pública 
+      <a href="{{ '/edicionP23/(Maye,Cesar+Yiseth).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>
+    </td>
     <td>Maye Cárdenas Montoya</td>
     <td>César David Del Real Lario y Yiseth Karina Rodríguez Cáceres</td>
   </tr>
@@ -70,24 +78,32 @@ width="800" height="500"></iframe>
     <td>Nathalia Castiblanco Carretero</td>
   </tr>
   <tr>
-    <td>Ideales de Stanley-Reisner: una relación entre el álgebra y la combinatoria</td>
+    <td>Ideales de Stanley-Reisner: una relación entre el álgebra y la combinatoria 
+      <a href="{{ '/edicionP23/(Pedro,Catalina).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>
+    </td>
     <td><a href="https://sites.google.com/cimat.mx/pedro-ramirez-moreno/home-page">Pedro Ángel Ramírez Moreno</a></td>
     <td>Catalina Quincosis Martínez</td>
   </tr>
   <tr>
-    <td>Convergencia de las series de Fourier</td>
+    <td>Convergencia de las series de Fourier 
+      <a href="{{ '/edicionP23/(Sergio Alejandro,Jonathan Raymundo).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>
+    </td>
     <td><a href="https://sergiocarrillo3026.wixsite.com/scarrillomath">Sergio Alejandro Carrillo Torres</a></td>
     <td>Jonathan Raymundo Torres Cárdenas</td>
   </tr>
   <tr>
-    <td>Grupo fundamental, aplicaciones y CW complejos</td>
-    <td><a href="https://schavesr.com/">Sergio Chaves</a></td>
-    <td>Yuhad Olarte Ibrahim</td>
-  </tr>
-  <tr>
-    <td>Primos de la forma \(x^{2} + ny^{2}\)</td>
+    <td>Primos de la forma \(x^{2} + ny^{2}\) 
+      <a href="{{ '/edicionP23/(Sergio Ricardo,Mario Andres).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>
+    </td>
     <td>Sergio Ricardo Zapata Ceballos</td>
     <td>Mario Andrés Medina Barrera</td>
+  </tr>
+  <tr>
+    <td>Grupo fundamental, aplicaciones y CW complejos 
+      <a href="{{ '/edicionP23/(Sergio,Yuhad).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>
+    </td>
+    <td><a href="https://schavesr.com/">Sergio Chaves</a></td>
+    <td>Yuhad Olarte Ibrahim</td>
   </tr>
 </table>
 </p>
