@@ -23,42 +23,42 @@ width="800" height="500"></iframe>
     <td><strong>Aprendiz</strong></td>
   </tr>
   <tr>
-    <td>Una introduccion a los sistemas dinámicos caóticos <tt>pdf</tt></td>
+    <td>Una introduccion a los sistemas dinámicos caóticos</td>
     <td>Alejandro Cardona Zapata</td>
     <td>Brayan Flórez</td>
   </tr>
   <tr>
-    <td>Teoría de representaciones de grupos y el teorema de Burnside <tt>pdf</tt></td>
+    <td>Teoría de representaciones de grupos y el teorema de Burnside</td>
     <td><a href="https://www.matem.unam.mx/~villarreal/">Bernardo Villareal</a></td>
     <td>Arnold Jesús Cruz Montiel</td>
   </tr>
   <tr>
-    <td>Teoría de la medida e integración <tt>pdf</tt></td>
+    <td>Teoría de la medida e integración pdf</td>
     <td><a href="https://www.math.utah.edu/~ospina/">Carlos Ospina</a></td>
     <td>Jhon Freddy Pérez Remolina</td>
   </tr>
   <tr>
-    <td>Interacciones elementales entre la teoría de modelos, el álgebra y la geometría algebraica <tt>pdf</tt></td>
+    <td>Interacciones elementales entre la teoría de modelos, el álgebra y la geometría algebraica</td>
     <td>Joel Torres del Valle</td>
     <td>Angie Paola Isaza Jaramillo </td>
   </tr>
   <tr>
-    <td>Grupo de Grothendieck de un anillo <tt>pdf</tt></td>
+    <td>Grupo de Grothendieck de un anillo</td>
     <td>Juan Omar Gómez</td>
     <td>Julián Andrés Montenegro Parra</td>
   </tr>
   <tr>
-    <td>Una vista a través de homologías <tt>pdf</tt></td>
+    <td>Una vista a través de homologías</td>
     <td>Juan Sebastián Gaitán</td>
     <td>José Esteban Bastidas Zapata</td>
   </tr>
   <tr>
-    <td>Dualidad de Poincaré <tt>pdf</tt></td>
+    <td>Dualidad de Poincaré</td>
     <td>Juan Sebastián Jaramillo Díaz</td>
     <td>Jhon Alexander Yam Borges</td>
   </tr>
   <tr>
-    <td>Introducción a la criptografía de clave pública <tt>pdf</tt></td>
+    <td>Introducción a la criptografía de clave pública</td>
     <td>Maye Cárdenas Montoya</td>
     <td>César David Del Real Lario y Yiseth Karina Rodríguez Cáceres</td>
   </tr>
@@ -68,22 +68,22 @@ width="800" height="500"></iframe>
     <td>Nathalia Castiblanco Carretero</td>
   </tr>
   <tr>
-    <td>Ideales de Stanley-Reisner: una relación entre el álgebra y la combinatoria <tt>pdf</tt></td>
+    <td>Ideales de Stanley-Reisner: una relación entre el álgebra y la combinatoria</td>
     <td><a href="https://sites.google.com/cimat.mx/pedro-ramirez-moreno/home-page">Pedro Ángel Ramírez Moreno</a></td>
     <td>Catalina Quincosis Martínez</td>
   </tr>
   <tr>
-    <td>Convergencia de las series de Fourier <tt>pdf</tt></td>
+    <td>Convergencia de las series de Fourier</td>
     <td><a href="https://sergiocarrillo3026.wixsite.com/scarrillomath">Sergio Alejandro Carrillo Torres</a></td>
     <td>Jonathan Raymundo Torres Cárdenas</td>
   </tr>
   <tr>
-    <td>Grupo fundamental, aplicaciones y CW complejos <tt>pdf</tt>/td>
+    <td>Grupo fundamental, aplicaciones y CW complejos</td>
     <td><a href="https://schavesr.com/">Sergio Chaves</a></td>
     <td>Yuhad Olarte Ibrahim</td>
   </tr>
   <tr>
-    <td>Primos de la forma \(x^{2} + ny^{2}\) <tt>pdf</tt></td>
+    <td>Primos de la forma \(x^{2} + ny^{2}\)</td>
     <td>Sergio Ricardo Zapata Ceballos</td>
     <td>Mario Andrés Medina Barrera</td>
   </tr>
