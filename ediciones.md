@@ -23,17 +23,17 @@ width="800" height="500"></iframe>
     <td><strong>Aprendiz</strong></td>
   </tr>
   <tr>
-    <td>Una introduccion a los sistemas dinámicos caóticos</td>
+    <td>Una introduccion a los sistemas dinámicos caóticos pdf</td>
     <td>Alejandro Cardona Zapata</td>
-    <td>Brayan Florez</td>
+    <td>Brayan Flórez</td>
   </tr>
   <tr>
-    <td>Teoría de representaciones de grupos y el teorema de Burnside</td>
+    <td>Teoría de representaciones de grupos y el teorema de Burnside pdf</td>
     <td><a href="https://www.matem.unam.mx/~villarreal/">Bernardo Villareal</a></td>
-    <td>Arnold Jesus Cruz Montiel</td>
+    <td>Arnold Jesús Cruz Montiel</td>
   </tr>
   <tr>
-    <td>Teoría de la medida e integración</td>
+    <td>Teoría de la medida e integración pdf</td>
     <td><a href="https://www.math.utah.edu/~ospina/">Carlos Ospina</a></td>
     <td>Jhon Freddy Pérez Remolina</td>
   </tr>
@@ -45,22 +45,22 @@ width="800" height="500"></iframe>
   <tr>
     <td>Grupo de Grothendieck de un anillo</td>
     <td>Juan Omar Gómez</td>
-    <td>Julian Andrés Montenegro Parra</td>
+    <td>Julián Andrés Montenegro Parra</td>
   </tr>
   <tr>
     <td>Una vista a través de homologías</td>
-    <td>Juan Sebastian Gaitán</td>
+    <td>Juan Sebastián Gaitán</td>
     <td>José Esteban Bastidas Zapata</td>
   </tr>
   <tr>
     <td>Dualidad de Poincaré</td>
-    <td>Juan Sebastian Jaramillo Díaz</td>
+    <td>Juan Sebastián Jaramillo Díaz</td>
     <td>Jhon Alexander Yam Borges</td>
   </tr>
   <tr>
     <td>Introducción a la criptografía de clave pública</td>
-    <td>Maye Montoya</td>
-    <td>Cesar David Del Real Lario y Yiseth Karina Rodriguez Cáceres</td>
+    <td>Maye Cárdenas Montoya</td>
+    <td>César David Del Real Lario y Yiseth Karina Rodríguez Cáceres</td>
   </tr>
   <tr>
     <td>Una introducción a las redes neuronales: un ejemplo de clasificación de dígitos</td>
@@ -69,7 +69,7 @@ width="800" height="500"></iframe>
   </tr>
   <tr>
     <td>Ideales de Stanley-Reisner: una relación entre el álgebra y la combinatoria</td>
-    <td><a href="https://sites.google.com/cimat.mx/pedro-ramirez-moreno/home-page">Pedro Angel Ramírez Moreno</a></td>
+    <td><a href="https://sites.google.com/cimat.mx/pedro-ramirez-moreno/home-page">Pedro Ángel Ramírez Moreno</a></td>
     <td>Catalina Quincosis Martínez</td>
   </tr>
   <tr>
