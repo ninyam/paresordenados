@@ -47,7 +47,7 @@ width="800" height="500"></iframe>
     <td>Angie Paola Isaza Jaramillo </td>
   </tr>
   <tr>
-    <td>Introduction to Category Theory 
+    <td>Introduction to category theory 
       <a href="{{ '/edicionP23/(Juan Omar,Julian Andres).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>
     </td>
     <td>Juan Omar Gómez</td>
