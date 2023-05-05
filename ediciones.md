@@ -23,7 +23,7 @@ width="800" height="500"></iframe>
     <td><strong>Aprendiz</strong></td>
   </tr>
   <tr>
-    <td>Una introduccion a los sistemas dinámicos caóticos</td>
+    <td>Una introduccion a los sistemas dinámicos caóticos <tt>pdf</tt></td>
     <td>Alejandro Cardona Zapata</td>
     <td>Brayan Flórez</td>
   </tr>
