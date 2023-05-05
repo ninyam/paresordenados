@@ -24,7 +24,7 @@ width="800" height="500"></iframe>
   </tr>
   <tr>
     <td>Una introduccion a los sistemas dinámicos caóticos 
-      <a href="{{ '/edicionP23/(Alejandro,Brayan).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>
+      <a href="{{ '/edicionP23/(Alejandro,BrayanF).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>
     </td>
     <td>Alejandro Cardona Zapata</td>
     <td>Brayan Flórez</td>
