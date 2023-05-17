@@ -33,7 +33,7 @@ sitemap:
 <p>
 Nuestra 2da edición será desde el <b>4 de septiembre de 2023</b> hasta el <b>22 de diciembre de 2023</b>.
 <br>
-Cierre de aplicaciones: 18 de agosto a las 11:59 pm EST.
+Cierre de aplicaciones: <b>18 de agosto a las 11:59 pm EST</b>.
 </p>
 </div>
 
