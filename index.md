@@ -31,9 +31,9 @@ sitemap:
 ### ¿CUÁNDO?
 <div style="text-align: justify">
 <p>
-Desde el <b>23 de enero de 2023</b> hasta el <b>28 de abril de 2023</b>.
+Nuestra 2da edición será desde el <b>4 de septiembre de 2023</b> hasta el <b>22 de diciembre de 2023</b>.
 <br>
-Cierre de aplicaciones: 16 de enero a las 11:59 pm EST.
+Cierre de aplicaciones: 18 de agosto a las 11:59 pm EST.
 </p>
 </div>
 
