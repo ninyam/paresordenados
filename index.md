@@ -17,7 +17,7 @@ sitemap:
 ### ¿QUÉ ES?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es un <a href="{{ '/info' | prepend: site.baseurl }}">Programa de Lectura Dirigida (PLD)</a>, es decir, es un programa de asesoría matemática que se encarga de conectar estudiantes de pregrado en matemáticas con estudiantes de posgrado en matemáticas, o con doctores en matemáticas que se encuentren en los inicios de sus carreras (por ejemplo, haciendo una estadía postdoctoral), para que desarrollen un proyecto de lectura durante un semestre.
+<strong>Pares Ordenados</strong> es un <a href="{{ '/info' | prepend: site.baseurl }}">Programa de Lectura Dirigida (PLD)</a>, es decir, es un programa de asesoría matemática que se encarga de conectar estudiantes de pregrado en matemáticas con estudiantes de posgrado en matemáticas, o con doctores en matemáticas que se encuentren en los inicios de sus carreras (por ejemplo, haciendo una pasantía postdoctoral), para que desarrollen un proyecto de lectura durante un semestre.
 </p>
 </div>
 
@@ -45,11 +45,11 @@ Cierre de aplicaciones: <b>18 de agosto a las 11:59 pm EST</b>.
 
 	<li>Los estudiantes de posgrado, o los doctores en matemáticas que se encuentren en los inicios de sus carreras, aplican para ser mentores. Ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
 
-	<li>Aprendices y mentores son emparejados con base a sus interéses académicos. Cada pareja escoge un tema de estudio para el semestre. Ver ejemplos de temas de estudios en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a>.</li>
+	<li>Aprendices y mentores son emparejados con base a sus interéses académicos. Cada pareja escoge un tema de estudio para el semestre. Ver ejemplos de temas de estudios en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> o en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.</li>
 
 	<li>Cada par ordenado <b>(mentor(a), aprendiz)</b> se reune virtualmente durante <b>una hora cada semana</b>.</li>
 
-	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a la organizadora. Ver ejemplos de proyectos en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a>.</li>
+	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a los organizadores. Ver ejemplos de proyectos en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> o en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>..</li>
 
 	<li>Al final del semestre se realiza una integración virtual con todos los pares ordenados donde los aprendices dan presentaciones acerca de su tema de estudio durante el semestre.</li>
 </ol>
