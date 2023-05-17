@@ -42,21 +42,11 @@ width="800" height="500"></iframe>
     <td>Jhon Freddy Pérez Remolina</td>
   </tr>
   <tr>
-    <td>Interacciones elementales entre la teoría de modelos, el álgebra y la geometría algebraica</td>
-    <td>Joel Torres del Valle</td>
-    <td>Angie Paola Isaza Jaramillo </td>
-  </tr>
-  <tr>
     <td>Introduction to category theory 
       <a href="{{ '/edicionP23/(Juan Omar,Julian Andres).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>
     </td>
     <td>Juan Omar Gómez</td>
     <td>Julián Andrés Montenegro Parra</td>
-  </tr>
-  <tr>
-    <td>Una vista a través de homologías</td>
-    <td>Juan Sebastián Gaitán</td>
-    <td>José Esteban Bastidas Zapata</td>
   </tr>
   <tr>
     <td>Dualidad de Poincaré 
@@ -73,7 +63,9 @@ width="800" height="500"></iframe>
     <td>César David Del Real Lario y Yiseth Karina Rodríguez Cáceres</td>
   </tr>
   <tr>
-    <td>Una introducción a las redes neuronales: un ejemplo de clasificación de dígitos</td>
+    <td>Una introducción a las redes neuronales: un ejemplo de clasificación de dígitos
+      <a href="https://github.com/nathalia1128/pares_ordenados_2"><tt>implementación</tt></a>
+    </td>
     <td><a href="https://www.miguelgondu.com/about/">Miguel González Duque</a></td>
     <td>Nathalia Castiblanco Carretero</td>
   </tr>
