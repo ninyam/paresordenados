@@ -40,7 +40,7 @@ Cierre de aplicaciones: <b>14 de agosto a las 11:59 pm EST</b>.
 </div>
 <div class="google-map">
 <p align="center">
-<iframe src="https://calendar.google.com/calendar/embed?src=c16afbad5a97e952e4de18748ba1d6b660cb63055a9493ee4e30c0e95c1cd463%40group.calendar.google.com&ctz=America%2FNew_York" 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FNew_York&showTabs=1&showPrint=0&showTitle=1&showNav=1&showDate=1&showCalendars=1&mode=MONTH&hl=es&title=Calendario%20Pares%20Ordenados&src=YzE2YWZiYWQ1YTk3ZTk1MmU0ZGUxODc0OGJhMWQ2YjY2MGNiNjMwNTVhOTQ5M2VlNGUzMGMwZTk1YzFjZDQ2M0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%2333B679" 
 width="800" height="500"></iframe>
 </p>
 </div>
