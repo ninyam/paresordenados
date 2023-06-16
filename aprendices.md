@@ -26,6 +26,15 @@ Ser aprendiz en Pares Ordenados implica:
 4. Escribir un resumen sobre el proyecto final y enviarlo a ```niny[.]arcilamaya[at]duke[.]edu``` a mediados del semestre.
 5. Entregar su proyecto final durante las fechas establecidas.
 
+### ¡ Atención Aprendices !
+L@s mentores se ofrecen como voluntari@s para brindarle su tiempo, energía y conocimiento.
+
+Al ser escogid@ como aprendiz, se le ha brindado un recurso valioso. ¡No lo desperdicie! Desertar de Pares Ordenados no solo perjudica su propia reputación, sino que también desalienta a el(la) mentor(a) para que no vuelva a ofrecer su tiempo como voluntari@ y podría evitar que una persona más responsable y concienzuda se beneficie de esta excelente oportunidad. 
+
+Este programa puede ser demandante ya que estará aprendiendo el material de manera más independiente que en un curso tradicional. Si las expectativas de tiempo son muy altas y no cree tener disponibilidad suficiente para el programa, por favor abstengase de aplicar hasta que tenga un semestre menos ocupado. 
+
+Si una vez aceptad@ considera que no puede comprometerse con el programa, por favor comunicarse con su mentor(a) y el comité en las siguientes fechas: 21 de agosto - 31 de agosto. Así podremos hacer un mejor uso del valioso tiempo de su mentor(a). ¡Gracias!
+
 ### Preguntas Frecuentes
 
 
