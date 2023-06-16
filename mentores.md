@@ -23,3 +23,5 @@ Ser mentor(a) en Pares Ordenados implica:
 4. Ayudar al aprendiz a escribir su resumen sobre el proyecto a mediados del semestre.
 5. Ayudar al aprendiz con la preparación de su proyecto final.
 6. Asistir a la inducción de mentores, la reunión de bienvenida y al panel/foro sobre matemátic@s en el exterior.
+
+### Preguntas Frecuentes
