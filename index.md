@@ -17,23 +17,25 @@ sitemap:
 ### ¿QUÉ ES?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es un <a href="{{ '/info' | prepend: site.baseurl }}">Programa de Lectura Dirigida (PLD)</a>, es decir, es un programa de asesoría matemática que se encarga de conectar estudiantes de pregrado en matemáticas con estudiantes de posgrado en matemáticas, o con doctores en matemáticas que se encuentren en los inicios de sus carreras (por ejemplo, haciendo una pasantía postdoctoral), para que desarrollen un proyecto de lectura durante un semestre.
+<strong>Pares Ordenados</strong> es un <a href="{{ '/info' | prepend: site.baseurl }}">Programa de Lectura Dirigida (PLD)</a>, es decir, es un programa de asesoría matemática que se encarga de conectar estudiantes de pregrado en matemáticas con estudiantes de doctoorado en matemáticas, o pasantes postdoctorales, para que desarrollen un proyecto de lectura durante un semestre.
 </p>
 </div>
 
 ### ¿PARA QUIÉN?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> tiene como población objetivo estudiantes hispanohablantes de matemáticas (o áreas afines) alrededor del mundo que pertenezcan a programas de pregrado no orientados a la investigación o que se identifiquen como miembros de una minoría.
+<strong>Pares Ordenados</strong> tiene como población objetivo estudiantes hispanohablantes de matemáticas (o áreas afines) alrededor del mundo que pertenezcan a programas de pregrado no orientados a la investigación y/o que se identifiquen como miembros de una minoría.
 </p>
 </div>
 
 ### ¿CUÁNDO?
 <div style="text-align: justify">
 <p>
-Nuestra 2da edición será desde el <b>4 de septiembre de 2023</b> hasta el <b>22 de diciembre de 2023</b>.
+Nuestra 2da edición será desde el <b>4 de septiembre de 2023</b> hasta el <b>15 de diciembre de 2023</b>.
 <br>
-Cierre de aplicaciones: <b>18 de agosto a las 11:59 pm EST</b>.
+Apertura de aplicaciones: <b>31 de julio a las 8:00 am EST</b>.
+<br>
+Cierre de aplicaciones: <b>14 de agosto a las 11:59 pm EST</b>.
 </p>
 </div>
 
@@ -43,7 +45,7 @@ Cierre de aplicaciones: <b>18 de agosto a las 11:59 pm EST</b>.
 <ol>
 	<li>Los estudiantes de pregrado aplican para ser aprendices. ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
 
-	<li>Los estudiantes de posgrado, o los doctores en matemáticas que se encuentren en los inicios de sus carreras, aplican para ser mentores. Ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
+	<li>Los estudiantes de posgrado, o pasantes postdoctorales, aplican para ser mentores. Ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
 
 	<li>Aprendices y mentores son emparejados con base a sus interéses académicos. Cada pareja escoge un tema de estudio para el semestre. Ver ejemplos de temas de estudios en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> o en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.</li>
 
@@ -51,7 +53,7 @@ Cierre de aplicaciones: <b>18 de agosto a las 11:59 pm EST</b>.
 
 	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a los organizadores. Ver ejemplos de proyectos en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> o en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>..</li>
 
-	<li>Al final del semestre se realiza una integración virtual con todos los pares ordenados donde los aprendices dan presentaciones acerca de su tema de estudio durante el semestre.</li>
+	<li>Al final del semestre los aprendices envían su proyecto final y se realiza una integración virtual con todos los pares ordenados donde los aprendices dan presentaciones acerca de su tema de estudio durante el semestre.</li>
 </ol>
 </div>
 
@@ -79,7 +81,8 @@ Uno de los principales objetivos de este programa es fomentar la colaboración e
 	<li>Tener acceso a una vía menos intimidante para explorar temas que pueden parecer fuera de su alcance.</li>
 	<li>Aprender en un ambiente divertido y libre de estrés.</li>
 	<li>Adquirir experiencia con el aprendizaje autodidacta y la comunicación escrita de las matemáticas.</li> 
-	<li>Tener la valiosa oportunidad de practicar la comunicación oral de ideas matemáticas, tanto en conversaciones casuales como en presentaciones públicas.</li>
+	<li>Tener la valiosa oportunidad de practicar la comunicación oral de las matemáticas, tanto en conversaciones casuales como en presentaciones públicas.</li>
+	<li>Crear conexiones con matemátic@s latinoamerican@s/hispan@s alrededor del mundo.</li>
 </ul>
 </div>
 
