@@ -17,7 +17,7 @@ sitemap:
 ### ¿QUÉ ES?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es un <a href="{{ '/info' | prepend: site.baseurl }}">Programa de Lectura Dirigida (PLD)</a>, es decir, es un programa de asesoría matemática que se encarga de conectar estudiantes de pregrado en matemáticas con estudiantes de doctoorado en matemáticas, o pasantes postdoctorales, para que desarrollen un proyecto de lectura durante un semestre.
+<strong>Pares Ordenados</strong> es un <a href="{{ '/info' | prepend: site.baseurl }}">Programa de Lectura Dirigida (PLD)</a>, es decir, es un programa de asesoría matemática que se encarga de conectar estudiantes de pregrado en matemáticas con estudiantes de doctorado en matemáticas, o con pasantes postdoctorales, para que desarrollen un proyecto de lectura durante un semestre.
 </p>
 </div>
 
