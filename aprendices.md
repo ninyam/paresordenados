@@ -37,7 +37,7 @@ Desertar de Pares Ordenados no solo perjudica su propia reputación, sino que ta
 <br>
 Este programa puede ser demandante, ya que estará aprendiendo el material de manera más independiente en comparación con un curso tradicional. Si las expectativas de tiempo son muy altas y siente que no podrá cumplir con el programa, le recomendamos no aplicar hasta que tenga un semestre menos ocupado. 
 <br>
-Si, una vez aceptad@, considera que no puede comprometerse con el programa, por favor comuníquese con su mentor(a) y el comité en las siguientes fechas: <b>21 de agosto</b> - <b>31 de agosto</b>. De esta manera, podremos aprovechar mejor el valioso tiempo de su mentor(a). ¡Agradecemos su colaboración!
+Si, una vez aceptad@, considera que no puede comprometerse con el programa, por favor comuníquese con su mentor(a) y el comité en las siguientes fechas: <b>21 de agosto</b> - <b>28 de agosto</b>. De esta manera, podremos aprovechar mejor el valioso tiempo de su mentor(a). ¡Agradecemos su colaboración!
 </p>
 </div>
 
