@@ -38,6 +38,12 @@ Apertura de aplicaciones: <b>31 de julio a las 8:00 am EST</b>.
 Cierre de aplicaciones: <b>14 de agosto a las 11:59 pm EST</b>.
 </p>
 </div>
+<div class="google-map">
+<p align="center">
+<iframe src="https://calendar.google.com/calendar/embed?src=c16afbad5a97e952e4de18748ba1d6b660cb63055a9493ee4e30c0e95c1cd463%40group.calendar.google.com&ctz=America%2FNew_York" 
+width="800" height="500"></iframe>
+</p>
+</div>
 
 ### ¿CÓMO?
 <div style="text-align: justify">
