@@ -57,7 +57,7 @@ width="800" height="500"></iframe>
 
 	<li>Cada par ordenado <b>(mentor(a), aprendiz)</b> se reune virtualmente durante <b>una hora cada semana</b>.</li>
 
-	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a los organizadores. Ver ejemplos de proyectos en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> o en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>..</li>
+	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a los organizadores. Ver ejemplos de proyectos en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> o en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.</li>
 
 	<li>Al final del semestre los aprendices envían su proyecto final y se realiza una integración virtual con todos los pares ordenados donde los aprendices dan presentaciones acerca de su tema de estudio durante el semestre.</li>
 </ol>
