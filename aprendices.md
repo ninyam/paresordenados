@@ -25,6 +25,7 @@ Ser aprendiz en Pares Ordenados implica:
 3. Reunirse durante <b>1 hora cada semana</b> con su mentor(a).
 4. Escribir un resumen sobre el proyecto final y enviarlo a ```niny[.]arcilamaya[at]duke[.]edu``` a mediados del semestre.
 5. Entregar su proyecto final durante las fechas establecidas.
+6. Asistir a la reunión de bienvenida y al panel/foro sobre matemátic@s en el exterior.
 
 ### ¡ Atención !
 <div style="text-align: justify">
