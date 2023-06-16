@@ -29,15 +29,15 @@ Ser aprendiz en Pares Ordenados implica:
 ### ¡ Atención Aprendices !
 <div style="text-align: justify">
 <p>
-L@s mentores(as) se ofrecen como voluntari@s para brindarle su tiempo, energía y conocimiento.
+L@s mentores(as) se ofrecen como voluntari@s para brindarle su tiempo, energía y conocimiento a los aprendices.
 <br>
-Al ser escogid@ como aprendiz, se le ha brindado un recurso valioso. ¡No lo desperdicie! 
+Al ser seleccionad@ como aprendiz, se le ha brindado un recurso valioso. ¡No lo desperdicie! 
 <br>
-Desertar de Pares Ordenados no solo perjudica su propia reputación, sino que también desalienta a el(la) mentor(a) para que no vuelva a ofrecer su tiempo como voluntari@, además podría evitar que una persona más responsable y concienzuda se beneficie de esta excelente oportunidad. 
+Desertar de Pares Ordenados no solo perjudica su propia reputación, sino que también desalienta a el(la) mentor(a) a ofrecer su tiempo como voluntari@ y podría privar a otra persona responsable y comprometida de esta excelente oportunidad. 
 <br>
-Este programa puede ser demandante ya que estará aprendiendo el material de manera más independiente comparada con un curso tradicional. Si las expectativas de tiempo son muy altas y no cree tener disponibilidad suficiente para el programa, por favor abstengase de aplicar hasta que tenga un semestre menos ocupado. 
+Este programa puede ser demandante, ya que estará aprendiendo el material de manera más independiente en comparación con un curso tradicional. Si las expectativas de tiempo son muy altas y siente que no podrá cumplir con el programa, le recomendamos no aplicar hasta que tenga un semestre menos ocupado. 
 <br>
-Si una vez aceptad@ considera que no puede comprometerse con el programa, por favor comunicarse con su mentor(a) y el comité en las siguientes fechas: 21 de agosto - 31 de agosto. Así podremos hacer un mejor uso del valioso tiempo de su mentor(a). ¡Gracias!
+Si, una vez aceptad@, considera que no puede comprometerse con el programa, por favor comuníquese con su mentor(a) y el comité en las siguientes fechas: <b>21 de agosto</b> - <b>31 de agosto</b>. De esta manera, podremos aprovechar mejor el valioso tiempo de su mentor(a). ¡Agradecemos su colaboración!
 </p>
 </div>
 
