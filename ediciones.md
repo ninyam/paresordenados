@@ -9,7 +9,7 @@ Aquí hay un mapa de las instituciones de aprendices (verde) y mentores (morado)
 
 <div class="google-map">
 <p align="center">
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=19L_QWRcbf_-wnArip-CerdlmfJ-c4hs&ehbc=2E312F" 
+<iframe src="https://www.google.com/maps/d/u/3/embed?mid=10fk_iE0reDMM932k9EpuC34nK0z5z04&ehbc=2E312F" 
 width="800" height="500"></iframe>
 </p>
 </div>
