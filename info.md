@@ -3,6 +3,12 @@ layout: page
 title: Información
 ---
 
+<div style="text-align: justify">
+<p>
+<strong>Pares Ordenados</strong> es una versión en español de los Programas de Lectura Dirigida (PLD) realizados por diferentes universidades en EE.UU. 
+</p>
+</div>
+
 ### Historia de los PLD
 <div style="text-align: justify">
 <p>
@@ -29,12 +35,6 @@ Steve Balady publicó el artículo <a href="https://blogs.ams.org/matheducation/
 <!--<img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle">-->
 <strong>Preguntas/Comentarios/Sugerencias</strong> pueden ser enviadas a</p> 
 niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[.]utah[.]edu.
-</div>
-
-<div style="text-align: justify">
-<p>
-<strong>Pares Ordenados</strong> es una versión en español de los Programas de Lectura Dirigida (PLD) realizados por diferentes universidades en EE.UU. 
-</p>
 </div>
 
 ### Agradecimientos
