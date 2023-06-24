@@ -21,16 +21,22 @@ title: Aprendices
 
 ### Expectativas
 Ser aprendiz en Pares Ordenados implica:
-1. Escoger un tema de estudio con la ayuda de su mentor(a).
-2. Comprometerse a trabajar en su tema de manera autónoma durante aproximadamente <b>4 horas semanales</b>.
-3. Reunirse durante <b>1 hora cada semana</b> con su mentor(a).
-4. Escribir un resumen sobre el proyecto final y enviarlo a ``paresordenados[@]gmail[.]com`` a mediados del semestre.
+1. Elegir un tema de estudio en colaboración con su mentor(a).
+2. Comprometerse a dedicar aproximadamente <b>4 horas semanales</b> de trabajo autónomo en el tema seleccionado.
+3. Tener una reunión semanal de <b>1 hora</b> con su mentor(a).
+4. Escribir una descripción corta sobre el proyecto final y enviarlo a ``paresordenados[@]gmail[.]com`` a mediados del semestre.
 5. Entregar su proyecto final durante las fechas establecidas.
-6. Asistir a la reunión de bienvenida y al panel/foro sobre matemátic@s en el exterior.
+6. Hacer una presentación de máximo 10 minutos sobre su proyecto de lectura.
+7. Participar en los siguientes eventos:
+    - Runión de bienvenida
+    - Panel/foro sobre matemátic@s latinoamerican@s en el extranjero
+    - Reunión final
 
 ### ¡ Atención !
 
-<button class="info"><b>Holaaaa</b></button>
+<button class="info">
+    <b>Holaaaa</b>
+</button>
 
 
 <div style="text-align: justify">
