@@ -24,11 +24,11 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
 1. Elegir un tema de estudio en colaboración con su mentor(a).
 2. Dedicar aproximadamente <b>4 horas semanales</b> de trabajo autónomo en el tema seleccionado.
 3. Tener una reunión semanal de <b>1 hora</b> con su mentor(a).
-4. Escribir y enviar una descripción corta sobre el proyecto final a mediados del programa.
+4. Escribir y enviar una descripción corta del proyecto final a mediados del programa.
 5. Entregar su proyecto final a finales del programa.
 6. Hacer una presentación de máximo 10 minutos sobre su proyecto de lectura el día de la reunión final.
 7. Participar en los siguientes eventos:
-    - Runión de bienvenida
+    - Reunión de bienvenida
     - Panel/foro sobre matemátic@s latinoamerican@s en el extranjero
     - Reunión final
 
@@ -37,7 +37,7 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
 <p style="font-size: 15px" style="line-height: 98%">
 L@s mentores(as) de Pares Ordenados son voluntari@s que brindan su tiempo, energía y conocimiento a l@s aprendices.
 <br>
-Al ser seleccionad@ como aprendiz, se le ha brindado un recurso valioso. <i>¡No lo desperdicie!</i> 
+Al ser seleccionad@ como aprendiz, se le brindará un recurso valioso. <i>¡No lo desperdicie!</i> 
 <br>
 Desertar de Pares Ordenados no solo perjudica su propia reputación, sino que también desalienta a el(la) mentor(a) a ofrecer su tiempo como voluntari@ y podría privar a otra persona responsable y comprometida de esta excelente oportunidad. 
 <br>
