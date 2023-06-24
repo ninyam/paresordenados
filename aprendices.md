@@ -34,7 +34,7 @@ Ser aprendiz en Pares Ordenados implica:
 
 ### ¡ Atención !
 <div style="text-align: justify">
-<p style="font-size: 15px">
+<p style="font-size: 15px" style="line-height: 80%">
 L@s mentores(as) se ofrecen como voluntari@s para brindarle su tiempo, energía y conocimiento a los aprendices.
 <br>
 Al ser seleccionad@ como aprendiz, se le ha brindado un recurso valioso. ¡No lo desperdicie! 
