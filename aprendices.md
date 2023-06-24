@@ -34,9 +34,9 @@ Ser aprendiz en Pares Ordenados implica:
 
 ### ¡ Atención !
 
-<button class="info">
+<div class="info">
     <b>Holaaaa</b> asdsdsdasdas
-</button>
+</div>
 
 
 <div style="text-align: justify">
