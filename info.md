@@ -26,13 +26,12 @@ Steve Balady publicó el artículo <a href="https://blogs.ams.org/matheducation/
 ### Contacto
 <div style="text-align: justify">
 <p>
-¡Hola! Mi nombre es Niny Arcila Maya. Soy docente asistente de investigación en el departamento de Matemáticas de la Universidad Duke y soy la fundadora de Pares Ordenados.
+¡Hola! Mi nombre es Niny Arcila Maya. Soy docente asistente de investigación en el Departamento de Matemáticas de la Universidad Duke y soy la fundadora de Pares Ordenados.
 </p>
 <p>
 <strong>Comité Organizador:</strong> <a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a>, <a href="https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya">Maye Cárdenas Montoya</a> y <a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a>.
 </p>
 <p>
-<!--<img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle">-->
 <strong>Preguntas/Comentarios/Sugerencias</strong> pueden ser enviadas a</p> 
 niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[.]utah[.]edu.
 </div>

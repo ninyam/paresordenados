@@ -15,7 +15,6 @@ width="800" height="500"></iframe>
 </div>
 
 ### Edición Otoño 2023
-
 #### Calendario
 <div class="google-map">
 <p align="center">
