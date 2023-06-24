@@ -20,13 +20,13 @@ title: Aprendices
 - Interés, compromiso y tiempo (5 horas semanales).
 
 ### Expectativas
-Ser aprendiz en Pares Ordenados implica:
+Sus responsabilidades como aprendiz en Pares Ordenados serán:
 1. Elegir un tema de estudio en colaboración con su mentor(a).
-2. Comprometerse a dedicar aproximadamente <b>4 horas semanales</b> de trabajo autónomo en el tema seleccionado.
+2. Dedicar aproximadamente <b>4 horas semanales</b> de trabajo autónomo en el tema seleccionado.
 3. Tener una reunión semanal de <b>1 hora</b> con su mentor(a).
-4. Escribir una descripción corta sobre el proyecto final y enviarlo a ``paresordenados[@]gmail[.]com`` durante las fechas establecidas.
-5. Entregar su proyecto final durante las fechas establecidas.
-6. Hacer una presentación de máximo 10 minutos sobre su proyecto de lectura durante las fechas establecidas.
+4. Escribir y enviar una descripción corta sobre el proyecto final a mediados del programa.
+5. Entregar su proyecto final a finales del programa.
+6. Hacer una presentación de máximo 10 minutos sobre su proyecto de lectura el día de la reunión final.
 7. Participar en los siguientes eventos:
     - Runión de bienvenida
     - Panel/foro sobre matemátic@s latinoamerican@s en el extranjero
