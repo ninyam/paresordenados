@@ -33,15 +33,7 @@ Ser aprendiz en Pares Ordenados implica:
     - Reunión final
 
 ### ¡ Atención !
-
-
 <button class="info">
-  Desertar de Pares Ordenados no solo perjudica su propia reputación, sino que también desalienta a el(la) mentor(a) a ofrecer su tiempo como voluntari@ y podría privar a otra persona responsable y comprometida de esta excelente oportunidad. 
-</button>
-
-
-
-<div style="text-align: justify">
 <p>
 L@s mentores(as) se ofrecen como voluntari@s para brindarle su tiempo, energía y conocimiento a los aprendices.
 <br>
@@ -53,14 +45,10 @@ Este programa puede ser demandante, ya que estará aprendiendo el material de ma
 <br>
 Si, una vez aceptad@, considera que no puede comprometerse con el programa, por favor comuníquese con su mentor(a) y el comité en las siguientes fechas: <b>21 de agosto</b> - <b>28 de agosto</b>. De esta manera, podremos aprovechar mejor el valioso tiempo de su mentor(a). ¡Agradecemos su colaboración!
 </p>
+</button>
+
+<div style="text-align: justify">
+hola
 </div>
 
 ### Preguntas Frecuentes
-
-<div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-dfdfdfdgdgfdgfdg
-fhfghgfh
-
-gjhkhk
