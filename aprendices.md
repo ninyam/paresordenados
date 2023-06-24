@@ -32,9 +32,9 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
     - Panel/foro sobre matemátic@s latinoamerican@s en el extranjero
     - Reunión final
 
-### **¡Atención!**
+
 <div style="text-align: justify">
-<p style="font-size: 15px" style="line-height: 95%" style="color: #FF7A59">
+<p style="color: #C94322" style="font-size: 15px" style="line-height: 90%">
 <b>¡Atención!</b>
 <br>
 L@s mentores(as) de Pares Ordenados son voluntari@s que brindan su tiempo, energía y conocimiento a l@s aprendices.
