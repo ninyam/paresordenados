@@ -37,15 +37,15 @@ niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[
 
 <div class="row">
   <div class="column">
-    <img src="{{ '/assets/img/Niny.jpg' | prepend: site.baseurl }}" alt="Niny" style="width:100%" width="300">
+    <img src="{{ '/assets/img/niny.jpg' | prepend: site.baseurl }}" alt="Niny" style="width:100%" width="300">
     <caption>Niny</caption>
   </div>
   <div class="column">
-    <img src="{{ '/assets/img/Maye.jpg' | prepend: site.baseurl }}" alt="Maye" style="width:100%">
+    <img src="{{ '/assets/img/maye.jpg' | prepend: site.baseurl }}" alt="Maye" style="width:100%">
     <figcaption>Maye</figcaption>
   </div>
   <div class="column">
-    <img src="{{ '/assets/img/Carlos.jpg' | prepend: site.baseurl }}" alt="Carlos" style="width:100%">
+    <img src="{{ '/assets/img/carlos.jpg' | prepend: site.baseurl }}" alt="Carlos" style="width:100%">
     <figcaption>Carlos</figcaption>
   </div>
 </div>
