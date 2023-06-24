@@ -24,9 +24,9 @@ Ser aprendiz en Pares Ordenados implica:
 1. Elegir un tema de estudio en colaboración con su mentor(a).
 2. Comprometerse a dedicar aproximadamente <b>4 horas semanales</b> de trabajo autónomo en el tema seleccionado.
 3. Tener una reunión semanal de <b>1 hora</b> con su mentor(a).
-4. Escribir una descripción corta sobre el proyecto final y enviarlo a ``paresordenados[@]gmail[.]com`` a mediados del semestre.
+4. Escribir una descripción corta sobre el proyecto final y enviarlo a ``paresordenados[@]gmail[.]com`` durante las fechas establecidas
 5. Entregar su proyecto final durante las fechas establecidas.
-6. Hacer una presentación de máximo 10 minutos sobre su proyecto de lectura.
+6. Hacer una presentación de máximo 10 minutos sobre su proyecto de lectura durante las fechas establecidas.
 7. Participar en los siguientes eventos:
     - Runión de bienvenida
     - Panel/foro sobre matemátic@s latinoamerican@s en el extranjero
@@ -34,9 +34,12 @@ Ser aprendiz en Pares Ordenados implica:
 
 ### ¡ Atención !
 
-<div class="info">
-    <b>Holaaaa</b> asdsdsdasdas
-</div>
+<span style="cursor: pointer">
+    <button class="info">
+    Desertar de Pares Ordenados no solo perjudica su propia reputación, sino que también desalienta a el(la) mentor(a) a ofrecer su tiempo como voluntari@ y podría privar a otra persona responsable y comprometida de esta excelente oportunidad. 
+    </button>
+</span>
+
 
 
 <div style="text-align: justify">
