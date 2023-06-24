@@ -36,14 +36,14 @@ niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[
 </div>
 
 <div class="row">
-  <div class="column" width="50px" height="50px">
-    <img src="{{ '/assets/img/Niny.jpg' | prepend: site.baseurl }}" alt="Snow" style="width:100%">
+  <div class="column">
+    <img src="{{ '/assets/img/Niny.jpg' | prepend: site.baseurl }}" alt="Niny" style="width:100%" height="600">
   </div>
   <div class="column">
-    <img src="{{ '/assets/img/Maye.jpg' | prepend: site.baseurl }}" alt="Forest" style="width:100%">
+    <img src="{{ '/assets/img/Maye.jpg' | prepend: site.baseurl }}" alt="Maye" style="width:100%">
   </div>
   <div class="column">
-    <img src="{{ '/assets/img/Carlos.jpg' | prepend: site.baseurl }}" alt="Mountains" style="width:100%">
+    <img src="{{ '/assets/img/Carlos.jpg' | prepend: site.baseurl }}" alt="Carlos" style="width:100%">
   </div>
 </div>
 
