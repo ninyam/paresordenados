@@ -38,15 +38,15 @@ niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[
 <div class="row">
   <div class="column">
     <img src="{{ '/assets/img/niny.jpg' | prepend: site.baseurl }}" alt="Niny" style="width:100%" width="300">
-    <caption>Niny</caption>
+    <figcaption><a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a></figcaption>
   </div>
   <div class="column">
     <img src="{{ '/assets/img/maye.jpg' | prepend: site.baseurl }}" alt="Maye" style="width:100%">
-    <figcaption>Maye</figcaption>
+    <figcaption><a href="https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya">Maye Cárdenas Montoya</a></figcaption>
   </div>
   <div class="column">
     <img src="{{ '/assets/img/carlos.jpg' | prepend: site.baseurl }}" alt="Carlos" style="width:100%">
-    <figcaption>Carlos</figcaption>
+    <figcaption><a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a></figcaption>
   </div>
 </div>
 
