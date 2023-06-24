@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <style>
     /* Header and Logo Title */
@@ -140,6 +141,7 @@
   {% include meta_tags/base.html %}
   {% include externals/styling.html %}
 </head>
+
 <body>
   <div class="header">
     <h1>Pares Ordenados <br> (mentores, aprendices)</h1>
@@ -148,6 +150,7 @@
       <button class="button2"><b>English</b></button>
     </span>
   </div>
+
   <div class="topnav" id="myTopnav">
     <a href="{{ '/index' | prepend: site.baseurl }}" class="active">Inicio</a> 
     <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a>
@@ -169,15 +172,7 @@
       </div>
     </div>-->   
   </div>
-  <!--<div class="navbar">        
-    <a href="{{ '/index' | prepend: site.baseurl }}">Inicio</a> 
-    <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a>
-    <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a>
-    <a href="{{ '/proyectos' | prepend: site.baseurl }}">Proyectos</a>
-    <a href="{{ '/info' | prepend: site.baseurl }}">Información</a>
-    <a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a>
-    <a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a>
-  </div>-->
+  
   <div class="wrapper">        
     {{ content }}
   </div>
@@ -213,4 +208,5 @@
     }
   </script>
 </body>
+
 </html>
