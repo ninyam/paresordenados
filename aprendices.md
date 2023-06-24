@@ -33,7 +33,7 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
     - Reunión final
 
 
-<div style="text-align: justify" style="color: #AB1142">
+<div style="text-align: justify" style="color: #ED0974">
 <p style="font-size: 15px" style="line-height: 110%">
 <b>¡Atención!</b>
 <br>
