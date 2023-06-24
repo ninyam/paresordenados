@@ -27,14 +27,9 @@ En el blog "<em>On Teaching and Learning Mathematics</em>" de la Sociedad Estado
 <p>
 ¡Hola! Mi nombre es Niny Arcila Maya. Soy docente asistente de investigación en el Departamento de Matemáticas de la Universidad Duke y soy la fundadora de Pares Ordenados.
 </p>
-<p>
-<strong>Comité Organizador:</strong> <a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a>, <a href="https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya">Maye Cárdenas Montoya</a> y <a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a>.
-</p>
-<p>
-<strong>Preguntas/Comentarios/Sugerencias</strong> pueden ser enviadas a</p> 
-niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[.]utah[.]edu.
 </div>
 
+#### Comité Organizador
 <div class="row">
   <div class="column">
     <img src="{{ '/assets/img/niny.jpg' | prepend: site.baseurl }}" alt="Niny" style="width:100%" width="300">
@@ -49,6 +44,17 @@ niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[
     <figcaption><a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a></figcaption>
   </div>
 </div>
+
+<div style="text-align: justify">
+<p>
+<strong>Comité Organizador:</strong> <a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a>, <a href="https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya">Maye Cárdenas Montoya</a> y <a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a>.
+</p>
+<p>
+<strong>Preguntas/Comentarios/Sugerencias</strong> pueden ser enviadas a</p> 
+niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[.]utah[.]edu.
+</div>
+
+
 
 ### Agradecimientos
 <div style="text-align: justify">

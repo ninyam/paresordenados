@@ -34,6 +34,7 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
 
 
 <div style="text-align: justify" style="color: #ED0974">
+<div style="color: #ED0974">
 <p style="font-size: 15px" style="line-height: 110%">
 <b>¡Atención!</b>
 <br>
@@ -48,6 +49,7 @@ Este programa puede ser demandante, ya que estará aprendiendo el material de ma
 <br>
 Si, una vez aceptad@, considera que no puede comprometerse con el programa, por favor comuníquese con su mentor(a) y el comité organizador durante el <i>periodo para rechazar aceptación</i>, ver calendario en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>. De esta manera, podremos aprovechar mejor el valioso tiempo de su mentor(a). ¡Agradecemos su colaboración!
 </p>
+</div>
 </div>
 
 ### Preguntas Frecuentes
