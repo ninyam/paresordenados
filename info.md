@@ -5,21 +5,20 @@ title: Información
 
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es una versión en español de los Programas de Lectura Dirigida (PLD) realizados por diferentes universidades en EE.UU. 
+<strong>Pares Ordenados</strong> es una versión en español de los Programas de Lectura Dirigida realizados por diferentes universidades en EE.UU. 
 </p>
 </div>
 
 ### Historia de los PLD
 <div style="text-align: justify">
 <p>
-Los PLD reciben el nombre de Directed Reading Programs (DRP) en inglés.  La primera versión de los PLD fue creada en la Universidad de Chicago por Mark Behrens y Moon Duchin en el 2003. Actualmente existen más de 20 instituciones que realizan, o han realizado, PLD en EE.UU., los cuales comenzaron a través de esfuerzos comunitarios de estudiantes de posgrado.
+Los Programas de Lectura Dirigida (PLD), conocidos como Directed Reading Programs (DRP) en inglés, fueron inicialmente desarrollados en la Universidad de Chicago por Mark Behrens y Moon Duchin en 2003. En la actualidad, más de 20 instituciones en EE.UU. realizan PLD, los cuales usualmente surgen a través de iniciativas de estudiantes de posgrado.
 <br>
-Mark Behrens, Moon Duchin, Kathryn Mann, Candice Price, Felipe Ramirez, Gigliola Staffilani y Bena Tshishiku iniciaron la Red de PLD (DRP Network). En el 2018, realizaron una conferencia de la red en el Instituto de Tecnología de Massachusetts. En 2018-2019 obtuvieron una subvención de la Fundación Nacional de Ciencia de EE.UU. para hacer un estudio educativo sobre los PLD. Este estudio fue realizado por la psicóloga social <a href="https://psychology.berkeley.edu/people/ozlem-ayduk">Ozlem Ayduk</a> de la Universidad de California, Berkeley. Resultados de las encuestas y las entrevistas pueden ser encontrados aquí: <a href="https://drive.google.com/file/d/1v0T0f9Gw_-T1elHPvUl6PhQWn2g_pCD3/view">encuestas</a> - <a href="https://drive.google.com/file/d/1NNcSrwUe9fBgF5yCh_x0Rk7EZUjR8A27/view">entrevistas</a>.
+Mark Behrens, Moon Duchin, Kathryn Mann, Candice Price, Felipe Ramirez, Gigliola Staffilani y Bena Tshishiku iniciaron la Red de PLD (DRP Network). En el 2018, organizaron una conferencia de la red en el Instituto de Tecnología de Massachusetts. Además, en el período 2018-2019, recibieron una subvención de la Fundación Nacional de Ciencia de EE.UU. para llevar a cabo un estudio educativo sobre los PLD, que fue realizado por la psicóloga social <a href="https://psychology.berkeley.edu/people/ozlem-ayduk">Ozlem Ayduk</a> de la Universidad de California, Berkeley. Los resultados de las encuestas y las entrevistas pueden ser encontrados en los siguientes enlaces: <a href="https://drive.google.com/file/d/1v0T0f9Gw_-T1elHPvUl6PhQWn2g_pCD3/view">encuestas</a> - <a href="https://drive.google.com/file/d/1NNcSrwUe9fBgF5yCh_x0Rk7EZUjR8A27/view">entrevistas</a>.
 <br>
-Mann y Tshishiku crearon un sitio web que compila información y recursos sobre los PLD, ver <a href="https://sites.google.com/view/drp-network/home?authuser=0">DRP Network</a>. Enlaces a los sitios web de diferentes PLD en EE.UU. pueden ser encontrados en <a href="https://sites.google.com/view/drp-network/resources?authuser=0#h.6hulz7bu5vgo">Links to local DRP program websites</a>.
+Existe un sitio web de la red, creado por Mann y Tshishiku, el cual compila información y recursos sobre los PLD. Puede acceder a este sitio web en <a href="https://sites.google.com/view/drp-network/home?authuser=0">DRP Network</a>. Además, encontrará enlaces a los sitios web de diferentes PLD en <a href="https://sites.google.com/view/drp-network/resources?authuser=0#h.6hulz7bu5vgo">Links to local DRP program websites</a>.
 <br>
-<!--En el blog On Teaching and Learning Mathematics de la Sociedad Estadounidense de Matemáticas se puede encontrar una publicación de Steve Balady sobre los PLD. Ver la publicación aquí: <a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/"><cite>We Started a Directed Reading Program (And So Can You!)</cite></a>.-->
-Steve Balady publicó el artículo <a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/"><cite>We Started a Directed Reading Program (And So Can You!)</cite></a> en el blog <em>On Teaching and Learning Mathematics</em> de la Sociedad Estadounidense de Matemáticas.
+En el blog "<em>On Teaching and Learning Mathematics</em>" de la Sociedad Estadounidense de Matemáticas, hay un artículo interesante escrito por Steve Balady acerca de los PLD. Puede acceder al artículo siguiendo este enlace: <a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/"><cite>We Started a Directed Reading Program (And So Can You!)</cite></a>.
 </p>
 </div>
 
