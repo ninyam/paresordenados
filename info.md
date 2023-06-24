@@ -36,7 +36,7 @@ niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[
 </div>
 
 <div class="row">
-  <div class="column">
+  <div class="column" width="50px" height="50px">
     <img src="{{ '/assets/img/Niny.jpg' | prepend: site.baseurl }}" alt="Snow" style="width:100%">
   </div>
   <div class="column">
