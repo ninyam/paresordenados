@@ -13,9 +13,10 @@ title: Aprendices
 - Hablar español.
 - Ser estudiante de matemáticas (o áreas afines).
 - Pertenecer a un programa de pregrado no orientado a la investigación o ser miembro de al menos una minoría.
-- Haber visto cursos de cálculo diferencial, integral y vectorial.
-- Haber visto un curso de álgebra lineal.
-- Haber visto un curso basado en demostraciones matemáticas (i.e. tener conocimiento de tipos de demostraciones).
+- Haber visto los siguientes cursos
+    - cálculo diferencial, integral y vectorial
+    - álgebra lineal
+    - demostraciones matemáticas (i.e. tener conocimiento de tipos de demostraciones)
 - Interés, compromiso y tiempo (5 horas semanales).
 
 ### Expectativas
