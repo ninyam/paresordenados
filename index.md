@@ -36,6 +36,8 @@ La edición Otoño 2023 será desde el <b>4 de septiembre de 2023</b> hasta el <
 Apertura de aplicaciones: <b>3 de julio a las 8:00 am EST</b>.
 <br>
 Cierre de aplicaciones: <b>14 de agosto a las 11:59 pm EST</b>.
+<br>
+Para ver el calendario detallado, ir a <b>Edición Otoño 2023</b> en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.
 </p>
 </div>
 
