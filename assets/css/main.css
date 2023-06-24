@@ -243,7 +243,7 @@ td, th {
 
 .topnav a:hover, .dropdown:hover .dropbtn {
   background-color: white;
-  color: rgb(51, 116, 212);
+  color: #1574D4;
 }
 
 .dropdown-content a:hover {

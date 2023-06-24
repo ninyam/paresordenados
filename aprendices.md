@@ -29,6 +29,9 @@ Ser aprendiz en Pares Ordenados implica:
 6. Asistir a la reunión de bienvenida y al panel/foro sobre matemátic@s en el exterior.
 
 ### ¡ Atención !
+<span>
+    <button class="info"><b>Holaaaa</b></button>
+</span>
 <div class="info">
   <p><strong>Info!</strong> Some text...</p>
 </div>
