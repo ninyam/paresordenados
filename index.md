@@ -46,17 +46,17 @@ Para ver el calendario detallado, ir a <b>Edición Otoño 2023</b> en <a href="{
 <div style="text-align: justify">
 <p><strong>Pares Ordenados</strong> se lleva a cabo virtualmente.</p>
 <ol>
-	<li>Los estudiantes de pregrado aplican para ser aprendices. ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
+	<li>L@s estudiantes de pregrado aplican para ser aprendices. ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
 
-	<li>Los estudiantes de posgrado, o pasantes postdoctorales, aplican para ser mentores. Ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
+	<li>L@s estudiantes de posgrado, o pasantes postdoctorales, aplican para ser mentores(as). Ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
 
-	<li>Aprendices y mentores son emparejados con base a sus interéses académicos. Cada pareja escoge un tema de estudio para el semestre. Ver ejemplos de temas de estudios en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> o en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.</li>
+	<li>Aprendices y mentores son emparejad@s con base a sus interéses académicos. Cada pareja escoge un tema de estudio para el semestre. Ver ejemplos de temas de estudios en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> o en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.</li>
 
 	<li>Cada par ordenado <b>(mentor(a), aprendiz)</b> se reune virtualmente durante <b>una hora cada semana</b>.</li>
 
-	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a los organizadores. Ver ejemplos de proyectos en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> o en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.</li>
+	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado al comité organizador. Ver ejemplos de proyectos en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> o en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.</li>
 
-	<li>Al final del semestre los aprendices envían su proyecto final y se realiza una integración virtual con todos los pares ordenados donde los aprendices dan presentaciones acerca de su tema de estudio durante el semestre.</li>
+	<li>Al final del semestre l@s aprendices envían su proyecto final y se realiza una integración virtual con todos los pares ordenados donde los aprendices dan presentaciones acerca de su tema de estudio.</li>
 </ol>
 </div>
 
@@ -71,7 +71,7 @@ Para ver el calendario detallado, ir a <b>Edición Otoño 2023</b> en <a href="{
 
 <div style="text-align: justify">
 <p>
-¡<strong>Pares Ordenados</strong> es acerca de la comunidad!
+¡<strong>Pares Ordenados</strong> es para crear comunidad!
 <br>
 Uno de los principales objetivos de este programa es fomentar la colaboración entre los miembros de nuestra <b>Comunidad Matemática Latina/Hispana</b> alrededor del mundo.
 </p>

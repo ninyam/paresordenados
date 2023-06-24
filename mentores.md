@@ -30,8 +30,10 @@ Sus responsabilidades como mentor(a) en Pares Ordenados serán:
 
 ### **¡Atención!**
 <div style="text-align: justify">
-<p style="font-size: 15px" style="line-height: 98%">
-Pares Ordenados se trata de equipar a los estudiantes de pregrado con las herramientas necesarias para profundizar en matemáticas más sofisticadas por medio de la lectura de una sección de un libro o un artículo. No se trata de hacer un proyecto de investigación.
+<p style="font-size: 15px" style="line-height: 100%">
+Pares Ordenados no es un programa para desarrollar proyectos de investigación.
+<br>
+El enfoque principal es equipar a los estudiantes de pregrado con las herramientas necesarias para profundizar en matemáticas más sofisticadas por medio de la lectura de una sección de un libro o un artículo. 
 </p>
 </div>
 
