@@ -35,6 +35,18 @@ En el blog "<em>On Teaching and Learning Mathematics</em>" de la Sociedad Estado
 niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[.]utah[.]edu.
 </div>
 
+<div class="row">
+  <div class="column">
+    <img src="{{ '/assets/img/Niny.jpg' | prepend: site.baseurl }}" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="{{ '/assets/img/Maye.jpg' | prepend: site.baseurl }}" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="{{ '/assets/img/Carlos.jpg' | prepend: site.baseurl }}" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
 ### Agradecimientos
 <div style="text-align: justify">
 <p>
