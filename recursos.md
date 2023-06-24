@@ -21,7 +21,7 @@ En los siguientes enlaces puede encontrar ejemplos explícitos sobre temas de es
     <td><a href="https://math.uchicago.edu/~drp/past-projects/">Universidad de Chicago</a></td>
   </tr>
   <tr>
-    <td><a href="https://sites.google.com/view/twoples/about/past-years?authuser=0">Universidad de Duke</a></td>
+    <td><a href="https://sites.google.com/view/twoples/about/past-years?authuser=0">Universidad Duke</a></td>
     <td><a href="https://www-users.cse.umn.edu/~mahrud/drp/bookshelf/">Universidad de Minnesota</a></td>
     <td><a href="https://web.ma.utexas.edu/users/drp/projects.html">Universidad de Texas, Austin</a></td>
   </tr>
