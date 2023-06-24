@@ -37,8 +37,8 @@ niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[
 
 <div class="row">
   <div class="column">
-    <img src="{{ '/assets/img/Niny.jpg' | prepend: site.baseurl }}" alt="Niny" style="width:100%" style="width:50%">
-    <figcaption>Niny</figcaption>
+    <img src="{{ '/assets/img/Niny.jpg' | prepend: site.baseurl }}" alt="Niny" style="width:100%" width="400">
+    <caption>Niny</caption>
   </div>
   <div class="column">
     <img src="{{ '/assets/img/Maye.jpg' | prepend: site.baseurl }}" alt="Maye" style="width:100%">
