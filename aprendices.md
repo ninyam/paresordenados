@@ -48,3 +48,5 @@ Si, una vez aceptad@, considera que no puede comprometerse con el programa, por 
 </div>
 
 ### Preguntas Frecuentes
+
+Holaaaaa
