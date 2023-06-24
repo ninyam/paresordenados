@@ -33,9 +33,10 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
     - Reunión final
 
 
-<div style="text-align: justify" style="color: #C94322">
-<p style="font-size: 15px" style="line-height: 100%">
+<div style="text-align: justify" style="color: #AB1142">
+<p style="font-size: 15px" style="line-height: 110%">
 <b>¡Atención!</b>
+<br>
 <br>
 L@s mentores(as) de Pares Ordenados son voluntari@s que brindan su tiempo, energía y conocimiento a l@s aprendices.
 <br>
