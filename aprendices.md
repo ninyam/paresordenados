@@ -28,6 +28,9 @@ Ser aprendiz en Pares Ordenados implica:
 6. Asistir a la reunión de bienvenida y al panel/foro sobre matemátic@s en el exterior.
 
 ### ¡ Atención !
+<div class="info">
+  <p><strong>Info!</strong> Some text...</p>
+</div>
 <div style="text-align: justify">
 <p>
 L@s mentores(as) se ofrecen como voluntari@s para brindarle su tiempo, energía y conocimiento a los aprendices.
