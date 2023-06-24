@@ -34,11 +34,10 @@ Ser aprendiz en Pares Ordenados implica:
 
 ### ¡ Atención !
 
-<span style="cursor: pointer">
-    <button class="info">
-    Desertar de Pares Ordenados no solo perjudica su propia reputación, sino que también desalienta a el(la) mentor(a) a ofrecer su tiempo como voluntari@ y podría privar a otra persona responsable y comprometida de esta excelente oportunidad. 
-    </button>
-</span>
+
+<button class="info">
+  Desertar de Pares Ordenados no solo perjudica su propia reputación, sino que también desalienta a el(la) mentor(a) a ofrecer su tiempo como voluntari@ y podría privar a otra persona responsable y comprometida de esta excelente oportunidad. 
+</button>
 
 
 
