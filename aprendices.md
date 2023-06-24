@@ -49,4 +49,4 @@ Si, una vez aceptad@, considera que no puede comprometerse con el programa, por 
 
 ### Preguntas Frecuentes
 
-Holaaaaa
+chaooo
