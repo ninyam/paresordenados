@@ -30,7 +30,7 @@ En el blog "<em>On Teaching and Learning Mathematics</em>" de la Sociedad Estado
 </div>
 
 #### **Comité Organizador**
-Preguntas/Comentarios/Sugerencias pueden ser enviadas a 
+Preguntas/Comentarios/Sugerencias pueden ser enviad@s a
 <div class="row">
   <div class="column">
     <figure>
