@@ -29,12 +29,13 @@ En el blog "<em>On Teaching and Learning Mathematics</em>" de la Sociedad Estado
 </p>
 </div>
 
-#### Comité Organizador
+#### **Comité Organizador**
 <div class="row">
-  <strong>Comité Organizador</strong>
   <div class="column">
+  <figure>
     <img src="{{ '/assets/img/niny.jpg' | prepend: site.baseurl }}" alt="Niny" style="width:100%" width="300">
-    <figcaption text-align="center"><a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a></figcaption>
+    <figcaption><a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a></figcaption>
+  </figure>
   </div>
   <div class="column">
     <img src="{{ '/assets/img/maye.jpg' | prepend: site.baseurl }}" alt="Maye" style="width:100%">
@@ -47,9 +48,6 @@ En el blog "<em>On Teaching and Learning Mathematics</em>" de la Sociedad Estado
 </div>
 
 <div style="text-align: justify">
-<p>
-<strong>Comité Organizador:</strong> <a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a>, <a href="https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya">Maye Cárdenas Montoya</a> y <a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a>.
-</p>
 <p>
 <strong>Preguntas/Comentarios/Sugerencias</strong> pueden ser enviadas a</p> 
 niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[.]utah[.]edu.
