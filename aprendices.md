@@ -9,6 +9,25 @@ title: Aprendices
     <button class="button1"><b>Aplicación para Aprendices</b></button>
 </span>
 
+<div style="text-align: justify">
+<div style="color: #ED0974">
+<p style="font-size: 15px" style="line-height: 110%">
+<b>¡Atención!</b>
+<br>
+<br>
+L@s mentores(as) de Pares Ordenados son voluntari@s que brindan su tiempo, energía y conocimiento a l@s aprendices.
+<br>
+Al ser seleccionad@ como aprendiz, se le brindará un recurso valioso. <i>¡No lo desperdicie!</i> 
+<br>
+Desertar de Pares Ordenados no solo perjudica su propia reputación, sino que también desalienta a el(la) mentor(a) a ofrecer su tiempo como voluntari@. Además, podría privar a otra persona responsable y comprometida de esta oportunidad. 
+<br>
+Este programa puede ser demandante, ya que estará aprendiendo el material de manera más independiente en comparación con un curso tradicional. Si las expectativas de tiempo son muy altas y siente que no podrá cumplir con el programa, le recomendamos no aplicar hasta que tenga un semestre menos ocupado. 
+<br>
+Si, una vez aceptad@, considera que no puede comprometerse con el programa, por favor comuníquese con su mentor(a) y el comité organizador durante el <i>periodo para rechazar aceptación</i>, ver calendario en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>. De esta manera, podremos aprovechar mejor el valioso tiempo de su mentor(a). ¡Agradecemos su colaboración!
+</p>
+</div>
+</div>
+
 ### Requisitos
 - Hablar español.
 - Ser estudiante de matemáticas (o áreas afines).
@@ -31,26 +50,6 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
     - Reunión de bienvenida
     - Panel/foro sobre matemátic@s latinoamerican@s en el extranjero
     - Reunión final
-
-
-<div style="text-align: justify">
-<div style="color: #ED0974">
-<p style="font-size: 15px" style="line-height: 110%">
-<b>¡Atención!</b>
-<br>
-<br>
-L@s mentores(as) de Pares Ordenados son voluntari@s que brindan su tiempo, energía y conocimiento a l@s aprendices.
-<br>
-Al ser seleccionad@ como aprendiz, se le brindará un recurso valioso. <i>¡No lo desperdicie!</i> 
-<br>
-Desertar de Pares Ordenados no solo perjudica su propia reputación, sino que también desalienta a el(la) mentor(a) a ofrecer su tiempo como voluntari@ y podría privar a otra persona responsable y comprometida de esta excelente oportunidad. 
-<br>
-Este programa puede ser demandante, ya que estará aprendiendo el material de manera más independiente en comparación con un curso tradicional. Si las expectativas de tiempo son muy altas y siente que no podrá cumplir con el programa, le recomendamos no aplicar hasta que tenga un semestre menos ocupado. 
-<br>
-Si, una vez aceptad@, considera que no puede comprometerse con el programa, por favor comuníquese con su mentor(a) y el comité organizador durante el <i>periodo para rechazar aceptación</i>, ver calendario en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>. De esta manera, podremos aprovechar mejor el valioso tiempo de su mentor(a). ¡Agradecemos su colaboración!
-</p>
-</div>
-</div>
 
 ### Preguntas Frecuentes
 

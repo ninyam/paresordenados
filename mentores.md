@@ -9,6 +9,19 @@ title: Mentores
     <button class="button1"><b>Aplicación para Mentores</b></button>
 </span>
 
+<div style="text-align: justify">
+<div style="color: #ED0974">
+<p style="font-size: 15px" style="line-height: 110%">
+<b>¡Atención!</b>
+<br>
+<br>
+Pares Ordenados no es un programa para desarrollar proyectos de investigación.
+<br>
+Nuestro objetivo es equipar a los estudiantes de pregrado con las herramientas necesarias para profundizar en matemáticas más sofisticadas por medio de la lectura de una sección de un libro o un artículo. 
+</p>
+</div>
+</div>
+
 ### Requisitos
 - Hablar español.
 - Ser estudiante de doctorado en matemáticas o ser pasante postdoctoral.
@@ -27,14 +40,5 @@ Sus responsabilidades como mentor(a) en Pares Ordenados serán:
     - Reunión de bienvenida
     - Panel/foro sobre matemátic@s latinoamerican@s en el extranjero
     - Reunión final
-
-### **¡Atención!**
-<div style="text-align: justify">
-<p style="font-size: 15px" style="line-height: 100%">
-Pares Ordenados no es un programa para desarrollar proyectos de investigación.
-<br>
-El enfoque principal es equipar a los estudiantes de pregrado con las herramientas necesarias para profundizar en matemáticas más sofisticadas por medio de la lectura de una sección de un libro o un artículo. 
-</p>
-</div>
 
 ### Preguntas Frecuentes
