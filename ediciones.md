@@ -10,7 +10,7 @@ Aquí hay un mapa de las instituciones de aprendices (verde) y mentores (morado)
 <div class="google-map">
 <p align="center">
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=10fk_iE0reDMM932k9EpuC34nK0z5z04&ehbc=2E312F" 
-width="700" height="400"></iframe>
+width="800" height="500"></iframe>
 </p>
 </div>
 
@@ -19,7 +19,7 @@ width="700" height="400"></iframe>
 <div class="google-map">
 <p align="center">
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FNew_York&hl=es&showNav=1&showDate=1&showPrint=0&showTabs=0&showCalendars=0&src=Nzc0YTRmMjQ2ODJmMjY1OTQ5ZjE1MmIzYTIzMzc2MTk5YjFlNmE1YmE4NTVkZDAyZjdkOTM0ZTA4N2JiNjc4NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%2333B679" 
-width="800" height="500"></iframe>
+width="600" height="300"></iframe>
 </p>
 </div>
 
