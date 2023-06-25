@@ -30,6 +30,7 @@ En el blog "<em>On Teaching and Learning Mathematics</em>" de la Sociedad Estado
 </div>
 
 #### **Comité Organizador**
+Preguntas/Comentarios/Sugerencias pueden ser enviadas a 
 <div class="row">
   <div class="column">
   <figure>
@@ -42,22 +43,26 @@ En el blog "<em>On Teaching and Learning Mathematics</em>" de la Sociedad Estado
   </figure>
   </div>
   <div class="column">
+  <figure>
     <img src="{{ '/assets/img/maye.jpg' | prepend: site.baseurl }}" alt="Maye" style="width:100%">
-    <figcaption><a href="https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya">Maye Cárdenas Montoya</a></figcaption>
+    <figcaption>
+      <a href="https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya">Maye Cárdenas Montoya</a>
+      <br>
+      maye[.]montoya[@]utoronto[.]ca
+    </figcaption>
   </div>
+  </figure>
   <div class="column">
+  <figure>
     <img src="{{ '/assets/img/carlos.jpg' | prepend: site.baseurl }}" alt="Carlos" style="width:100%">
-    <figcaption><a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a></figcaption>
+    <figcaption>
+      <a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a>
+      <br>
+      ospina[@]math[.]utah[.]edu
+    </figcaption>
+  </figure>
   </div>
 </div>
-
-<div style="text-align: justify">
-<p>
-<strong>Preguntas/Comentarios/Sugerencias</strong> pueden ser enviadas a</p> 
-niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca u ospina[@]math[.]utah[.]edu.
-</div>
-
-
 
 ### Agradecimientos
 <div style="text-align: justify">
