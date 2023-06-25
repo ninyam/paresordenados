@@ -31,9 +31,10 @@ En el blog "<em>On Teaching and Learning Mathematics</em>" de la Sociedad Estado
 
 #### Comité Organizador
 <div class="row">
+  <strong>Comité Organizador</strong>
   <div class="column">
     <img src="{{ '/assets/img/niny.jpg' | prepend: site.baseurl }}" alt="Niny" style="width:100%" width="300">
-    <figcaption><a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a></figcaption>
+    <figcaption text-align="center"><a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a></figcaption>
   </div>
   <div class="column">
     <img src="{{ '/assets/img/maye.jpg' | prepend: site.baseurl }}" alt="Maye" style="width:100%">
