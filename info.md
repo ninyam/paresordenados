@@ -34,7 +34,11 @@ En el blog "<em>On Teaching and Learning Mathematics</em>" de la Sociedad Estado
   <div class="column">
   <figure>
     <img src="{{ '/assets/img/niny.jpg' | prepend: site.baseurl }}" alt="Niny" style="width:100%" width="300">
-    <figcaption><a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a></figcaption>
+    <figcaption>
+      <a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a>
+      <br>
+      niny[.]arcilamaya[@]duke[.]edu
+    </figcaption>
   </figure>
   </div>
   <div class="column">
