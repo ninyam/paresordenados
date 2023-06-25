@@ -33,34 +33,34 @@ En el blog "<em>On Teaching and Learning Mathematics</em>" de la Sociedad Estado
 Preguntas/Comentarios/Sugerencias pueden ser enviadas a 
 <div class="row">
   <div class="column">
-  <figure>
-    <img src="{{ '/assets/img/niny.jpg' | prepend: site.baseurl }}" alt="Niny" style="width:100%" width="300">
-    <figcaption>
-      <a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a>
-      <br>
-      niny[.]arcilamaya[@]duke[.]edu
-    </figcaption>
-  </figure>
+    <figure>
+      <img src="{{ '/assets/img/niny.jpg' | prepend: site.baseurl }}" alt="Niny" style="width:100%" width="300">
+      <figcaption>
+        <a href="https://sites.duke.edu/ninyam/">Niny Arcila Maya</a>
+        <br>
+        niny[.]arcilamaya[@]duke[.]edu
+      </figcaption>
+    </figure>
   </div>
   <div class="column">
-  <figure>
-    <img src="{{ '/assets/img/maye.jpg' | prepend: site.baseurl }}" alt="Maye" style="width:100%">
-    <figcaption>
-      <a href="https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya">Maye Cárdenas Montoya</a>
-      <br>
-      maye[.]montoya[@]utoronto[.]ca
-    </figcaption>
+    <figure>
+      <img src="{{ '/assets/img/maye.jpg' | prepend: site.baseurl }}" alt="Maye" style="width:100%">
+      <figcaption>
+        <a href="https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya">Maye Cárdenas Montoya</a>
+        <br>
+        maye[.]montoya[@]utoronto[.]ca
+      </figcaption>
+    </figure>
   </div>
-  </figure>
   <div class="column">
-  <figure>
-    <img src="{{ '/assets/img/carlos.jpg' | prepend: site.baseurl }}" alt="Carlos" style="width:100%">
-    <figcaption>
-      <a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a>
-      <br>
-      ospina[@]math[.]utah[.]edu
-    </figcaption>
-  </figure>
+    <figure>
+      <img src="{{ '/assets/img/carlos.jpg' | prepend: site.baseurl }}" alt="Carlos" style="width:100%">
+      <figcaption>
+        <a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a>
+        <br>
+        ospina[@]math[.]utah[.]edu
+      </figcaption>
+    </figure>
   </div>
 </div>
 
