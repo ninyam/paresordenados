@@ -46,7 +46,7 @@ Para ver el calendario detallado, ir a <b>Edición Otoño 2023</b> en <a href="{
 <div style="text-align: justify">
 <p><strong>Pares Ordenados</strong> se lleva a cabo virtualmente.</p>
 <ol>
-	<li>L@s estudiantes de pregrado aplican para ser aprendices. ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
+	<li>L@s estudiantes de pregrado aplican para ser aprendices. Ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
 
 	<li>L@s estudiantes de posgrado, o pasantes postdoctorales, aplican para ser mentores(as). Ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
 
