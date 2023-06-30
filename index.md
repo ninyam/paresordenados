@@ -24,7 +24,7 @@ sitemap:
 ### ¿PARA QUIÉN?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> tiene como población objetivo estudiantes hispanohablantes de matemáticas (o áreas afines) alrededor del mundo que pertenezcan a programas de pregrado no orientados a la investigación y/o que se identifiquen como miembros de una minoría.
+<strong>Pares Ordenados</strong> tiene como población objetivo estudiantes hispanohablantes de matemáticas (o áreas afines) alrededor del mundo que pertenezcan a programas de pregrado no orientados a la investigación y/o que se identifiquen como miembros de una minoría en matemáticas.
 </p>
 </div>
 
@@ -73,7 +73,7 @@ Para ver el calendario detallado, ir a <b>Edición Otoño 2023</b> en <a href="{
 <p>
 ¡<strong>Pares Ordenados</strong> es para crear comunidad!
 <br>
-Uno de los principales objetivos de este programa es fomentar la colaboración entre los miembros de nuestra <b>Comunidad Matemática Latina/Hispana</b> alrededor del mundo.
+Uno de los principales objetivos de este programa es fomentar la colaboración científica y cultural entre los miembros de nuestra <b>Comunidad Matemática Latina/Hispana</b> alrededor del mundo.
 </p>
 </div>
 
