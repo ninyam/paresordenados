@@ -5,7 +5,7 @@ title: Mentores
 
 ¡Muchas gracias por su interés en participar en Pares Ordenados!
 
-<span onclick="window.open('https://duke.qualtrics.com/jfe/form/SV_cNk6422OZJ29vKu')" style="cursor: pointer">
+<span onclick="window.open('https://duke.qualtrics.com/jfe/form/SV_bmfJBPCbPpmuWfI')" style="cursor: pointer">
     <button class="button1"><b>Aplicación para Mentores</b></button>
 </span>
 
@@ -17,14 +17,14 @@ title: Mentores
 <br>
 Pares Ordenados no es un programa para desarrollar proyectos de investigación.
 <br>
-Nuestro objetivo es equipar a los estudiantes de pregrado con las herramientas necesarias para profundizar en matemáticas más sofisticadas por medio de la lectura de una sección de un libro o un artículo. 
+Nuestro objetivo es equipar a los estudiantes de pregrado con herramientas necesarias para profundizar en matemáticas más sofisticadas por medio de la lectura de una sección de un libro o un artículo. 
 </p>
 </div>
 </div>
 
 ### Requisitos
 - Hablar español.
-- Ser estudiante de doctorado en matemáticas o ser pasante postdoctoral.
+- Ser estudiante de último año de maestría o ser estudiante de doctorado en matemáticas o ser doctor(a) en matemáticas en los inicios de su carrera (por ejemplo, ser pasante postdoctoral).
 
 ### Expectativas
 Sus responsabilidades como mentor(a) en Pares Ordenados serán:

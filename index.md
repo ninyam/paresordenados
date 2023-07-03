@@ -17,7 +17,7 @@ sitemap:
 ### ¿QUÉ ES?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es un <a href="{{ '/info' | prepend: site.baseurl }}">Programa de Lectura Dirigida (PLD)</a>, es decir, es un programa de asesoría matemática que se encarga de conectar estudiantes de pregrado en matemáticas con estudiantes de doctorado en matemáticas, o con pasantes postdoctorales, para que desarrollen un proyecto de lectura durante un semestre.
+<strong>Pares Ordenados</strong> es un <a href="{{ '/info' | prepend: site.baseurl }}">Programa de Lectura Dirigida (PLD)</a>, es decir, es un programa de asesoría matemática que se encarga de conectar estudiantes de pregrado en matemáticas con estudiantes de posgrado en matemáticas, o con doctores(as) en matemáticas que se encuentren en los inicios de su carrera (por ejemplo, pasantes postdoctorales), para que desarrollen un proyecto de lectura durante un semestre.
 </p>
 </div>
 
@@ -48,7 +48,7 @@ Para ver el calendario detallado, ir a <b>Edición Otoño 2023</b> en <a href="{
 <ol>
 	<li>L@s estudiantes de pregrado aplican para ser aprendices. Ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
 
-	<li>L@s estudiantes de posgrado, o pasantes postdoctorales, aplican para ser mentores(as). Ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
+	<li>L@s estudiantes de posgrado, o l@s doctores(as) que se encuentren en los inicios de su carrera, aplican para ser mentores(as). Ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
 
 	<li>Aprendices y mentores son emparejad@s con base a sus interéses académicos. Cada pareja escoge un tema de estudio para el semestre. Ver ejemplos de temas de estudios en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> o en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.</li>
 
