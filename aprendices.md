@@ -23,7 +23,7 @@ Desertar de Pares Ordenados no solo perjudica su propia reputación, sino que ta
 <br>
 Este programa puede ser demandante, ya que estará aprendiendo el material de manera más independiente en comparación con un curso tradicional. Si las expectativas de tiempo son muy altas y siente que no podrá cumplir con el programa, le recomendamos no aplicar hasta que tenga un semestre menos ocupado. 
 <br>
-Si, una vez aceptad@, considera que no puede comprometerse con el programa, por favor comuníquese con su mentor(a) y el comité organizador durante el <i>periodo para rechazar aceptación</i>, ver calendario en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>. De esta manera, podremos aprovechar el valioso tiempo de su mentor(a). ¡Agradecemos su colaboración!
+Si, una vez aceptad@, considera que no puede comprometerse con el programa, por favor comuníquese con su mentor(a) y el comité organizador durante el <i>periodo para confirmar aceptación</i>, ver calendario en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>. De esta manera, podremos aprovechar el valioso tiempo de su mentor(a). ¡Agradecemos su colaboración!
 </p>
 </div>
 </div>
@@ -33,6 +33,7 @@ Si, una vez aceptad@, considera que no puede comprometerse con el programa, por 
 - Ser estudiante de alguno de los siguiguientes programas
     - Pregrado(Licenciatura) en matemáticas o en matemática aplicada
     - Licenciatura en enseñanza de las matemáticas o Profesorado en matemáticas
+    - Ingeniería matemática
 - Pertenecer a un programa de pregrado no orientado a la investigación o ser miembro de al menos una minoría.
 - Haber visto los siguientes cursos
     - cálculo diferencial, integral y vectorial
