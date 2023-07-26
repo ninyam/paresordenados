@@ -29,7 +29,7 @@ Steve Balady nos cuenta en un artículo publicado en el blog "<em>On Teaching an
 <br>
 Si se encuentra interesad@ en organizar un PLD virtual o presencial en su universidad, región o país, nos encantaría compartir nuestra experiencia y responder sus inquietudes. 
 <br>
-<em>¡Entre más PLD existan mejor!</em>
+<em>¡Entre más PLD existan, mejor!</em>
 </p>
 </div>
 
