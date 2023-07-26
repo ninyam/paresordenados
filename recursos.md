@@ -28,7 +28,7 @@ En los siguientes enlaces puede encontrar ejemplos explícitos sobre temas de es
 </table>
 
 ### Proyectos
-El proyecto final debe ser un producto tangible que demuestre lo que el aprendiz estudió durante el curso de lectura. Por ejemplo,
+El proyecto final debe ser un producto tangible que demuestre lo que el/la aprendiz estudió durante el curso de lectura. Por ejemplo,
 <ul>
     <li>Escribir un texto expositivo de mínimo 5  páginas, en español o inglés, explicando el tema de estudio. </li>
     <li>Desarrollar una implementación del tema elegido en Python, Mathematica, Macaulay2, Sage, etc.</li>
