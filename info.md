@@ -75,7 +75,7 @@ Nuestro comité organizador está conformado por tres matemáticos oriundos de M
   </div>
 </div>
 
-Preguntas/Comentarios/Sugerencias pueden ser enviad@s a nuestros correos o a paresordenados[@]gmail[.]com.
+Preguntas/Comentarios/Sugerencias pueden ser enviad@s a paresordenados[@]gmail[.]com o a nuestros correos.
 
 ### Agradecimientos
 <div style="text-align: justify">
