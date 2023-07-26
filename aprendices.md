@@ -50,7 +50,7 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
 6. Hacer una presentación de máximo 10 minutos sobre su proyecto de lectura el día de la reunión final.
 7. Participar en los siguientes eventos:
     - Reunión de bienvenida
-    - Panel/foro sobre matemátic@s latinoamerican@s en el extranjero
+    - Panel/foro sobre matemátic@s latinoamerican@s/hispan@s en el extranjero
     - Reunión final
 
 ### Preguntas Frecuentes

@@ -69,7 +69,7 @@ Para ver el calendario detallado, ir a <b>Edición Otoño 2023</b> en <a href="{
 
 	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado al comité organizador. Ver ejemplos de proyectos en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> o en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.</li>
 
-	<li>A mediados del semestre, aprendices y mentores asisten al panel/foro sobre matemátic@s latinoamerican@s en el extranjero.</li>
+	<li>A mediados del semestre, aprendices y mentores asisten al panel/foro sobre matemátic@s latinoamerican@s/hispan@s en el extranjero.</li>
 
 	<li>Al final del semestre l@s aprendices envían su proyecto final y se realiza una integración virtual con todos los pares ordenados donde los aprendices dan presentaciones acerca de su tema de estudio.</li>
 </ol>
