@@ -17,14 +17,27 @@ sitemap:
 ### ¿QUÉ ES?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es un <a href="{{ '/info' | prepend: site.baseurl }}">Programa de Lectura Dirigida (PLD)</a>, es decir, es un programa de asesoría matemática que se encarga de conectar estudiantes de pregrado en matemáticas con estudiantes de posgrado en matemáticas, o con doctores(as) en matemáticas que se encuentren en los inicios de su carrera (por ejemplo, pasantes postdoctorales), para que desarrollen un proyecto de lectura durante un semestre.
+<strong>Pares Ordenados</strong> es un <a href="{{ '/info' | prepend: site.baseurl }}">Programa de Lectura Dirigida (PLD)</a> gratuito y virtual. Nos encargamos de conectar estudiantes de pregrado en matemáticas, o similares*, con estudiantes de posgrado en matemáticas, o con doctores(as) en matemáticas que se encuentren en los inicios de su carrera (por ejemplo, pasantes postdoctorales), para que desarrollen un proyecto de lectura durante un semestre.
+</br>
+*Similares = pregrado en matemática aplicada, licenciatura en enseñanza de las matemáticas, ingeniería matemática, entre otros 
 </p>
 </div>
 
 ### ¿PARA QUIÉN?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> tiene como población objetivo estudiantes hispanohablantes de matemáticas (o áreas afines) alrededor del mundo que pertenezcan a programas de pregrado no orientados a la investigación y/o que se identifiquen como miembros de una minoría en matemáticas.
+<strong>Pares Ordenados</strong> tiene como población objetivo estudiantes hispanohablantes alrededor del mundo que pertenezcan a programas de pregrado no orientados a la investigación y/o que se identifiquen como miembros de una minoría en matemáticas.
+</br>
+Entre estás minorías se encuentran:
+<ul>
+	<li>Estudiantes que se identifiquen como mujeres</li>
+	<li>Estudiantes afrodescendientes</li>
+	<li>Estudiantes indígenas</li>
+	<li>Estudiantes víctimas de conflicto armado y/o desplazamiento forzado</li>
+	<li>Estudiantes que hagan parte de la comunidad  LGBTQIA+</li> 
+	<li>Estudiantes que sean inmigrantes y/o refugiad@s</li>
+	<li>Estudiantes con discapacidades visibles y/o invisibles</li>
+</ul>
 </p>
 </div>
 
@@ -55,6 +68,8 @@ Para ver el calendario detallado, ir a <b>Edición Otoño 2023</b> en <a href="{
 	<li>Cada par ordenado <b>(mentor(a), aprendiz)</b> se reune virtualmente durante <b>una hora cada semana</b>.</li>
 
 	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado al comité organizador. Ver ejemplos de proyectos en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a> o en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.</li>
+
+	<li>A mediados del semestre, aprendices y mentores asisten al panel/foro sobre matemátic@s latinoamerican@s en el extranjero.</li>
 
 	<li>Al final del semestre l@s aprendices envían su proyecto final y se realiza una integración virtual con todos los pares ordenados donde los aprendices dan presentaciones acerca de su tema de estudio.</li>
 </ol>

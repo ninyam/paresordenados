@@ -30,7 +30,9 @@ Si, una vez aceptad@, considera que no puede comprometerse con el programa, por 
 
 ### Requisitos
 - Hablar español.
-- Ser estudiante de matemáticas (o áreas afines).
+- Ser estudiante de alguno de los siguiguientes programas
+    - Pregrado(Licenciatura) en matemáticas o en matemática aplicada
+    - Licenciatura en enseñanza de las matemáticas o Profesorado en matemáticas
 - Pertenecer a un programa de pregrado no orientado a la investigación o ser miembro de al menos una minoría.
 - Haber visto los siguientes cursos
     - cálculo diferencial, integral y vectorial

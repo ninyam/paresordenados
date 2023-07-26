@@ -24,7 +24,10 @@ Nuestro objetivo es equipar a los estudiantes de pregrado con herramientas neces
 
 ### Requisitos
 - Hablar español.
-- Ser estudiante de último año de maestría o ser estudiante de doctorado en matemáticas o ser doctor(a) en matemáticas en los inicios de su carrera (por ejemplo, ser pasante postdoctoral).
+- Pertenecer a una de las siguientes categorias:
+    - Estudiante de último año de maestría en matemáticas / matemática aplicada
+    - Estudiante de doctorado en matemáticas  / matemática aplicada
+    - Doctor(a) en matemáticas  / matemática aplicada en los inicios de su carrera (por ejemplo, un(a) pasante postdoctoral)
 
 ### Expectativas
 Sus responsabilidades como mentor(a) en Pares Ordenados serán:
