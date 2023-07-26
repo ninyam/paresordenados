@@ -28,6 +28,8 @@ Los PLD brindan experiencias invaluables tanto para aprendices como para mentore
 Steve Balady nos cuenta en un artículo publicado en el blog "<em>On Teaching and Learning Mathematics</em>" de la Sociedad Estadounidense de Matemáticas cómo co-organizó un PLD en su universidad y por qué estos programas son importantes para nuestra comunidad matemática. Puede acceder al artículo siguiendo este enlace: <a href="https://blogs.ams.org/matheducation/2015/06/20/we-started-a-directed-reading-program-and-so-can-you/"><cite>We Started a Directed Reading Program (And So Can You!)</cite></a>.
 <br>
 Si se encuentra interesad@ en organizar un PLD virtual o presencial en su universidad, región o país, nos encantaría compartir nuestra experiencia y responder sus inquietudes. 
+<br>
+<em>¡Entre más PLD existan mejor!</em>
 </p>
 </div>
 
@@ -39,7 +41,7 @@ Si se encuentra interesad@ en organizar un PLD virtual o presencial en su univer
 </div>
 
 #### **Comité Organizador**
-Nuestro comité organizador está conformado por tres matemáticos oriundos de Manizales (Caldas, Colombia), quienes se reencontraron (virtualmente) en el exterior para ponerle el alma a Pares Ordenados.
+Nuestro comité organizador está conformado por tres matemáticos oriundos de Manizales (Caldas, Colombia), quienes se reencontraron (virtualmente) en el exterior para ponerle el alma a **Pares Ordenados**.
 <div class="row">
   <div class="column">
     <figure>
@@ -73,7 +75,7 @@ Nuestro comité organizador está conformado por tres matemáticos oriundos de M
   </div>
 </div>
 
-Preguntas/Comentarios/Sugerencias pueden ser enviad@s a nuestros correos o a ```paresordenados[@]gmail[.]com```.
+Preguntas/Comentarios/Sugerencias pueden ser enviad@s a nuestros correos o a paresordenados[@]gmail[.]com.
 
 ### Agradecimientos
 <div style="text-align: justify">
