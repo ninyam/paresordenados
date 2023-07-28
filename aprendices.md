@@ -28,7 +28,7 @@ Si, una vez aceptad@, considera que no puede comprometerse con el programa, por 
 </div>
 </div>
 
-### Requisitos
+## Requisitos
 - Hablar español.
 - Ser estudiante de alguno de los siguiguientes programas
     - Pregrado(Licenciatura) en matemáticas o en matemática aplicada
@@ -41,7 +41,7 @@ Si, una vez aceptad@, considera que no puede comprometerse con el programa, por 
     - demostraciones matemáticas (i.e. tener conocimiento de tipos de demostraciones)
 - Interés, compromiso y tiempo (5 horas semanales).
 
-### Expectativas
+## Expectativas
 Sus responsabilidades como aprendiz en Pares Ordenados serán:
 1. Elegir un tema de estudio en colaboración con su mentor(a).
 2. Dedicar aproximadamente <b>4 horas semanales</b> de trabajo autónomo en el tema seleccionado.
@@ -54,7 +54,14 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
     - Panel/foro sobre matemátic@s latinoamerican@s/hispan@s en el extranjero
     - Reunión final
 
-### Preguntas Frecuentes
+## Preguntas Frecuentes
+
+#### **> ¿Recibiré un certificado al finalizar el programa?**
+No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
+
+#### **> ¿Recibiré un certificado al finalizar el programa?**
+No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
+
 <div style="text-align: justify">
 <div style="color: #ED0974">
     <b>> ¿Recibiré un certificado al finalizar el programa?</b>
