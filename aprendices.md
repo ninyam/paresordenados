@@ -55,61 +55,25 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
     - Reunión final
 
 ## Preguntas Frecuentes
+<p style="color:#ED0974;"><b>> ¿Debo tener buenas calificaciones para ser aceptad@?</b></p>
+No es necesario tener buenas calificaciones y/o buen promedio académico para inscribirse o ser aceptad@. En Pares Ordenados creemos que las calificaciones no necesariamente revelan el potencial de l@s estudiantes y el deseo de aprender matemáticas.
 
 <p style="color:#ED0974;"><b>> ¿Recibiré un certificado al finalizar el programa?</b></p>
 No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
 
-<p style="color:#ED0974;"><b>> ¿Debo tener buenas calificaciones para ser aceptad@?</b></p>
-No es necesario tener buenas calificaciones y/o buen promedio académico para inscribirse o ser aceptad@. En Pares Ordenados creemos que las calificaciones no necesariamente revelan el potencial de l@s estudiantes y el deseo de aprender matemáticas.
-
-<div style="text-align: justify">
-<p style="color:#ED0974;">> ¿Recibiré un certificado al finalizar el programa?</p> No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
-
-<p style="color:#ED0974;">> ¿Debo tener buenas calificaciones para ser aceptad@?</p>
-<p>
-No es necesario tener buenas calificaciones y/o buen promedio académico para inscribirse o ser aceptad@. En Pares Ordenados creemos que l@s estudiantes 
-</p>
-</div>
-
-
-<div style="text-align: justify">
-<p>
-<div style="color: #ED0974">
-    <b>> ¿Debo tener buenas calificaciones para ser aceptad@?</b>
-</div>
-No es necesario tener buenas calificaciones y/o buen promedio académico para inscribirse o ser aceptad@ a Pares Ordenados.
-<br>
-
-<div style="color: #ED0974">
-    <b>> ¿Hay entrevistas en el proceso de selección?</b>
-</div>
+<p style="color:#ED0974;"><b>> ¿Hay entrevistas en el proceso de selección?</b></p>
 No hacemos entrevistas para seleccionar aprendices.
-<br>
 
-<div style="color: #ED0974">
-    <b>> Acabé mi pregrado pero aún no llevo cursos de maestría, ¿soy apt@ para participar en Pares Ordenados?</b>
-</div>
-Nuestra prioridad son l@s estudiantes que no se han graduado del pregrado. Sin embargo, si recibiríamos y consideraríamos su aplicación. 
-<br>
+<p style="color:#ED0974;"><b>> Acabé mi pregrado pero aún no llevo cursos de maestría, ¿soy apt@ para participar en Pares Ordenados?</b></p>
+Nuestra prioridad son l@s estudiantes que no se han graduado del pregrado. Sin embargo, si recibiríamos y consideraríamos su aplicación.
 
-<div style="color: #ED0974">
-    <b>> En caso de no ser elegid@ como aprendiz, ¿puedo aplicar de nuevo en la siguiente edición?</b>
-</div>
+<p style="color:#ED0974;"><b>> En caso de no ser elegid@ como aprendiz, ¿puedo aplicar de nuevo en la siguiente edición?</b></p>
 ¡Por supuesto! De hecho le damos cierta prioridad a aquell@s estudiantes que aplicaron a una edición previa y no fueron aceptad@s.
-<br>
 
-<div style="color: #ED0974">
-    <b>> ¿Recibiré un certificado al finalizar el programa?</b>
-</div>
+<p style="color:#ED0974;"><b>> ¿Recibiré un certificado al finalizar el programa?</b></p>
 No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
-<br>
 
-<div style="color: #ED0974">
-    <b>> ¿L@s mentores(as) son hablantes nativos del español?</b>
-</div>
+<p style="color:#ED0974;"><b>> ¿L@s mentores(as) son hablantes nativos del español?</b></p>
 Un alto porcentaje de nuestr@s mentores(as) son hablantes nativos del español ya que parte de nuestros objetivos es promover conexiones entre los miembros de la Comunidad Matemática Latina/Hispana. 
 Por otro lado, también aceptamos mentores(as) cuya lengua nativa no es el español, pero cuyo dominio de este es suficientemente bueno para interactuar fluidamente con l@s aprendices.
-<br>
-</p>
-</div>
 
