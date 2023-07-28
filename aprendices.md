@@ -61,21 +61,23 @@ No es necesario tener buenas calificaciones y/o buen promedio académico para in
 <p style="color:#ED0974;"><b>> ¿Hay entrevistas en el proceso de selección?</b></p>
 No hacemos entrevistas para seleccionar aprendices.
 
-<p style="color:#ED0974;"><b>> Acabé mi pregrado pero aún no llevo cursos de maestría, ¿soy apt@ para participar en Pares Ordenados?</b></p>
-Nuestra prioridad son l@s estudiantes que no se han graduado del pregrado. Sin embargo, si recibiríamos y consideraríamos su aplicación.
+<p style="color:#ED0974;"><b>> No tengo una idea clara acerca del tema que quiero estudiar, ¿es posible obtener sugerencias de mi mentor(a)?</b></p>
+ Está bien no tener un tema específico en mente. Pares Ordenados ha sido creado precisamente para permitir la exploración matemática. Si es posible que el(la) mentor(a) sugiera temas basados en los intereses de l@s aprendices.
 
-<p style="color:#ED0974;"><b>> En caso de no ser elegid@ como aprendiz, ¿puedo aplicar de nuevo en la siguiente edición?</b></p>
-¡Por supuesto! De hecho le damos cierta prioridad a aquell@s estudiantes que aplicaron a una edición previa y no fueron aceptad@s.
-
-<p style="color:#ED0974;"><b>> ¿Recibiré un certificado al finalizar el programa?</b></p>
+ <p style="color:#ED0974;"><b>> ¿Recibiré un certificado al finalizar el programa?</b></p>
 No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
 
 <p style="color:#ED0974;"><b>> ¿L@s mentores(as) son hablantes nativos del español?</b></p>
 Un alto porcentaje de nuestr@s mentores(as) son hablantes nativos del español ya que parte de nuestros objetivos es promover conexiones entre los miembros de la Comunidad Matemática Latina/Hispana. 
 Por otro lado, también aceptamos mentores(as) cuya lengua nativa no es el español, pero cuyo dominio de este es suficientemente bueno para interactuar fluidamente con l@s aprendices.
 
-<p style="color:#ED0974;"><b>> No tengo una idea clara acerca del tema que quiero estudiar, ¿es posible obtener sugerencias de mi mentor(a)?</b></p>
- Está bien no tener un tema específico en mente. Pares Ordenados ha sido creado precisamente para permitir la exploración matemática. Si es posible que el(la) mentor(a) sugiera temas basados en los intereses de l@s aprendices.
+<p style="color:#ED0974;"><b>> Acabé mi pregrado pero aún no llevo cursos de maestría, ¿soy apt@ para participar en Pares Ordenados?</b></p>
+Nuestra prioridad son l@s estudiantes que no se han graduado del pregrado. Sin embargo, si recibiríamos y consideraríamos su aplicación.
+
+<p style="color:#ED0974;"><b>> En caso de no ser elegid@ como aprendiz, ¿puedo aplicar de nuevo en la siguiente edición?</b></p>
+¡Por supuesto! De hecho le damos cierta prioridad a aquell@s estudiantes que aplicaron a una edición previa y no fueron aceptad@s.
+
+
 
 <p style="color:#ED0974;"><b>></b></p>
 
