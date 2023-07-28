@@ -55,7 +55,7 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
     - Reunión final
 
 ## Preguntas Frecuentes
-<p style="color:#ED0974;"><b>> ¿Existe algún costo para aplicar o participar en Pares Ordenados?</b></p>
+<p style="color:#ED0974;"><b>> ¿Existe algún costo para aplicar y/o participar en Pares Ordenados?</b></p>
 ¡No! Pares Ordenados es absolutamente gratis.
 
 <p style="color:#ED0974;"><b>> ¿Debo tener buenas calificaciones para ser aceptad@?</b></p>
