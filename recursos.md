@@ -3,7 +3,7 @@ layout: page
 title: Recursos
 ---
 
-### Temas de Estudios
+## Temas de Estudios
 
 El nivel de los temas de estudio puede ir desde básico hasta avanzado. Algunos ejemplos de temas de estudio son:
 <ul>
@@ -27,14 +27,14 @@ En los siguientes enlaces puede encontrar ejemplos explícitos sobre temas de es
   </tr>
 </table>
 
-### Proyectos
+## Proyectos
 El proyecto final debe ser un producto tangible que demuestre lo que el/la aprendiz estudió durante el curso de lectura. Por ejemplo,
 <ul>
     <li>Escribir un texto expositivo de mínimo 5  páginas, en español o inglés, explicando el tema de estudio. </li>
     <li>Desarrollar una implementación del tema elegido en Python, Mathematica, Macaulay2, Sage, etc.</li>
 </ul>
 
-### Textos de uso libre
+## Textos de uso libre
 <ul>
     <li><a href="https://www.ams.org/open-math-notes ">AMS Open Math Notes</a></li>    
 </ul>

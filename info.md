@@ -9,7 +9,7 @@ title: Información
 </p>
 </div>
 
-### Historia de los PLD
+## Historia de los PLD
 <div style="text-align: justify">
 <p>
 Los Programas de Lectura Dirigida (PLD), conocidos como Directed Reading Programs (DRP) en inglés, fueron inicialmente desarrollados en la Universidad de Chicago por Mark Behrens y Moon Duchin en 2003. En la actualidad, más de 20 instituciones en EE.UU. realizan PLD, los cuales usualmente surgen a través de iniciativas de estudiantes de posgrado.
@@ -20,7 +20,7 @@ Existe un sitio web de la red, creado por Mann y Tshishiku, el cual compila info
 </p>
 </div>
 
-#### ¿Le gustaría organizar su propio PLD?
+### ¿Le gustaría organizar su propio PLD?
 <div style="text-align: justify">
 <p>
 Los PLD brindan experiencias invaluables tanto para aprendices como para mentores.
@@ -33,14 +33,14 @@ Si se encuentra interesad@ en organizar un PLD virtual o presencial en su univer
 </p>
 </div>
 
-### Contacto
+## Contacto
 <div style="text-align: justify">
 <p>
 ¡Hola! Mi nombre es Niny Arcila Maya. Soy docente asistente de investigación en el Departamento de Matemáticas de la Universidad Duke y soy la fundadora de Pares Ordenados.
 </p>
 </div>
 
-#### **Comité Organizador**
+### **Comité Organizador**
 Nuestro comité organizador está conformado por tres matemáticos oriundos de Manizales (Caldas, Colombia), quienes se reencontraron (virtualmente) en el exterior para ponerle el alma a **Pares Ordenados**.
 <div class="row">
   <div class="column">
@@ -77,7 +77,7 @@ Nuestro comité organizador está conformado por tres matemáticos oriundos de M
 
 Preguntas/Comentarios/Sugerencias pueden ser enviad@s a paresordenados[@]gmail[.]com o a nuestros correos.
 
-### Agradecimientos
+## Agradecimientos
 <div style="text-align: justify">
 <p>
 A <a href="https://www.linkedin.com/in/alejandra-donají-herrera-reyes-52b54a87/">Alejandra Herrera Reyes</a> por ayudar a escoger el nombre de este programa.

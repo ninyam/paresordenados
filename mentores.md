@@ -22,14 +22,14 @@ Nuestro objetivo es equipar a los estudiantes de pregrado con herramientas neces
 </div>
 </div>
 
-### Requisitos
+## Requisitos
 - Hablar español.
 - Pertenecer a una de las siguientes categorias:
     - Estudiante de último año de maestría en matemáticas / matemática aplicada
     - Estudiante de doctorado en matemáticas  / matemática aplicada
     - Doctor(a) en matemáticas  / matemática aplicada en los inicios de su carrera (por ejemplo, un(a) pasante postdoctoral)
 
-### Expectativas
+## Expectativas
 Sus responsabilidades como mentor(a) en Pares Ordenados serán:
 1. Elegir un tema de estudio en colaboración con su aprendiz.
 2. Dedicar al menos <b>1 hora semanal</b> a la preparación de las reuniones con su aprendiz.
@@ -44,4 +44,4 @@ Sus responsabilidades como mentor(a) en Pares Ordenados serán:
     - Panel/foro sobre matemátic@s latinoamerican@s en el extranjero
     - Reunión final
 
-### Preguntas Frecuentes
+## Preguntas Frecuentes
