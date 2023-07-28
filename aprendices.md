@@ -77,14 +77,10 @@ Tenemos un día designado para anunciar aceptaciones, ver Calendario en <a href=
 Tenemos un periodo designado para confirmar su aceptación al programa, ver Calendario en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>. Por favor háganos saber tan pronto como pueda para poder aceptar a otr@ aprendiz en su lugar.
 
 <p style="color:#ED0974;"><b>> ¿Quién debe escribir la descripción corta del proyecto final, mentores o aprendices?</b></p>
-Escribir la descripción del proyecto final es responsabilidad de los aprendices. Escribir documentos de este tipo es una de las habilidades que queremos enseñar en este programa. El rol de l@s mentores(as) es leer, corregir y pulir las descripciones, no escribirlas.
+Escribir la descripción del proyecto final es responsabilidad de l@s aprendices. Escribir documentos de este tipo es una de las habilidades que queremos enseñar en este programa. El rol de l@s mentores(as) es leer, corregir y pulir las descripciones, no escribirlas.
 
 <p style="color:#ED0974;"><b>> ¿Recibiré un certificado al finalizar el programa?</b></p>
 No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
-
-<p style="color:#ED0974;"><b>> ¿L@s mentores(as) son hablantes nativos del español?</b></p>
-Un alto porcentaje de nuestr@s mentores(as) son hablantes nativos del español ya que parte de nuestros objetivos es promover conexiones entre los miembros de la Comunidad Matemática Latina/Hispana. 
-Por otro lado, también aceptamos mentores(as) cuya lengua nativa no es el español, pero cuyo dominio de este es suficientemente bueno para interactuar fluidamente con l@s aprendices.
 
 <p style="color:#ED0974;"><b>> Acabé mi pregrado pero aún no llevo cursos de maestría, ¿soy apt@ para participar en Pares Ordenados?</b></p>
 Nuestra prioridad son l@s estudiantes que no se han graduado del pregrado. Sin embargo, si recibiríamos y consideraríamos su aplicación.
@@ -92,5 +88,9 @@ Nuestra prioridad son l@s estudiantes que no se han graduado del pregrado. Sin e
 <p style="color:#ED0974;"><b>> En caso de no ser elegid@ como aprendiz, ¿puedo aplicar de nuevo en la siguiente edición?</b></p>
 ¡Por supuesto! De hecho le damos cierta prioridad a aquell@s estudiantes que aplicaron a una edición previa y no fueron aceptad@s.
 
-<p style="color:#ED0974;"><b>> ¿Hay alguna posibilidad de poder postularse por medio de éste programa a una universidad en el exterior?</b></p>
+<p style="color:#ED0974;"><b>> ¿Hay alguna posibilidad de poder postularse por medio de este programa a una universidad en el exterior?</b></p>
 No. Pares Ordenados no está vinculado con ninguna universidad para efecto de admisiones a programas de posgrado. Sin embargo, como parte del programa tenemos un panel/foro sobre matemátic@s latinoamerican@s/hispan@s en el exterior en el cual se da consejo y se responden preguntas relacionadas con los procesos de admisión a posgrados en matemáticas en universidades extranjeras.
+
+<p style="color:#ED0974;"><b>> ¿L@s mentores(as) son hablantes nativos del español?</b></p>
+Un alto porcentaje de nuestr@s mentores(as) son hablantes nativos del español ya que parte de nuestros objetivos es promover conexiones entre los miembros de la Comunidad Matemática Latina/Hispana. 
+Por otro lado, también aceptamos mentores(as) cuya lengua nativa no es el español, pero cuyo dominio de este es suficientemente bueno para interactuar fluidamente con l@s aprendices.
