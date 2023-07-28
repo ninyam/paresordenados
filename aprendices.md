@@ -55,6 +55,9 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
     - Reunión final
 
 ## Preguntas Frecuentes
+<p style="color:#ED0974;"><b>> ¿Existe algún costo para aplicar o participar en Pares Ordenados?</b></p>
+¡No! Pares Ordenados es absolutamente gratis.
+
 <p style="color:#ED0974;"><b>> ¿Debo tener buenas calificaciones para ser aceptad@?</b></p>
 No es necesario tener buenas calificaciones y/o buen promedio académico para inscribirse o ser aceptad@. En Pares Ordenados creemos que las calificaciones no necesariamente revelan el potencial de l@s estudiantes y el deseo de aprender matemáticas.
 
@@ -67,9 +70,11 @@ Está bien no tener un tema específico en mente. Pares Ordenados ha sido creado
 <p style="color:#ED0974;"><b>> ¿En tal caso de ser elegido y haber propuesto más de un tema, puedo elegir qué tema aprender con mi mentor(a)?</b></p>
 Los temas se escogen basados en mutuo acuerdo de el(la) aprendiz y el(la) mentor(a). Si entre los temas que usted propuso, hay uno que le llama más la atención, es importante que le haga saber esto a su mentor(a) para que haya claridad desde el principio.
 
-<p style="color:#ED0974;"><b>> ¿Cuándo y cómo me entero si fui seleccionad@?</b></p>
+<p style="color:#ED0974;"><b>> ¿Cuándo y cómo me entero si fui o no seleccionad@?</b></p>
 Tenemos un día designado para anunciar aceptaciones, ver Calendario en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>. En el transcurso de ese día le llegará un correo electrónico a la dirección proporcionada en su aplicación (por favor asegurese que sea una dirección que use con frecuencia).
 
+<p style="color:#ED0974;"><b>> ¿Quién debe escribir la descripción corta del proyecto final, mentores o aprendices?</b></p>
+Escribir la descripción del proyecto final es responsabilidad de los aprendices. Escribir documentos de este tipo es una de las habilidades que queremos enseñar en este programa. El rol de l@s mentores(as) es leer, corregir y pulir las descripciones, no escribirlas.
 
 <p style="color:#ED0974;"><b>> ¿Recibiré un certificado al finalizar el programa?</b></p>
 No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
@@ -84,15 +89,11 @@ Nuestra prioridad son l@s estudiantes que no se han graduado del pregrado. Sin e
 <p style="color:#ED0974;"><b>> En caso de no ser elegid@ como aprendiz, ¿puedo aplicar de nuevo en la siguiente edición?</b></p>
 ¡Por supuesto! De hecho le damos cierta prioridad a aquell@s estudiantes que aplicaron a una edición previa y no fueron aceptad@s.
 
-
-
-<p style="color:#ED0974;"><b>> ¿La propuesta del proyecto final requiere alguna aprobación?</b></p>
-
+<p style="color:#ED0974;"><b>> ¿Hay alguna posibilidad de poder postularse por medio de éste programa a una universidad en el exterior?</b></p>
+No. Pares Ordenados no está vinculado con ninguna universidad para efecto de admisiones a programas de posgrado. Sin embargo, como parte del programa tenemos un panel/foro sobre matemátic@s latinoamerican@s/hispan@s en el exterior en el cual se da consejo y se responden preguntas relacionadas con los procesos de admisión a posgrados en matemáticas en universidades extranjeras.
 
 <p style="color:#ED0974;"><b>></b></p>
 
 <p style="color:#ED0974;"><b>></b></p>
 
-<p style="color:#ED0974;"><b>></b></p>
 
-<p style="color:#ED0974;"><b>></b></p>
