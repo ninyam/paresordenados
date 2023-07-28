@@ -77,3 +77,15 @@ No ofrecemos certificados al final del programa, pero si escribimos cartas de ce
 Un alto porcentaje de nuestr@s mentores(as) son hablantes nativos del español ya que parte de nuestros objetivos es promover conexiones entre los miembros de la Comunidad Matemática Latina/Hispana. 
 Por otro lado, también aceptamos mentores(as) cuya lengua nativa no es el español, pero cuyo dominio de este es suficientemente bueno para interactuar fluidamente con l@s aprendices.
 
+<p style="color:#ED0974;"><b>> No tengo una idea clara acerca del tema que quiero estudiar, ¿es posible obtener sugerencias de mi mentor(a)?</b></p>
+ Está bien no tener un tema específico en mente. Pares Ordenados ha sido creado precisamente para permitir la exploración matemática. Si es posible que el(la) mentor(a) sugiera temas basados en los intereses de l@s aprendices.
+
+<p style="color:#ED0974;"><b>></b></p>
+
+<p style="color:#ED0974;"><b>></b></p>
+
+<p style="color:#ED0974;"><b>></b></p>
+
+<p style="color:#ED0974;"><b>></b></p>
+
+<p style="color:#ED0974;"><b>></b></p>
