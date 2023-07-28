@@ -60,7 +60,7 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
 No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
 
 <p style="color:#ED0974;"><b>> ¿Debo tener buenas calificaciones para ser aceptad@?</b></p>
-No es necesario tener buenas calificaciones y/o buen promedio académico para inscribirse o ser aceptad@. En Pares Ordenados creemos que l@s estudiantes 
+No es necesario tener buenas calificaciones y/o buen promedio académico para inscribirse o ser aceptad@. En Pares Ordenados creemos que las calificaciones no necesariamente revelan el potencial de l@s estudiantes y el deseo de aprender matemáticas.
 
 <div style="text-align: justify">
 <p style="color:#ED0974;">> ¿Recibiré un certificado al finalizar el programa?</p> No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
