@@ -73,6 +73,9 @@ Los temas se escogen basados en mutuo acuerdo de el(la) aprendiz y el(la) mentor
 <p style="color:#ED0974;"><b>> ¿Cuándo y cómo me entero si fui o no seleccionad@?</b></p>
 Tenemos un día designado para anunciar aceptaciones, ver Calendario en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>. En el transcurso de ese día le llegará un correo electrónico a la dirección proporcionada en su aplicación (por favor asegurese que sea una dirección que use con frecuencia).
 
+<p style="color:#ED0974;"><b>> Fui aceptad@, pero creo que no voy a tener tiempo suficiente para dedicarle a Pares Ordenados. ¿Qué hago?</b></p>
+Tenemos un periodo designado para confirmar su aceptación al programa, ver Calendario en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>. Por favor háganos saber tan pronto como pueda para poder aceptar a otr@ aprendiz en su lugar.
+
 <p style="color:#ED0974;"><b>> ¿Quién debe escribir la descripción corta del proyecto final, mentores o aprendices?</b></p>
 Escribir la descripción del proyecto final es responsabilidad de los aprendices. Escribir documentos de este tipo es una de las habilidades que queremos enseñar en este programa. El rol de l@s mentores(as) es leer, corregir y pulir las descripciones, no escribirlas.
 
@@ -91,9 +94,3 @@ Nuestra prioridad son l@s estudiantes que no se han graduado del pregrado. Sin e
 
 <p style="color:#ED0974;"><b>> ¿Hay alguna posibilidad de poder postularse por medio de éste programa a una universidad en el exterior?</b></p>
 No. Pares Ordenados no está vinculado con ninguna universidad para efecto de admisiones a programas de posgrado. Sin embargo, como parte del programa tenemos un panel/foro sobre matemátic@s latinoamerican@s/hispan@s en el exterior en el cual se da consejo y se responden preguntas relacionadas con los procesos de admisión a posgrados en matemáticas en universidades extranjeras.
-
-<p style="color:#ED0974;"><b>></b></p>
-
-<p style="color:#ED0974;"><b>></b></p>
-
-
