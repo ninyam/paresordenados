@@ -70,18 +70,7 @@ No ofrecemos certificados al final del programa, pero si escribimos cartas de ce
 
 
 <div style="text-align: justify">
-<div style="color: #ED0974">
-    <b>> ¿Recibiré un certificado al finalizar el programa?</b>
-</div>
-No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
-<br>
-
-<div style="color: #ED0974">
-    <b>> ¿Hay entrevistas en el proceso de selección?</b>
-</div>
-No hacemos entrevistas para seleccionar aprendices.
-<br>
-
+<p>
 <div style="color: #ED0974">
     <b>> ¿Debo tener buenas calificaciones para ser aceptad@?</b>
 </div>
@@ -89,10 +78,9 @@ No es necesario tener buenas calificaciones y/o buen promedio académico para in
 <br>
 
 <div style="color: #ED0974">
-    <b>> ¿L@s mentores(as) son hablantes nativos del español?</b>
+    <b>> ¿Hay entrevistas en el proceso de selección?</b>
 </div>
-Un alto porcentaje de nuestr@s mentores(as) son hablantes nativos del español ya que parte de nuestros objetivos es promover conexiones entre los miembros de la Comunidad Matemática Latina/Hispana. 
-Por otro lado, también aceptamos mentores(as) cuya lengua nativa no es el español, pero cuyo dominio de este es suficientemente bueno para interactuar fluidamente con l@s aprendices.
+No hacemos entrevistas para seleccionar aprendices.
 <br>
 
 <div style="color: #ED0974">
@@ -107,6 +95,18 @@ Nuestra prioridad son l@s estudiantes que no se han graduado del pregrado. Sin e
 ¡Por supuesto! De hecho le damos cierta prioridad a aquell@s estudiantes que aplicaron a una edición previa y no fueron aceptad@s.
 <br>
 
+<div style="color: #ED0974">
+    <b>> ¿Recibiré un certificado al finalizar el programa?</b>
+</div>
+No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
+<br>
+
+<div style="color: #ED0974">
+    <b>> ¿L@s mentores(as) son hablantes nativos del español?</b>
+</div>
+Un alto porcentaje de nuestr@s mentores(as) son hablantes nativos del español ya que parte de nuestros objetivos es promover conexiones entre los miembros de la Comunidad Matemática Latina/Hispana. 
+Por otro lado, también aceptamos mentores(as) cuya lengua nativa no es el español, pero cuyo dominio de este es suficientemente bueno para interactuar fluidamente con l@s aprendices.
+<br>
 </p>
 </div>
 
