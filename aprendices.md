@@ -55,5 +55,27 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
     - Reunión final
 
 ### Preguntas Frecuentes
+<div style="text-align: justify">
+<div style="color: #16a085">
+    <b>¿Recibiré un certificado al finalizar el programa?</b>
+</div>
+<p>
+No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
+</p>
 
+<div style="color: #16a085">
+    <b>¿Hay entrevistas en el proceso de selección?</b>
+</div>
+<p>
+No hacemos entrevistas para seleccionar aprendices.
+</p>
+
+<div style="color: #16a085">
+    <b>¿Debo tener buenas calificaciones para ser aceptad@?</b>
+</div>
+<p>
+No es necesario tener buenas calificaciones y/o bueno promedio académico para inscribirse o ser aceptad@ a Pares Ordenados.
+</p>
+</div>
+</div>
 
