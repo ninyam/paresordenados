@@ -62,9 +62,16 @@ No es necesario tener buenas calificaciones y/o buen promedio académico para in
 No hacemos entrevistas para seleccionar aprendices.
 
 <p style="color:#ED0974;"><b>> No tengo una idea clara acerca del tema que quiero estudiar, ¿es posible obtener sugerencias de mi mentor(a)?</b></p>
- Está bien no tener un tema específico en mente. Pares Ordenados ha sido creado precisamente para permitir la exploración matemática. Si es posible que el(la) mentor(a) sugiera temas basados en los intereses de l@s aprendices.
+Está bien no tener un tema específico en mente. Pares Ordenados ha sido creado precisamente para permitir la exploración matemática. Si es posible que el(la) mentor(a) sugiera temas basados en los intereses de ambas partes.
 
- <p style="color:#ED0974;"><b>> ¿Recibiré un certificado al finalizar el programa?</b></p>
+<p style="color:#ED0974;"><b>> ¿En tal caso de ser elegido y haber propuesto más de un tema, puedo elegir qué tema aprender con mi mentor(a)?</b></p>
+Los temas se escogen basados en mutuo acuerdo de el(la) aprendiz y el(la) mentor(a). Si entre los temas que usted propuso, hay uno que le llama más la atención, es importante que le haga saber esto a su mentor(a) para que haya claridad desde el principio.
+
+<p style="color:#ED0974;"><b>> ¿Cuándo y cómo me entero si fui seleccionad@?</b></p>
+Tenemos un día designado para anunciar aceptaciones, ver Calendario en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>. En el transcurso de ese día le llegará un correo electrónico a la dirección proporcionada en su aplicación (por favor asegurese que sea una dirección que use con frecuencia).
+
+
+<p style="color:#ED0974;"><b>> ¿Recibiré un certificado al finalizar el programa?</b></p>
 No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
 
 <p style="color:#ED0974;"><b>> ¿L@s mentores(as) son hablantes nativos del español?</b></p>
@@ -79,7 +86,8 @@ Nuestra prioridad son l@s estudiantes que no se han graduado del pregrado. Sin e
 
 
 
-<p style="color:#ED0974;"><b>></b></p>
+<p style="color:#ED0974;"><b>> ¿La propuesta del proyecto final requiere alguna aprobación?</b></p>
+
 
 <p style="color:#ED0974;"><b>></b></p>
 
