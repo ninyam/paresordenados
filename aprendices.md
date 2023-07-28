@@ -56,13 +56,13 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
 
 ### Preguntas Frecuentes
 <div style="text-align: justify">
-<p>
 <div style="color: #ED0974">
     <b>> ¿Recibiré un certificado al finalizar el programa?</b>
 </div>
 No ofrecemos certificados al final del programa, pero si escribimos cartas de certificación a solicitud.
-<br>
+</div>
 
+<div style="text-align: justify">
 <div style="color: #ED0974">
     <b>> ¿Hay entrevistas en el proceso de selección?</b>
 </div>
