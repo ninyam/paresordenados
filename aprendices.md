@@ -56,6 +56,7 @@ Sus responsabilidades como aprendiz en Pares Ordenados serán:
 
 ### Preguntas Frecuentes
 <div style="text-align: justify">
+<p>
 <div style="color: #ED0974">
     <b>> ¿Recibiré un certificado al finalizar el programa?</b>
 </div>
@@ -74,12 +75,15 @@ No hacemos entrevistas para seleccionar aprendices.
 No es necesario tener buenas calificaciones y/o buen promedio académico para inscribirse o ser aceptad@ a Pares Ordenados.
 <br>
 
-<div style="color: #16a085">
+<div style="color: #ED0974">
     <b>> ¿L@s mentores(as) son hablantes nativos del español?</b>
 </div>
 Un alto porcentaje de nuestr@s mentores(as) son hablantes nativos del español ya que parte de nuestros objetivos es promover conexiones entre los miembros de la Comunidad Matemática Latina/Hispana. 
 Por otro lado, también aceptamos mentores(as) cuya lengua nativa no es el español, pero cuyo dominio de este es suficientemente bueno para interactuar fluidamente con l@s aprendices.
 
-
+<div style="color: #ED0974">
+    <b>> Acabé mi pregrado pero aún no llevo cursos de maestría, ¿soy apt@ para participar en Pares Ordenados?</b>
+</div>
+</p>
 </div>
 
