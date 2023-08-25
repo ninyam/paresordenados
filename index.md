@@ -37,6 +37,7 @@ Entre estás minorías se encuentran:
 	<li>Estudiantes que hagan parte de la comunidad  LGBTQIA+</li> 
 	<li>Estudiantes que sean inmigrantes y/o refugiad@s</li>
 	<li>Estudiantes con discapacidades visibles y/o invisibles</li>
+	<li>Estudiantes de Centro América</li>
 </ul>
 </p>
 </div>
