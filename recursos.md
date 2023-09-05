@@ -41,5 +41,6 @@ El proyecto final debe ser un producto tangible que demuestre lo que el/la apren
 
 ## Textos de uso libre
 <ul>
-    <li><a href="https://www.ams.org/open-math-notes ">AMS Open Math Notes</a></li>    
+    <li><a href="https://www.ams.org/open-math-notes">AMS Open Math Notes</a></li> 
+    <li><a href="http://danaernst.com/resources/free-and-open-source-textbooks/">Lista de libros en inglés</a> hecha por Dana C. Ernst de la Universidad del Norte de Arizona.</li>   
 </ul>
