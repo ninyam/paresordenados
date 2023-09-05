@@ -25,6 +25,11 @@ En los siguientes enlaces puede encontrar ejemplos explícitos sobre temas de es
     <td><a href="https://www-users.cse.umn.edu/~mahrud/drp/bookshelf/">Universidad de Minnesota</a></td>
     <td><a href="https://web.ma.utexas.edu/users/drp/projects.html">Universidad de Texas, Austin</a></td>
   </tr>
+  <tr>
+    <td><a href="https://math.virginia.edu/drp/projects/">Universidad de Virginia</a></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 ## Proyectos
