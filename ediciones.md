@@ -14,17 +14,17 @@ width="800" height="500"></iframe>
 </p>
 </div>
 
-### Edición Otoño 2024
+### Edición Primavera 2024
 #### Calendario
 <div class="google-map">
 <p align="center">
-<iframe src="https://calendar.google.com/calendar/embed?src=0e1dea541e51853d6dd572c12070c8215afb07a8d2cd9938813a200b9d235d1c%40group.calendar.google.com&ctz=America%2FNew_York" 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&hl=es&showCalendars=0&showPrint=0&title=Primavera%2FSpring%202024&src=Nzc0YTRmMjQ2ODJmMjY1OTQ5ZjE1MmIzYTIzMzc2MTk5YjFlNmE1YmE4NTVkZDAyZjdkOTM0ZTA4N2JiNjc4NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MGUxZGVhNTQxZTUxODUzZDZkZDU3MmMxMjA3MGM4MjE1YWZiMDdhOGQyY2Q5OTM4ODEzYTIwMGI5ZDIzNWQxY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%2333B679&color=%23039BE5" 
 width="800" height="600"></iframe>
 </p>
 </div>
 
 ### Edición Otoño 2023
-Información sobre participantes y mentores muy pronto.
+Información sobre participantes y mentores aparecerá acá muy pronto.
 
 
 ### Edición Primavera 2023
