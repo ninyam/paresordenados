@@ -14,14 +14,18 @@ width="800" height="500"></iframe>
 </p>
 </div>
 
-### Edición Otoño 2023
+### Edición Otoño 2024
 #### Calendario
 <div class="google-map">
 <p align="center">
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FNew_York&hl=es&showNav=1&showDate=1&showPrint=0&showTabs=0&showCalendars=0&src=Nzc0YTRmMjQ2ODJmMjY1OTQ5ZjE1MmIzYTIzMzc2MTk5YjFlNmE1YmE4NTVkZDAyZjdkOTM0ZTA4N2JiNjc4NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%2333B679" 
+<iframe src="https://calendar.google.com/calendar/embed?src=0e1dea541e51853d6dd572c12070c8215afb07a8d2cd9938813a200b9d235d1c%40group.calendar.google.com&ctz=America%2FNew_York" 
 width="800" height="600"></iframe>
 </p>
 </div>
+
+### Edición Otoño 2023
+Información sobre participantes y mentores muy pronto.
+
 
 ### Edición Primavera 2023
 <p align="center">

@@ -45,13 +45,13 @@ Entre estás minorías se encuentran:
 ### ¿CUÁNDO?
 <div style="text-align: justify">
 <p>
-La edición Otoño 2023 será desde el <b>4 de septiembre de 2023</b> hasta el <b>15 de diciembre de 2023</b>.
+La edición Primavera 2024 será desde el <b>26 de febrero de 2024</b> hasta el <b>8 de junio de 2024</b>.
 <br>
-Apertura de aplicaciones: <b>3 de julio a las 8:00 am EST</b>.
+Apertura de aplicaciones: <b>3 de febrero a las 8:00 am ET</b>.
 <br>
-Cierre de aplicaciones: <b>14 de agosto a las 11:59 pm EST</b>.
+Cierre de aplicaciones: <b>14 de febrero a las 11:59 pm ET</b>.
 <br>
-Para ver el calendario detallado, ir a <b>Edición Otoño 2023</b> en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.
+Para ver el calendario detallado, ir a <b>Edición Primavera 2024</b> en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.
 </p>
 </div>
 
