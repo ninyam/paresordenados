@@ -5,7 +5,7 @@ title: Aprendices
 
 ¡Muchas gracias por su interés en participar en Pares Ordenados!
 
-<span onclick="window.open('https://duke.qualtrics.com/jfe/form/SV_cYXr4wk1a92dObY')" style="cursor: pointer">
+<span onclick="window.open('https://forms.gle/E4CyWXQXn8aUCjSEA')" style="cursor: pointer">
     <button class="button1"><b>Aplicación para Aprendices</b></button>
 </span>
 

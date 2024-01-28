@@ -5,7 +5,7 @@ title: Mentores
 
 ¡Muchas gracias por su interés en participar en Pares Ordenados!
 
-<span onclick="window.open('https://duke.qualtrics.com/jfe/form/SV_bmfJBPCbPpmuWfI')" style="cursor: pointer">
+<span onclick="window.open('https://forms.gle/jwKeR5qyVQaajbHe6')" style="cursor: pointer">
     <button class="button1"><b>Aplicación para Mentores</b></button>
 </span>
 
