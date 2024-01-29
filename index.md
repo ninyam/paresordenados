@@ -47,7 +47,7 @@ Entre estás minorías se encuentran:
 <p>
 La edición Primavera 2024 será desde el <b>26 de febrero de 2024</b> hasta el <b>8 de junio de 2024</b>.
 <br>
-Apertura de aplicaciones: <b>3 de febrero a las 8:00 am ET</b>.
+Apertura de aplicaciones: <b>1 de febrero a las 8:00 am ET</b>.
 <br>
 Cierre de aplicaciones: <b>14 de febrero a las 11:59 pm ET</b>.
 <br>
