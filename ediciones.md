@@ -44,6 +44,28 @@ width="800" height="600"></iframe>
       <td> Anderson Vera Arboleda<br><a href="https://rubiel1.github.io">Eric Dolores</a></td>
       <td>Yeimi Alejandra Sánchez Bautista </td>
     </tr>
+    <tr>
+      <td>Introducción a la teoría geométrica de grupos: cuando el álgebra, el análisis y la topología se unen
+      <a href="{{ '/edicionO23/ Nestor Fabian Bravo Hernandez.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a></td>
+      <td>Audrey Goodnight</td>
+      <td>Néstor Fabián  Bravo Hernández</td>
+    </tr>
+    <tr>
+      <td> Importancia de los teoremas de existencia en EDO de primer orden 
+      <a href="{{ '/edicionO23/JOSE FABIAN HERNANDEZ SOLIS.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a> </td>
+      <td> Edgardo Chunga Rojas </td>
+      <td> José Fabián Hernández Solís </td>
+    </tr>
+    <tr>
+      <td> McEliece cryptosystem based on moderate density parity-check codes <a href="{{ '/edicionO23/DANIEL CLEMENTE CENTENO MURCIA.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>  </td>
+      <td> <a href="https://sites.google.com/site/henrychimal/home?authuser=0">Henry Chimal Dzul</a> </td>
+      <td> Daniel Clemente Centeno Murcia </td>
+    </tr>
+    <tr>
+      <td> Gradient boosting <a href="{{ '/edicionO23/ WALYS VERA HERRERA.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>  </td>
+      <td> <a href="https://jear2412.github.io">Javier Enrique Aguilar</a></td>
+      <td> Walys Vera </td>
+    </tr>
   </table>
 </p>
 
