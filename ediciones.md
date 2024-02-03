@@ -73,6 +73,16 @@ width="800" height="600"></iframe>
       <td> Cristian Fernando Leon Sierra </td>
     </tr>
     <tr>
+      <td> Álgebra a través de la teoría de categorías<a href="{{ '/edicionO23/Daniela Colmenares Sierra.pdf' | prepend: site.baseurl }}"><tt> pdf</tt></a> </td>
+      <td> <a href="https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0">Juan Omar Gomez</a> </td>
+      <td> Daniela Colmenares Sierra </td>
+    </tr>
+    <tr>
+      <td> Introducción a superficies de Riemann y teoría de haces <a href="{{ '/edicionO23/JAIDER DANIEL TORRES CASTILLO.pdf' | prepend: site.baseurl }}"><tt> pdf</tt> </a> </td>
+      <td> Leonardo Roa Leguizamon </td>
+      <td> Jaider Torres Castillo </td>
+    </tr>
+    <tr>
       <td> </td>
       <td> </td>
       <td> </td>
