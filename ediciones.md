@@ -67,7 +67,8 @@ width="800" height="600"></iframe>
       <td> Walys Vera </td>
     </tr>
     <tr>
-      <td> </td>
+      <td> Implementación <br> <a href="{{ '/edicionO23/Cristian/cero.ipynb' | prepend: site.baseurl }}"><tt>ipynb</tt></a>,
+      <a href="{{ '/edicionO23/Cristian/ocho.ipynb' | prepend: site.baseurl }}"><tt>ipynb</tt></a></td>
       <td> <a href="http://personal.cimat.mx:8181/~luis.leon/">José Luis León Medina</a> </td>
       <td> Cristian Fernando Leon Sierra </td>
     </tr>
