@@ -31,6 +31,12 @@ width="800" height="600"></iframe>
       <td style="width:30%"><strong>Mentor(a)</strong></td>
       <td><strong>Aprendiz</strong></td>
     </tr>
+    <tr>
+      <td>Intersecciones de curvas proyectivas planas 
+            <a href="{{ '/edicionO23/ANGEE NATALIA GRIJALBA FERNANDEZ.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a></td>
+      <td>Ander Arriola Corpion</td>
+      <td>Angee Natalia Grijalba Fernandez </td>
+    </tr>
   </table>
 </p>
 
