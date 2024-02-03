@@ -38,17 +38,17 @@ width="800" height="600"></iframe>
       <td>Angee Natalia Grijalba Fernandez </td>
     </tr>
     <tr>
-      <td> Invariantes de nudos 
+      <td>Invariantes de nudos 
           <a href="{{ '/edicionO23/Yeimi Alejandra Sánchez Bautista .pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a></td>
       </td>
-      <td> Anderson Vera Arboleda <br> <br> <a href="https://rubiel1.github.io">Eric Dolores</a></td>
-      <td> Yeimi Alejandra  Sánchez Bautista  </td>
+      <td> Anderson Vera Arboleda<br><a href="https://rubiel1.github.io">Eric Dolores</a></td>
+      <td>Yeimi Alejandra Sánchez Bautista </td>
     </tr>
     <tr>
       <td>Introducción a la teoría geométrica de grupos: cuando el álgebra, el análisis y la topología se unen
-      <a href="{{ '/edicionO23/ Nestor Fabian Bravo Hernandez.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a> </td>
-      <td> Audrey Goodnight </td>
-      <td> Néstor Fabián  Bravo Hernández  </td>
+      <a href="{{ '/edicionO23/ Nestor Fabian Bravo Hernandez.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a></td>
+      <td>Audrey Goodnight</td>
+      <td>Néstor Fabián  Bravo Hernández</td>
     </tr>
   </table>
 </p>
