@@ -90,6 +90,24 @@ width="800" height="600"></iframe>
       <td> Juan Camilo  Camacho Parra  </td>
     </tr>
     <tr>
+      <td> Anticipación de riesgos de incendios forestales con inteligencia artificial <br>
+      <a href="https://colab.research.google.com/drive/1BkdhNszvF-BzWTmnClauVZSOlDuN25dZ?usp%253Dsharing"> implementación</a>
+      <a href="https://gamma.app/docs/Anticipacion-de-Riesgos-de-Incendios-Forestales-con-Inteligencia--nnw2mzgv0hm7us9?mode%253Ddoc#card-bip8d3k7iruqeyj"> presentación</a>
+      </td>
+      <td> <a href="https://github.com/xaviercanche/"> Mario Xavier Canche Uc</a> </td>
+      <td> <a href="https://www.linkedin.com/in/brayan-chamorro-318847128/">Brayan Steven Chamorro Burbano </a> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
       <td> </td>
       <td> </td>
       <td> </td>
