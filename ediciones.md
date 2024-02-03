@@ -66,8 +66,8 @@ width="800" height="600"></iframe>
       <td> <a href="https://jear2412.github.io">Javier Enrique Aguilar</a></td>
       <td> Walys Vera </td>
     </tr>
-        <tr>
-      <td> Implementación <br> <a href="{{ '/edicionO23/Cristian/cero.ipynb' | prepend: site.baseurl }}"><tt>ipynb</tt></a>,
+    <tr>
+      <td> implementación <br> <a href="{{ '/edicionO23/Cristian/cero.ipynb' | prepend: site.baseurl }}"><tt>ipynb</tt></a>,
       <a href="{{ '/edicionO23/Cristian/ocho.ipynb' | prepend: site.baseurl }}"><tt>ipynb</tt></a></td>
       <td> <a href="http://personal.cimat.mx:8181/~luis.leon/">José Luis León Medina</a> </td>
       <td> Cristian Fernando Leon Sierra </td>
@@ -100,7 +100,6 @@ width="800" height="600"></iframe>
     </tr>
     <tr>
       <td> Transformando la moda en código: detección de prendas y segmentación de imágenes con Fashionpedia <a href ="https://github.com/Mariap444/Pares-Ordenados"> implementación </a></td>
-      </td>
       <td> <a href="https://github.com/xaviercanche/"> Mario Xavier Canche Uc</a> </td>
       <td> Maria Paula Chivatá García </td>
     </tr>
