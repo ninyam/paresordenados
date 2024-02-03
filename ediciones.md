@@ -62,9 +62,9 @@ width="800" height="600"></iframe>
       <td> Daniel Clemente Centeno Murcia </td>
     </tr>
     <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> Gradient boosting <a href="{{ '/edicionO23/ WALYS VERA HERRERA.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>  </td>
+      <td> <a href="https://jear2412.github.io">Javier Enrique Aguilar</a></td>
+      <td> Walys Vera </td>
     </tr>
     <tr>
       <td> </td>
