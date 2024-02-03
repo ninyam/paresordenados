@@ -39,7 +39,7 @@ width="800" height="600"></iframe>
     </tr>
     <tr>
       <td>Invariantes de nudos 
-          <a href="{{ '/edicionO23/Yeimi Alejandra Sánchez Bautista .pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a></td>
+          <a href="{{ '/edicionO23/Yeimi Alejandra Sánchez Bautista .pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>
       </td>
       <td> Anderson Vera Arboleda<br><a href="https://rubiel1.github.io">Eric Dolores</a></td>
       <td>Yeimi Alejandra Sánchez Bautista </td>
