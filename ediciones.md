@@ -91,21 +91,25 @@ width="800" height="600"></iframe>
     </tr>
     <tr>
       <td> Anticipación de riesgos de incendios forestales con inteligencia artificial <br>
-      <a href="https://colab.research.google.com/drive/1BkdhNszvF-BzWTmnClauVZSOlDuN25dZ?usp%253Dsharing"> implementación</a>
-      <a href="https://gamma.app/docs/Anticipacion-de-Riesgos-de-Incendios-Forestales-con-Inteligencia--nnw2mzgv0hm7us9?mode%253Ddoc#card-bip8d3k7iruqeyj"> presentación</a>
+      <a href="https://colab.research.google.com/drive/1BkdhNszvF-BzWTmnClauVZSOlDuN25dZ?usp%253Dsharing"> implementación </a>
+      <a href="https://gamma.app/docs/Anticipacion-de-Riesgos-de-Incendios-Forestales-con-Inteligencia--nnw2mzgv0hm7us9?mode%253Ddoc#card-bip8d3k7iruqeyj"> presentación 
+      </a>
       </td>
       <td> <a href="https://github.com/xaviercanche/"> Mario Xavier Canche Uc</a> </td>
       <td> <a href="https://www.linkedin.com/in/brayan-chamorro-318847128/">Brayan Steven Chamorro Burbano </a> </td>
     </tr>
     <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> Transformando la moda en código: detección de prendas y segmentación de imágenes con Fashionpedia <a href ="https://github.com/Mariap444/Pares-Ordenados"> implementación </a></td>
+      </td>
+      <td> <a href="https://github.com/xaviercanche/"> Mario Xavier Canche Uc</a> </td>
+      <td> Maria Paula Chivatá García </td>
     </tr>
     <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> Análisis computacional del modelo epidemiológico SEIR
+      <a href="{{ '/edicionO23/JUAN SEBASTIAN SALAS GARCIA.pdf' | prepend: site.baseurl }}"><tt> pdf</tt> </a> 
+      </td>
+      <td> <a href="https://www.miguelgondu.com/about/"> Miguel González Duque</a> <ed/td>
+      <td> Juan Sebastian Salas Garcia </td>
     </tr>
     <tr>
       <td> </td>
