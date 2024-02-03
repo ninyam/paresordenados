@@ -66,6 +66,44 @@ width="800" height="600"></iframe>
       <td> <a href="https://jear2412.github.io">Javier Enrique Aguilar</a></td>
       <td> Walys Vera </td>
     </tr>
+        <tr>
+      <td> Implementación <br> <a href="{{ '/edicionO23/Cristian/cero.ipynb' | prepend: site.baseurl }}"><tt>ipynb</tt></a>,
+      <a href="{{ '/edicionO23/Cristian/ocho.ipynb' | prepend: site.baseurl }}"><tt>ipynb</tt></a></td>
+      <td> <a href="http://personal.cimat.mx:8181/~luis.leon/">José Luis León Medina</a> </td>
+      <td> Cristian Fernando Leon Sierra </td>
+    </tr>
+    <tr>
+      <td> Álgebra a través de la teoría de categorías<a href="{{ '/edicionO23/Daniela Colmenares Sierra.pdf' | prepend: site.baseurl }}"><tt> pdf</tt></a> </td>
+      <td> <a href="https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0">Juan Omar Gomez</a> </td>
+      <td> Daniela Colmenares Sierra </td>
+    </tr>
+    <tr>
+      <td> Introducción a superficies de Riemann y teoría de haces <a href="{{ '/edicionO23/JAIDER DANIEL TORRES CASTILLO.pdf' | prepend: site.baseurl }}"><tt> pdf</tt> </a> </td>
+      <td> Leonardo Roa Leguizamon </td>
+      <td> Jaider Torres Castillo </td>
+    </tr>
+    <tr>
+      <td>
+      Teoría geométrica de grupos <a href="{{ '/edicionO23/JAIDER DANIEL TORRES CASTILLO.pdf' | prepend: site.baseurl }}"><tt> pdf </tt> </a> 
+      </td>
+      <td> <a href="https://www.dpmms.cam.ac.uk/~mcr59/"> Macarena Arenas </a> </td>
+      <td> Juan Camilo  Camacho Parra  </td>
+    </tr>
+    <tr>
+      <td> Anticipación de riesgos de incendios forestales con inteligencia artificial <br>
+      <a href="https://colab.research.google.com/drive/1BkdhNszvF-BzWTmnClauVZSOlDuN25dZ?usp%253Dsharing"> implementación </a>
+      <a href="https://gamma.app/docs/Anticipacion-de-Riesgos-de-Incendios-Forestales-con-Inteligencia--nnw2mzgv0hm7us9?mode%253Ddoc#card-bip8d3k7iruqeyj"> presentación 
+      </a>
+      </td>
+      <td> <a href="https://github.com/xaviercanche/"> Mario Xavier Canche Uc</a> </td>
+      <td> <a href="https://www.linkedin.com/in/brayan-chamorro-318847128/">Brayan Steven Chamorro Burbano </a> </td>
+    </tr>
+    <tr>
+      <td> Transformando la moda en código: detección de prendas y segmentación de imágenes con Fashionpedia <a href ="https://github.com/Mariap444/Pares-Ordenados"> implementación </a></td>
+      </td>
+      <td> <a href="https://github.com/xaviercanche/"> Mario Xavier Canche Uc</a> </td>
+      <td> Maria Paula Chivatá García </td>
+    </tr>
   </table>
 </p>
 
