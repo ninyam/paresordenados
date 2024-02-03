@@ -112,6 +112,35 @@ width="800" height="600"></iframe>
       <td> Juan Sebastian Salas Garcia </td>
     </tr>
     <tr>
+      <td> Introducción a la teoría de juegos <a href="{{ '/edicionO23/ Emmanuel David Silva Amaya.pdf' | prepend: site.baseurl }}"><tt> pdf</tt> </a> </td>
+      <td> O'Bryan Cardenas Andaur </td>
+      <td> Emmanuel David Silva Amaya </td>
+    </tr>
+    <tr>
+      <td> Una introducción a los Grupos de Coxeter 
+      <a href="{{ '/edicionO23/JASSIEL EDUARDO CORONADO PIÑA.pdf' | prepend: site.baseurl }}"><tt> pdf </tt> </a></td>
+      <td> <a href="https://www.cmup.pt/user/2274"> Oscar Armando Hernández Morales </a> </td>
+      <td> Jassiel Eduardo Coronado Piña </td>
+    </tr>
+    <tr>
+      <td> Análisis del estado ocular de un conductor con AdaBoost y PCA en tiempo real 
+      <a href="{{ '/edicionO23/Sara/Proyecto_mex.pdf' | prepend: site.baseurl }}"><tt> pdf </tt> </a>
+      <a href="{{ '/edicionO23/Sara/MEX.zip' | prepend: site.baseurl }}"><tt> implementación </tt> </a>
+      </td>
+      <td> Sacbe García García </td>
+      <td> Sara Daniela Vergara Martinez </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
       <td> </td>
       <td> </td>
       <td> </td>
