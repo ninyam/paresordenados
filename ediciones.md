@@ -30,7 +30,7 @@ width="800" height="600"></iframe>
       <td style="width:40%"><strong>Proyecto</strong></td>
       <td style="width:30%"><strong>Mentor(a)</strong></td>
       <td><strong>Aprendiz</strong></td>
-  </tr>
+    </tr>
     <tr>
       <td>Intersecciones de curvas proyectivas planas 
             <a href="{{ '/edicionO23/ANGEE NATALIA GRIJALBA FERNANDEZ.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a></td>
@@ -137,6 +137,7 @@ width="800" height="600"></iframe>
     </tr>
   </table>
 </p>
+
 
 ### Edición Primavera 2023
 <p align="center">
