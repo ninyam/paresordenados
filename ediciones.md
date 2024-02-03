@@ -31,52 +31,6 @@ width="800" height="600"></iframe>
       <td style="width:30%"><strong>Mentor(a)</strong></td>
       <td><strong>Aprendiz</strong></td>
     </tr>
-    <tr>
-      <td>Intersecciones de curvas proyectivas planas 
-            <a href="{{ '/edicionO23/ANGEE NATALIA GRIJALBA FERNANDEZ.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a></td>
-      <td>Ander Arriola Corpion</td>
-      <td>Angee Natalia Grijalba Fernandez </td>
-    </tr>
-    <tr>
-      <td> Invariantes de nudos 
-          <a href="{{ '/edicionO23/Yeimi Alejandra Sánchez Bautista .pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a></td>
-      </td>
-      <td> Anderson Vera Arboleda <br> <br> <a href="https://rubiel1.github.io">Eric Dolores</a></td>
-      <td> Yeimi Alejandra  Sánchez Bautista  </td>
-    </tr>
-    <tr>
-      <td>Introducción a la teoría geométrica de grupos: cuando el álgebra, el análisis y la topología se unen
-      <a href="{{ '/edicionO23/ Nestor Fabian Bravo Hernandez.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a> </td>
-      <td> Audrey Goodnight </td>
-      <td> Néstor Fabián  Bravo Hernández  </td>
-    </tr>
-    <tr>
-      <td> Importancia de los teoremas de existencia en EDO de primer orden 
-      <a href="{{ '/edicionO23/JOSE FABIAN HERNANDEZ SOLIS.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a> </td>
-      <td> Edgardo Chunga Rojas </td>
-      <td> José Fabián Hernández Solís </td>
-    </tr>
-    <tr>
-      <td> McEliece cryptosystem based on moderate density parity-check codes <a href="{{ '/edicionO23/DANIEL CLEMENTE CENTENO MURCIA.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>  </td>
-      <td> <a href="https://sites.google.com/site/henrychimal/home?authuser=0">Henry Chimal Dzul</a> </td>
-      <td> Daniel Clemente Centeno Murcia </td>
-    </tr>
-    <tr>
-      <td> Gradient boosting <a href="{{ '/edicionO23/ WALYS VERA HERRERA.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a>  </td>
-      <td> <a href="https://jear2412.github.io">Javier Enrique Aguilar</a></td>
-      <td> Walys Vera </td>
-    </tr>
-    <tr>
-      <td> Implementación <br> <a href="{{ '/edicionO23/Cristian/cero.ipynb' | prepend: site.baseurl }}"><tt>ipynb</tt></a>,
-      <a href="{{ '/edicionO23/Cristian/ocho.ipynb' | prepend: site.baseurl }}"><tt>ipynb</tt></a></td>
-      <td> <a href="http://personal.cimat.mx:8181/~luis.leon/">José Luis León Medina</a> </td>
-      <td> Cristian Fernando Leon Sierra </td>
-    </tr>
-    <tr>
-      <td> Álgebra a través de la teoría de categorías<a href="{{ '/edicionO23/Daniela Colmenares Sierra.pdf' | prepend: site.baseurl }}"><tt> pdf</tt></a> </td>
-      <td> <a href="https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0">Juan Omar Gomez</a> </td>
-      <td> Daniela Colmenares Sierra </td>
-    </tr>
   </table>
 </p>
 
