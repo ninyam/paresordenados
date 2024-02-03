@@ -24,8 +24,63 @@ width="800" height="600"></iframe>
 </div>
 
 ### Edición Otoño 2023
-Información sobre participantes y mentores aparecerá acá muy pronto.
-
+<p align="center">
+  <table style="width:100%">
+    <tr>
+      <td style="width:40%"><strong>Proyecto</strong></td>
+      <td style="width:30%"><strong>Mentor(a)</strong></td>
+      <td><strong>Aprendiz</strong></td>
+  </tr>
+    <tr>
+      <td>Intersecciones de curvas proyectivas planas 
+            <a href="{{ '/edicionO23/ANGEE NATALIA GRIJALBA FERNANDEZ.pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a></td>
+      <td>Ander Arriola Corpion</td>
+      <td>Angee Natalia Grijalba Fernandez </td>
+    </tr>
+    <tr>
+      <td> Invariantes de nudos 
+          <a href="{{ '/edicionO23/Yeimi Alejandra Sánchez Bautista .pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a></td>
+      </td>
+      <td> Anderson Vera Arboleda <br> <br> <a href="https://rubiel1.github.io">Eric Dolores</a></td>
+      <td> Yeimi Alejandra  Sánchez Bautista  </td>
+    </tr>
+    <tr>
+      <td>Introducción a la Teoría Geométrica de Grupos: Cuando el Álgebra, el Análisis y la Topología se unen </td>
+      <td> Audrey Goodnight </td>
+      <td> Néstor Fabián  Bravo Hernández  </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </table>
+</p>
 
 ### Edición Primavera 2023
 <p align="center">
