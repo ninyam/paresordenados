@@ -68,8 +68,8 @@ width="800" height="600"></iframe>
     </tr>
     <tr>
       <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> <a href="http://personal.cimat.mx:8181/~luis.leon/">José Luis León Medina</a> </td>
+      <td> Cristian Fernando Leon Sierra </td>
     </tr>
     <tr>
       <td> </td>
