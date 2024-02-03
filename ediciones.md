@@ -77,64 +77,6 @@ width="800" height="600"></iframe>
       <td> <a href="https://sites.google.com/cimat.mx/juanomargomez/home?authuser=0">Juan Omar Gomez</a> </td>
       <td> Daniela Colmenares Sierra </td>
     </tr>
-    <tr>
-      <td> Introducción a superficies de Riemann y teoría de haces <a href="{{ '/edicionO23/JAIDER DANIEL TORRES CASTILLO.pdf' | prepend: site.baseurl }}"><tt> pdf</tt> </a> </td>
-      <td> Leonardo Roa Leguizamon </td>
-      <td> Jaider Torres Castillo </td>
-    </tr>
-    <tr>
-      <td>
-      Teoría geométrica de grupos <a href="{{ '/edicionO23/JAIDER DANIEL TORRES CASTILLO.pdf' | prepend: site.baseurl }}"><tt> pdf </tt> </a> 
-      </td>
-      <td> <a href="https://www.dpmms.cam.ac.uk/~mcr59/"> Macarena Arenas </a> </td>
-      <td> Juan Camilo  Camacho Parra  </td>
-    </tr>
-    <tr>
-      <td> Anticipación de riesgos de incendios forestales con inteligencia artificial <br>
-      <a href="https://colab.research.google.com/drive/1BkdhNszvF-BzWTmnClauVZSOlDuN25dZ?usp%253Dsharing"> implementación </a>
-      <a href="https://gamma.app/docs/Anticipacion-de-Riesgos-de-Incendios-Forestales-con-Inteligencia--nnw2mzgv0hm7us9?mode%253Ddoc#card-bip8d3k7iruqeyj"> presentación 
-      </a>
-      </td>
-      <td> <a href="https://github.com/xaviercanche/"> Mario Xavier Canche Uc</a> </td>
-      <td> <a href="https://www.linkedin.com/in/brayan-chamorro-318847128/">Brayan Steven Chamorro Burbano </a> </td>
-    </tr>
-    <tr>
-      <td> Transformando la moda en código: detección de prendas y segmentación de imágenes con Fashionpedia <a href ="https://github.com/Mariap444/Pares-Ordenados"> implementación </a></td>
-      </td>
-      <td> <a href="https://github.com/xaviercanche/"> Mario Xavier Canche Uc</a> </td>
-      <td> Maria Paula Chivatá García </td>
-    </tr>
-    <tr>
-      <td> Análisis computacional del modelo epidemiológico SEIR
-      <a href="{{ '/edicionO23/JUAN SEBASTIAN SALAS GARCIA.pdf' | prepend: site.baseurl }}"><tt> pdf</tt> </a> 
-      <td>
-      <a href="https://www.miguelgondu.com/about/"> Miguel González Duque </a> </td>
-      <td> Juan Sebastian Salas Garcia </td>
-    </tr>
-    <tr>
-      <td> Introducción a la teoría de juegos <a href="{{ '/edicionO23/ Emmanuel David Silva Amaya.pdf' | prepend: site.baseurl }}"><tt> pdf</tt> </a> </td>
-      <td> O'Bryan Cardenas Andaur </td>
-      <td> Emmanuel David Silva Amaya </td>
-    </tr>
-    <tr>
-      <td> Una introducción a los Grupos de Coxeter 
-      <a href="{{ '/edicionO23/JASSIEL EDUARDO CORONADO PIÑA.pdf' | prepend: site.baseurl }}"><tt> pdf </tt> </a></td>
-      <td> <a href="https://www.cmup.pt/user/2274"> Oscar Armando Hernández Morales </a> </td>
-      <td> Jassiel Eduardo Coronado Piña </td>
-    </tr>
-    <tr>
-      <td> Análisis del estado ocular de un conductor con AdaBoost y PCA en tiempo real 
-      <a href="{{ '/edicionO23/Sara/Proyecto_mex.pdf' | prepend: site.baseurl }}"><tt> pdf </tt> </a>
-      <a href="{{ '/edicionO23/Sara/MEX.zip' | prepend: site.baseurl }}"><tt> implementación </tt> </a>
-      </td>
-      <td> Sacbe García García </td>
-      <td> Sara Daniela Vergara Martinez </td>
-    </tr>
-    <tr>
-      <td> Introducción a los espacios de probabilidad no conmutativos <a href="{{ '/edicionO23/ NATALIA AGUDELO ZAPATA.pdf' | prepend: site.baseurl }}"><tt> pdf </tt> </a></td>
-      <td> <a href="https://sites.google.com/cimat.mx/violetamartinez/home"> Violeta Alitzel Martínez Escamilla </a> </td>
-      <td> Natalia Agudelo Zapata </td>
-    </tr>
   </table>
 </p>
 
