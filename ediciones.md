@@ -131,19 +131,9 @@ width="800" height="600"></iframe>
       <td> Sara Daniela Vergara Martinez </td>
     </tr>
     <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td> Introducción a los espacios de probabilidad no conmutativos <a href="{{ '/edicionO23/ NATALIA AGUDELO ZAPATA.pdf' | prepend: site.baseurl }}"><tt> pdf </tt> </a></td>
+      <td> <a href="https://sites.google.com/cimat.mx/violetamartinez/home"> Violeta Alitzel Martínez Escamilla </a> </td>
+      <td> Natalia Agudelo Zapata </td>
     </tr>
   </table>
 </p>
