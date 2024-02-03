@@ -83,9 +83,11 @@ width="800" height="600"></iframe>
       <td> Jaider Torres Castillo </td>
     </tr>
     <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
+      <td>
+      Teoría geométrica de grupos <a href="{{ '/edicionO23/JAIDER DANIEL TORRES CASTILLO.pdf' | prepend: site.baseurl }}"><tt> pdf</tt> </a> 
+      </td>
+      <td> <a href="https://www.dpmms.cam.ac.uk/~mcr59/"> Macarena Arenas </td>
+      <td> Juan Camilo  Camacho Parra  </td>
     </tr>
     <tr>
       <td> </td>
