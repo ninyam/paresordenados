@@ -126,7 +126,7 @@ width="800" height="600"></iframe>
       <a href="{{ '/edicionO23/Sara/Proyecto_mex.pdf' | prepend: site.baseurl }}"><tt> pdf </tt> </a>
       <a href="{{ '/edicionO23/Sara/MEX.zip' | prepend: site.baseurl }}"><tt> implementación </tt> </a>
       </td>
-      <td> Sacbe García García </td>
+      <td> <a href="https://mx.linkedin.com/in/sacbeg/en"> Sacbe García García </a> </td>
       <td> Sara Daniela Vergara Martinez </td>
     </tr>
     <tr>
