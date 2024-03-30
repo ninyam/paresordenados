@@ -104,7 +104,7 @@ width="800" height="600"></iframe>
     </tr>
     <tr>
       <td> Análisis computacional del modelo epidemiológico SEIR
-      <a href="{{ '/edicionO23/JUAN SEBASTIAN SALAS GARCIA.pdf' | prepend: site.baseurl }}"><tt> pdf</tt> </a> </td>
+      </td>
       <td>
       <a href="https://www.miguelgondu.com/about/"> Miguel González Duque </a> </td>
       <td> Juan Sebastian Salas Garcia </td>
