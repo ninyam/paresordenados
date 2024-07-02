@@ -13,7 +13,7 @@ Aquí hay un mapa de las instituciones de aprendices (verde) y mentores (morado)
 </p>
 </div>
 
-### Edición Primavera 2024
+
 #### Calendario
 <div class="google-map">
 <p align="center">
@@ -21,6 +21,68 @@ Aquí hay un mapa de las instituciones de aprendices (verde) y mentores (morado)
 width="800" height="600"></iframe>
 </p>
 </div>
+
+
+### Edición Primavera 2024
+<p align="center">
+  <table style="width:100%">
+    <tr>
+      <td style="width:40%"><strong>Proyecto</strong></td>
+      <td style="width:30%"><strong>Mentor(a)</strong></td>
+      <td><strong>Aprendiz</strong></td>
+    </tr>
+    <tr>
+      <td> Análisis topológico de datos: Complejo de Morse-Smale discreto </td>
+      <td> Carlos Segovia González </td>
+      <td> Daniel Amaya Zabala </td>
+    </tr>
+    <tr>
+      <td> Introducción a la teoría de óperads. Un enfoque combinatorio </td>
+      <td> Eric Dolores Cuenca </td>
+      <td> Jonathan Raymundo Torres Cárdenas </td>
+    </tr>
+    <tr>
+      <td> Física y nudos: Una exposición sobre los invariantes presentes en la naturaleza </td>
+      <td> Isabela Recio </td>
+      <td> Byron Abel Raul Hernández Pacay </td>
+    </tr>
+    <tr>
+      <td> Conociendo propiedades de la transformada de Fourier mediante la solución de ejercicios </td>
+      <td> José Alfredo Uribe Alcántara </td>
+      <td> Sofía Bustos Aponte </td>
+    </tr>
+    <tr>
+      <td> Variedades suaves: Una generalización de curvas y superficies </td>
+      <td> Juan Pablo Ocampo Gamboa </td>
+      <td> Fernando Nava Hernández </td>
+    </tr>
+    <tr>
+      <td> Una introducción a la teoría de valuaciones </td>
+      <td> Luis Manuel Reyes De La Luz </td>
+      <td> Néstor Heli Aponte Ávila </td>
+    </tr>
+    <tr>
+      <td> Introducción a la teoría de categorías </td>
+      <td> Mateo Torres Ruiz </td>
+      <td> José Manuel Ramírez Gómez </td>
+    </tr>
+    <tr>
+      <td> Gráficas llamativas </td>
+      <td> O'Bryan Cárdenas-Andaur </td>
+      <td> Kevin Gerardo Messina Rodríguez </td>
+    </tr>
+    <tr>
+      <td> Desde la aritmética modular al fascinante mundo de los números perfectos </td>
+      <td> Pedro Fernando Fernández Espinosa </td>
+      <td> Jesús Chávez Valencia </td>
+    </tr>
+    <tr>
+      <td> Rudimentos del cálculo tensorial y el estudio de la curvatura en geometría pseudo-Riemmanniana </td>
+      <td> Tomás Mejía Gómez </td>
+      <td> Mateo Preciado Estrada </td>
+    </tr>
+  </table>
+</p>
 
 ### Edición Otoño 2023
 <p align="center">
