@@ -32,52 +32,80 @@ width="800" height="600"></iframe>
       <td><strong>Aprendiz</strong></td>
     </tr>
     <tr>
-      <td> Análisis topológico de datos: Complejo de Morse-Smale discreto </td>
-      <td> Carlos Segovia González </td>
+      <td> Análisis topológico de datos: Complejo de Morse-Smale discreto
+      <a href="{{ '/edicionP24/(Carlos Segovia, Daniel Amaya)/(Carlos Segovia, Daniel Amaya).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a> 
+      <a href="{{ '/edicionP24/(Carlos Segovia, Daniel Amaya)/presentacion (Carlos Segovia, Daniel Amaya).pdf' | prepend: site.baseurl }}"><tt> presentación </tt></a> 
+      </td>
+      <td> <a href="https://www.matem.unam.mx/~csegovia/"> Carlos Segovia González </a> </td>
       <td> Daniel Amaya Zabala </td>
     </tr>
     <tr>
-      <td> Introducción a la teoría de óperads. Un enfoque combinatorio </td>
-      <td> Eric Dolores Cuenca </td>
+      <td> Introducción a la teoría de óperads. Un enfoque combinatorio 
+      <a href="{{ '/edicionP24/(Eric Dolores Cuenca, Jonathan Torres Cardenas)/(Eric Dolores Cuenca, Jonathan Torres Cardenas).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a> 
+      <a href="{{ '/edicionP24/(Eric Dolores Cuenca, Jonathan Torres Cardenas)/presentacion (Eric Dolores Cuenca, Jonathan Torres Cardenas).pdf' | prepend: site.baseurl }}"><tt> presentación </tt></a>
+      </td>
+      <td> <a href="http://rubiel1.github.io/"> Eric Dolores Cuenca </a> </td>
       <td> Jonathan Raymundo Torres Cárdenas </td>
     </tr>
     <tr>
-      <td> Física y nudos: Una exposición sobre los invariantes presentes en la naturaleza </td>
+      <td> Física y nudos: Una exposición sobre los invariantes presentes en la naturaleza 
+      <a href="{{ '/edicionP24/(Isabela Recio, Abel Pacay)/(Isabela Recio, Abel Pacay).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a> 
+      <a href="{{ '/edicionP24/(Isabela Recio, Abel Pacay)/presentacion (Isabela Recio, Abel Pacay).pdf' | prepend: site.baseurl }}"><tt> presentación </tt></a>
+      </td>
       <td> Isabela Recio </td>
       <td> Byron Abel Raul Hernández Pacay </td>
     </tr>
     <tr>
-      <td> Conociendo propiedades de la transformada de Fourier mediante la solución de ejercicios </td>
+      <td> Conociendo propiedades de la transformada de Fourier mediante la solución de ejercicios 
+      <a href="{{ '/edicionP24/(Alfredo Uribe, Sofia Bustos)/(Alfredo Uribe, Sofia Bustos).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a> 
+      <a href="{{ '/edicionP24/(Alfredo Uribe, Sofia Bustos)/presentacion (Alfredo Uribe, Sofia Bustos).pdf' | prepend: site.baseurl }}"><tt> presentación </tt></a>
+      </td>
       <td> José Alfredo Uribe Alcántara </td>
       <td> Sofía Bustos Aponte </td>
     </tr>
     <tr>
-      <td> Variedades suaves: Una generalización de curvas y superficies </td>
+      <td> Variedades suaves: Una generalización de curvas y superficies
+      </td>
       <td> Juan Pablo Ocampo Gamboa </td>
       <td> Fernando Nava Hernández </td>
     </tr>
     <tr>
-      <td> Una introducción a la teoría de valuaciones </td>
-      <td> Luis Manuel Reyes De La Luz </td>
+      <td> Una introducción a la teoría de valuaciones 
+      <a href="{{ '/edicionP24/(Luis Manuel Reyes de la Luz, Nestor Aponte Avila)/(Luis Manuel Reyes de la Luz, Nestor Aponte Avila).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a> 
+      <a href="{{ '/edicionP24/(Luis Manuel Reyes de la Luz, Nestor Aponte Avila)/presentacion (Luis Manuel Reyes de la Luz, Nestor Aponte Avila).pdf' | prepend: site.baseurl }}"><tt> presentación </tt></a>
+      </td>
+      <td> <a href="https://luismundopadico.com/"> Luis Manuel Reyes De La Luz </a> </td>
       <td> Néstor Heli Aponte Ávila </td>
     </tr>
     <tr>
-      <td> Introducción a la teoría de categorías </td>
-      <td> Mateo Torres Ruiz </td>
+      <td> Introducción a la teoría de categorías 
+      <a href="{{ '/edicionP24/(Mateo Torres Ruiz, Jose Ramirez Gomez)/(Mateo Torres Ruiz, Jose Ramirez Gomez).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a> 
+      <a href="{{ '/edicionP24/(Mateo Torres Ruiz, Jose Ramirez Gomez)/presentacion (Mateo Torres Ruiz, Jose Ramirez Gomez).pdf' | prepend: site.baseurl }}"><tt> presentación </tt></a>
+      </td>
+      <td> <a href="http://www0.cs.ucl.ac.uk/people/M.TorresRuiz.html"> Mateo Torres Ruiz </a> </td>
       <td> José Manuel Ramírez Gómez </td>
     </tr>
     <tr>
-      <td> Gráficas llamativas </td>
+      <td> Gráficas llamativas 
+      <a href="{{ '/edicionP24/(OBryan Cardenas Andaur, Kevin Messina Rodriguez)/(OBryan Cardenas Andaur, Kevin Messina Rodriguez).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a> 
+      <a href="{{ '/edicionP24/(OBryan Cardenas Andaur, Kevin Messina Rodriguez)/presentacion (OBryan Cardenas Andaur, Kevin Messina Rodriguez).pdf' | prepend: site.baseurl }}"><tt> presentación </tt></a>
+      </td>
       <td> O'Bryan Cárdenas-Andaur </td>
       <td> Kevin Gerardo Messina Rodríguez </td>
     </tr>
     <tr>
-      <td> Desde la aritmética modular al fascinante mundo de los números perfectos </td>
+      <td> Desde la aritmética modular al fascinante mundo de los números perfectos 
+      <a href="{{ '/edicionP24/(Pedro Fernandez Espinosa, Jesus Chavez Valencia)/(Pedro Fernandez Espinosa, Jesus Chavez Valencia).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a> 
+      <a href="{{ '/edicionP24/(Pedro Fernandez Espinosa, Jesus Chavez Valencia)/presentacion (Pedro Fernandez Espinosa, Jesus Chavez Valencia).pdf' | prepend: site.baseurl }}"><tt> presentación </tt></a>
+      </td>
       <td> Pedro Fernando Fernández Espinosa </td>
       <td> Jesús Chávez Valencia </td>
     </tr>
     <tr>
-      <td> Rudimentos del cálculo tensorial y el estudio de la curvatura en geometría pseudo-Riemmanniana </td>
+      <td> Rudimentos del cálculo tensorial y el estudio de la curvatura en geometría pseudo-Riemmanniana 
+      <a href="{{ '/edicionP24/(Tomas Mejia Gomez, Mateo Preciado Estrada)/(Tomas Mejia Gomez, Mateo Preciado Estrada).pdf' | prepend: site.baseurl }}"><tt>pdf</tt></a> 
+      <a href="{{ '/edicionP24/(Tomas Mejia Gomez, Mateo Preciado Estrada)/presentacion (Tomas Mejia Gomez, Mateo Preciado Estrada).pdf' | prepend: site.baseurl }}"><tt> presentación </tt></a>
+      </td>
       <td> Tomás Mejía Gómez </td>
       <td> Mateo Preciado Estrada </td>
     </tr>
