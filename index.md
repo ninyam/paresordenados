@@ -44,6 +44,16 @@ Entre estás minorías se encuentran:
 
 ### ¿CUÁNDO?
 <div style="text-align: justify">
+<div style="color: #ED0974">
+<p style="font-size: 15px" style="line-height: 110%">
+Estamos implementando algunos cambios en el programa, por lo que no realizaremos la edición de Otoño 2024.
+<br>
+Les invitamos a estar pendientes de este sitio web para conocer las fechas de la edición de Primavera 2025. ¡Agradecemos mucho su interés en nuestro programa!
+</p>
+</div>
+</div>
+
+<!-- <div style="text-align: justify">
 <p>
 La edición Primavera 2024 será desde el <b>26 de febrero de 2024</b> hasta el <b>8 de junio de 2024</b>.
 <br>
@@ -53,7 +63,7 @@ Cierre de aplicaciones: <b>14 de febrero a las 11:59 pm ET</b>.
 <br>
 Para ver el calendario detallado, ir a <b>Edición Primavera 2024</b> en <a href="{{ '/ediciones' | prepend: site.baseurl }}">Ediciones</a>.
 </p>
-</div>
+</div> -->
 
 
 ### ¿CÓMO?
