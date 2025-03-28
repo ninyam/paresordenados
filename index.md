@@ -6,7 +6,6 @@ sitemap:
   priority: 0.9
 ---
 
-### 
 <div style="text-align: justify">
 <p style="font-size: 15px" style="line-height: 110%">
 	La convocatoria para la <strong>Edición 2025</strong> abrirá el <strong>7 de abril</strong>.</p>
